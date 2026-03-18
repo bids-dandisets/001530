@@ -1,0 +1,85 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "context": {
+        "Description": "Boolean for sound"
+    },
+    "auditory_stim_frequency": {
+        "Description": "Sound frequency in Hz"
+    },
+    "auditory_stim_amplitude": {
+        "Description": "Sound amplitude in dB"
+    },
+    "auditory_stim_time": {
+        "Description": "Sound start time in s"
+    },
+    "auditory_stim_duration": {
+        "Description": "Sound duration in s"
+    },
+    "whisker_stim": {
+        "Description": "Boolean for whisker stim"
+    },
+    "whisker_stim_amplitude": {
+        "Description": "Whisker stim amplitude in V"
+    },
+    "whisker_stim_time": {
+        "Description": "Whisker stim start time in s"
+    },
+    "whisker_stim_duration": {
+        "Description": "Whisker stim duration in s"
+    },
+    "opto_stim": {
+        "Description": "Boolean for optogenetics"
+    },
+    "opto_stim_frequency": {
+        "Description": "Pulse train frequency in Hz"
+    },
+    "opto_stim_amplitude": {
+        "Description": "Laser power in mW"
+    },
+    "opto_stim_start_time": {
+        "Description": "Pulse duration in s"
+    },
+    "opto_stim_stop_time": {
+        "Description": "Individual pulse timestamps"
+    },
+    "opto_window": {
+        "Description": "laser light activation time related to trial time line "
+    },
+    "opto_duration": {
+        "Description": "laser light duration"
+    },
+    "opto_area": {
+        "Description": "laser light duration"
+    },
+    "lick_flag": {
+        "Description": "Boolean for licking"
+    },
+    "lick_time": {
+        "Description": "First lick time in s"
+    },
+    "early_lick": {
+        "Description": "Boolean for completed / aborted trial"
+    },
+    "trial_type": {
+        "Description": "Trial type 1: gotone_whisker 2: gotone_nowhisker 3: nogotone_whisker 4: nogotone_nowhisker 5: notone_whisker"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "trial data and properties"
+    }
+}

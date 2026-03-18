@@ -1,0 +1,531 @@
+onset	duration	nwb_table	context	auditory_stim_frequency	auditory_stim_amplitude	auditory_stim_time	auditory_stim_duration	whisker_stim	whisker_stim_amplitude	whisker_stim_time	whisker_stim_duration	opto_stim	opto_stim_frequency	opto_stim_amplitude	opto_stim_start_time	opto_stim_stop_time	lick_flag	lick_time	early_lick	trial_type
+31.001962	2.0	trials	nogo_tone	4000.0	80.0	31.001962	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+56.802308	2.0	trials	no_tone					True	5.0	57.804919	0.01	False	0.0	0.0	0.0	0.0	True	58.666307999999994	False	5.0
+67.740424	2.0	trials	go_tone	8000.0	80.0	67.740424	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+78.940372	2.0	trials	go_tone	8000.0	80.0	78.940372	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+90.070487	2.0	trials	go_tone	8000.0	80.0	90.070487	0.1	True	5.0	91.073083	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+101.433137	2.0	trials	go_tone	8000.0	80.0	101.433137	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+112.020852	2.0	trials	go_tone	8000.0	80.0	112.020852	0.1	True	5.0	113.023512	0.01	False	0.0	0.0	0.0	0.0	True	113.28385200000001	False	1.0
+123.581986	2.0	trials	nogo_tone	4000.0	80.0	123.581986	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+134.702301	2.0	trials	go_tone	8000.0	80.0	134.702301	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+146.020868	2.0	trials	nogo_tone	4000.0	80.0	146.020868	0.1	True	5.0	147.023478	0.01	False	0.0	0.0	0.0	0.0	True	147.241868	False	3.0
+156.700815	2.0	trials	no_tone					True	5.0	157.703342	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+167.482145	2.0	trials	go_tone	8000.0	80.0	167.482145	0.1	True	5.0	168.484789	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+178.740644	2.0	trials	no_tone					True	5.0	179.743255	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+189.952794	2.0	trials	nogo_tone	4000.0	80.0	189.952794	0.1	True	6.0	190.955071	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+200.732609	2.0	trials	go_tone	8000.0	80.0	200.732609	0.1	True	6.0	201.734969	0.01	False	0.0	0.0	0.0	0.0	True	202.498609	False	1.0
+211.821073	2.0	trials	nogo_tone	4000.0	80.0	211.821073	0.1	True	6.0	212.823384	0.01	False	0.0	0.0	0.0	0.0	True	213.045073	False	3.0
+223.312974	2.0	trials	go_tone	8000.0	80.0	223.312974	0.1	True	6.0	224.315269	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+234.471339	2.0	trials	nogo_tone	4000.0	80.0	234.471339	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+245.402937	2.0	trials	nogo_tone	4000.0	80.0	245.402937	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+256.17195100000004	2.0	trials	no_tone					True	6.0	257.174296	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+267.723437	2.0	trials	no_tone					True	6.0	268.725713	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+278.491766	2.0	trials	nogo_tone	4000.0	80.0	278.491766	0.1	True	6.0	279.494061	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+289.792066	2.0	trials	nogo_tone	4000.0	80.0	289.792066	0.1	True	6.0	290.794427	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+300.652365	2.0	trials	go_tone	8000.0	80.0	300.652365	0.1	True	6.0	301.654642	0.01	False	0.0	0.0	0.0	0.0	True	302.377365	False	1.0
+312.172182	2.0	trials	nogo_tone	4000.0	80.0	312.172182	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+323.15903	2.0	trials	nogo_tone	4000.0	80.0	323.15903	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+334.013794	2.0	trials	no_tone					True	6.0	335.016154	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+354.466151	2.0	trials	go_tone	8000.0	80.0	354.466151	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+365.583984	2.0	trials	nogo_tone	4000.0	80.0	365.583984	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	364.242984	True	3.0
+375.744212	2.0	trials	nogo_tone	4000.0	80.0	375.744212	0.1	True	6.0	376.746489	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+386.342391	2.0	trials	go_tone	8000.0	80.0	386.342391	0.1	False				False	0.0	0.0	0.0	0.0	True	387.510391	False	2.0
+397.114305	2.0	trials	nogo_tone	4000.0	80.0	397.114305	0.1	True	6.0	398.11665	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+408.59429	2.0	trials	go_tone	8000.0	80.0	408.59429	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	409.63429	True	1.0
+421.142344	2.0	trials	go_tone	8000.0	80.0	421.142344	0.1	True	6.0	422.144639	0.01	False	0.0	0.0	0.0	0.0	True	422.22934399999997	False	1.0
+432.444844	2.0	trials	no_tone					True	6.0	433.447138	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+443.784727	2.0	trials	nogo_tone	4000.0	80.0	443.784727	0.1	True	6.0	444.787054	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+454.714843	2.0	trials	nogo_tone	4000.0	80.0	454.714843	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+465.313621	2.0	trials	no_tone					True	6.0	466.315917	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+476.224986	2.0	trials	nogo_tone	4000.0	80.0	476.224986	0.1	True	6.0	477.227331	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+487.513585	2.0	trials	no_tone					True	6.0	488.51588	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+498.495001	2.0	trials	go_tone	8000.0	80.0	498.495001	0.1	False				False	0.0	0.0	0.0	0.0	True	499.374001	True	2.0
+510.875323	2.0	trials	go_tone	8000.0	80.0	510.875323	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+522.133688	2.0	trials	nogo_tone	4000.0	80.0	522.133688	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+533.543888	2.0	trials	no_tone					True	6.0	534.546184	0.01	False	0.0	0.0	0.0	0.0	True	534.802888	False	5.0
+544.924039	2.0	trials	nogo_tone	4000.0	80.0	544.924039	0.1	True	6.0	545.9264	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+556.075737	2.0	trials	nogo_tone	4000.0	80.0	556.075737	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+567.435803	2.0	trials	no_tone					True	6.0	568.4381	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+578.193902	2.0	trials	go_tone	8000.0	80.0	578.193902	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	579.230902	True	1.0
+590.735824	2.0	trials	go_tone	8000.0	80.0	590.735824	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	591.562824	True	1.0
+603.064727	2.0	trials	go_tone	8000.0	80.0	603.064727	0.1	True	6.0	604.067073	0.01	False	0.0	0.0	0.0	0.0	True	604.3067269999999	False	1.0
+614.486328	2.0	trials	no_tone					True	6.0	615.488622	0.01	False	0.0	0.0	0.0	0.0	True	615.681328	False	5.0
+625.656328	2.0	trials	go_tone	8000.0	80.0	625.656328	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+636.466757	2.0	trials	nogo_tone	4000.0	80.0	636.466757	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+647.566541	2.0	trials	go_tone	8000.0	80.0	647.566541	0.1	True	6.0	648.568852	0.01	False	0.0	0.0	0.0	0.0	True	648.741541	False	1.0
+670.044755	2.0	trials	go_tone	8000.0	80.0	670.044755	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+681.19677	2.0	trials	go_tone	8000.0	80.0	681.19677	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+692.666907	2.0	trials	go_tone	8000.0	80.0	692.666907	0.1	True	6.0	693.669233	0.01	False	0.0	0.0	0.0	0.0	True	693.758907	False	1.0
+703.306985	2.0	trials	go_tone	8000.0	80.0	703.306985	0.1	True	6.0	704.30928	0.01	False	0.0	0.0	0.0	0.0	True	704.5449850000001	False	1.0
+714.22575	2.0	trials	nogo_tone	4000.0	80.0	714.22575	0.1	True	6.0	715.228094	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+725.355949	2.0	trials	go_tone	8000.0	80.0	725.355949	0.1	False				False	0.0	0.0	0.0	0.0	True	726.005949	True	2.0
+737.515952	2.0	trials	go_tone	8000.0	80.0	737.515952	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+748.997186	2.0	trials	nogo_tone	4000.0	80.0	748.997186	0.1	True	6.0	749.999546	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+760.297503	2.0	trials	go_tone	8000.0	80.0	760.297503	0.1	True	6.0	761.299798	0.01	False	0.0	0.0	0.0	0.0	True	761.520503	False	1.0
+770.9966	2.0	trials	go_tone	8000.0	80.0	770.9966	0.1	False				False	0.0	0.0	0.0	0.0	True	772.1275999999999	False	2.0
+781.837615	2.0	trials	nogo_tone	4000.0	80.0	781.837615	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+793.225981	2.0	trials	nogo_tone	4000.0	80.0	793.225981	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+804.277829	2.0	trials	go_tone	8000.0	80.0	804.277829	0.1	True	6.0	805.280175	0.01	False	0.0	0.0	0.0	0.0	True	805.696829	False	1.0
+815.087844	2.0	trials	nogo_tone	4000.0	80.0	815.087844	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+826.387793	2.0	trials	go_tone	8000.0	80.0	826.387793	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+837.938195	2.0	trials	no_tone					True	6.0	838.940505	0.01	False	0.0	0.0	0.0	0.0	True	839.129195	False	5.0
+849.196294	2.0	trials	nogo_tone	4000.0	80.0	849.196294	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+860.106408	2.0	trials	nogo_tone	4000.0	80.0	860.106408	0.1	True	6.0	861.108753	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+871.477524	2.0	trials	nogo_tone	4000.0	80.0	871.477524	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+882.381773	2.0	trials	go_tone	8000.0	80.0	882.381773	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	881.8107729999999	True	1.0
+893.316637	2.0	trials	go_tone	8000.0	80.0	893.316637	0.1	True	6.0	894.319033	0.01	False	0.0	0.0	0.0	0.0	True	894.532637	False	1.0
+904.348502	2.0	trials	nogo_tone	4000.0	80.0	904.348502	0.1	True	6.0	905.350798	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+915.088701	2.0	trials	go_tone	8000.0	80.0	915.088701	0.1	True	6.0	916.090995	0.01	False	0.0	0.0	0.0	0.0	True	916.239701	False	1.0
+925.758865	2.0	trials	nogo_tone	4000.0	80.0	925.758865	0.1	True	6.0	926.761275	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+937.248714	2.0	trials	go_tone	8000.0	80.0	937.248714	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+948.318879	2.0	trials	go_tone	8000.0	80.0	948.318879	0.1	True	6.0	949.321224	0.01	False	0.0	0.0	0.0	0.0	True	949.7498790000001	False	1.0
+959.207444	2.0	trials	nogo_tone	4000.0	80.0	959.207444	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+979.662668	2.0	trials	nogo_tone	4000.0	80.0	979.662668	0.1	True	6.0	980.665045	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+990.529347	2.0	trials	go_tone	8000.0	80.0	990.529347	0.1	False				False	0.0	0.0	0.0	0.0	True	991.920347	False	2.0
+1001.138062	2.0	trials	nogo_tone	4000.0	80.0	1001.138062	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1317.450587	2.0	trials	no_tone					True	6.0	1318.452931	0.01	False	0.0	0.0	0.0	0.0	True	1318.7065870000001	False	5.0
+1328.242034	2.0	trials	go_tone	8000.0	80.0	1328.242034	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1339.660936	2.0	trials	go_tone	8000.0	80.0	1339.660936	0.1	True	6.0	1340.663346	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+1350.370465	2.0	trials	go_tone	8000.0	80.0	1350.370465	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1361.301463	2.0	trials	nogo_tone	4000.0	80.0	1361.301463	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1372.592814	2.0	trials	no_tone					True	6.0	1373.595124	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1383.722713	2.0	trials	nogo_tone	4000.0	80.0	1383.722713	0.1	True	6.0	1384.724989	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1394.310941	2.0	trials	go_tone	8000.0	80.0	1394.310941	0.1	True	6.0	1395.313337	0.01	False	0.0	0.0	0.0	0.0	True	1396.0549409999999	False	1.0
+1405.382806	2.0	trials	no_tone					True	6.0	1406.385152	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1416.352872	2.0	trials	go_tone	8000.0	80.0	1416.352872	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1427.27607	2.0	trials	no_tone					True	6.0	1428.278415	0.01	False	0.0	0.0	0.0	0.0	True	1428.50607	False	5.0
+1438.755971	2.0	trials	no_tone					True	6.0	1439.758281	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1452.193196	2.0	trials	nogo_tone	4000.0	80.0	1452.193196	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	1452.0331959999999	True	3.0
+1463.542096	2.0	trials	nogo_tone	4000.0	80.0	1463.542096	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	1464.172096	True	3.0
+1475.681617	2.0	trials	nogo_tone	4000.0	80.0	1475.681617	0.1	True	6.0	1476.683944	0.01	False	0.0	0.0	0.0	0.0	True	1476.939617	False	3.0
+1486.523546	2.0	trials	no_tone					True	6.0	1487.525808	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1497.933598	2.0	trials	go_tone	8000.0	80.0	1497.933598	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	1498.857598	True	1.0
+1510.362485	2.0	trials	go_tone	8000.0	80.0	1510.362485	0.1	True	6.0	1511.36483	0.01	False	0.0	0.0	0.0	0.0	True	1511.5794850000002	False	1.0
+1521.4826	2.0	trials	no_tone					True	6.0	1522.484896	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1532.813935	2.0	trials	nogo_tone	4000.0	80.0	1532.813935	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1543.612599	2.0	trials	no_tone					True	6.0	1544.61491	0.01	False	0.0	0.0	0.0	0.0	True	1544.837599	False	5.0
+1555.102299	2.0	trials	nogo_tone	4000.0	80.0	1555.102299	0.1	True	6.0	1556.104611	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1565.934164	2.0	trials	nogo_tone	4000.0	80.0	1565.934164	0.1	True	6.0	1566.936474	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1576.982279	2.0	trials	nogo_tone	4000.0	80.0	1576.982279	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1599.93248	2.0	trials	go_tone	8000.0	80.0	1599.93248	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1611.33453	2.0	trials	go_tone	8000.0	80.0	1611.33453	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1622.264744	2.0	trials	go_tone	8000.0	80.0	1622.264744	0.1	True	6.0	1623.26704	0.01	False	0.0	0.0	0.0	0.0	True	1623.6267440000001	False	1.0
+1632.993358	2.0	trials	go_tone	8000.0	80.0	1632.993358	0.1	True	6.0	1633.995668	0.01	False	0.0	0.0	0.0	0.0	True	1634.282358	False	1.0
+1644.184008	2.0	trials	nogo_tone	4000.0	80.0	1644.184008	0.1	True	6.0	1645.186303	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1655.204923	2.0	trials	nogo_tone	4000.0	80.0	1655.204923	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1666.233688	2.0	trials	go_tone	8000.0	80.0	1666.233688	0.1	True	6.0	1667.236082	0.01	False	0.0	0.0	0.0	0.0	True	1667.670688	False	1.0
+1677.523936	2.0	trials	go_tone	8000.0	80.0	1677.523936	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1689.014989	2.0	trials	nogo_tone	4000.0	80.0	1689.014989	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1699.904936	2.0	trials	nogo_tone	4000.0	80.0	1699.904936	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1710.865601	2.0	trials	no_tone					True	6.0	1711.867911	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1722.403719	2.0	trials	nogo_tone	4000.0	80.0	1722.403719	0.1	True	6.0	1723.406063	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1733.549817	2.0	trials	no_tone					True	6.0	1734.552112	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1746.20584	2.0	trials	nogo_tone	4000.0	80.0	1746.20584	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	1746.29384	True	3.0
+1757.794091	2.0	trials	nogo_tone	4000.0	80.0	1757.794091	0.1	True	6.0	1758.796402	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1768.458121	2.0	trials	go_tone	8000.0	80.0	1768.458121	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1779.934605	2.0	trials	go_tone	8000.0	80.0	1779.934605	0.1	True	6.0	1780.936916	0.01	False	0.0	0.0	0.0	0.0	True	1781.365605	False	1.0
+1790.494433	2.0	trials	nogo_tone	4000.0	80.0	1790.494433	0.1	True	6.0	1791.496729	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1801.126098	2.0	trials	go_tone	8000.0	80.0	1801.126098	0.1	True	6.0	1802.128444	0.01	False	0.0	0.0	0.0	0.0	True	1802.557098	False	1.0
+1838.856981	2.0	trials	go_tone	8000.0	80.0	1838.856981	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1849.914746	2.0	trials	no_tone					True	6.0	1850.917107	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1860.649544	2.0	trials	go_tone	8000.0	80.0	1860.649544	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1871.266923	2.0	trials	nogo_tone	4000.0	80.0	1871.266923	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1882.255388	2.0	trials	nogo_tone	4000.0	80.0	1882.255388	0.1	True	6.0	1883.257734	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1893.406987	2.0	trials	no_tone					True	6.0	1894.409249	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1913.814178	2.0	trials	no_tone					True	6.0	1914.816489	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+1924.611842	2.0	trials	nogo_tone	4000.0	80.0	1924.611842	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1935.61724	2.0	trials	no_tone					True	6.0	1936.619567	0.01	False	0.0	0.0	0.0	0.0	True	1936.84124	False	5.0
+1946.665905	2.0	trials	go_tone	8000.0	80.0	1946.665905	0.1	False				False	0.0	0.0	0.0	0.0	True	1947.655905	True	2.0
+1959.157593	2.0	trials	go_tone	8000.0	80.0	1959.157593	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+1970.113808	2.0	trials	nogo_tone	4000.0	80.0	1970.113808	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+1980.826823	2.0	trials	nogo_tone	4000.0	80.0	1980.826823	0.1	True	6.0	1981.829132	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+1991.806471	2.0	trials	nogo_tone	4000.0	80.0	1991.806471	0.1	True	6.0	1992.808798	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2002.536	2.0	trials	no_tone					True	6.0	2003.538296	0.01	False	0.0	0.0	0.0	0.0	True	2003.769	False	5.0
+2013.867901	2.0	trials	go_tone	8000.0	80.0	2013.867901	0.1	False				False	0.0	0.0	0.0	0.0	True	2015.2889010000001	False	2.0
+2024.947099	2.0	trials	nogo_tone	4000.0	80.0	2024.947099	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2036.406866	2.0	trials	go_tone	8000.0	80.0	2036.406866	0.1	True	6.0	2037.409161	0.01	False	0.0	0.0	0.0	0.0	True	2037.574866	False	1.0
+2047.356231	1.9999999999997726	trials	nogo_tone	4000.0	80.0	2047.356231	0.1	True	6.0	2048.358626	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2058.848366	2.0	trials	go_tone	8000.0	80.0	2058.848366	0.1	True	6.0	2059.850675	0.01	False	0.0	0.0	0.0	0.0	True	2060.0453660000003	False	1.0
+2069.638331	2.0	trials	go_tone	8000.0	80.0	2069.638331	0.1	False				False	0.0	0.0	0.0	0.0	True	2070.694331	False	2.0
+2081.08788	2.0	trials	nogo_tone	4000.0	80.0	2081.08788	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2091.838594	2.0	trials	go_tone	8000.0	80.0	2091.838594	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2103.118709	2.0	trials	go_tone	8000.0	80.0	2103.118709	0.1	True	6.0	2104.121006	0.01	False	0.0	0.0	0.0	0.0	True	2104.306709	False	1.0
+2114.257259	2.0	trials	nogo_tone	4000.0	80.0	2114.257259	0.1	True	6.0	2115.259554	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2124.848923	2.0	trials	nogo_tone	4000.0	80.0	2124.848923	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2135.528802	2.0	trials	nogo_tone	4000.0	80.0	2135.528802	0.1	True	6.0	2136.531097	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2146.189116	2.0	trials	go_tone	8000.0	80.0	2146.189116	0.1	True	6.0	2147.191412	0.01	False	0.0	0.0	0.0	0.0	True	2147.524116	False	1.0
+2157.259414	2.0	trials	go_tone	8000.0	80.0	2157.259414	0.1	True	6.0	2158.26176	0.01	False	0.0	0.0	0.0	0.0	True	2158.5484140000003	False	1.0
+2168.571065	2.0	trials	no_tone					True	6.0	2169.573425	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2179.789464	2.0	trials	go_tone	8000.0	80.0	2179.789464	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2190.999481	2.0	trials	no_tone					True	6.0	2192.00179	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2202.109529	2.0	trials	go_tone	8000.0	80.0	2202.109529	0.1	True	6.0	2203.11179	0.01	False	0.0	0.0	0.0	0.0	True	2203.486529	False	1.0
+2223.955609	2.0	trials	go_tone	8000.0	80.0	2223.955609	0.1	False				False	0.0	0.0	0.0	0.0	True	2225.066609	False	2.0
+2235.249808	2.0	trials	nogo_tone	4000.0	80.0	2235.249808	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2246.689958	2.0	trials	nogo_tone	4000.0	80.0	2246.689958	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2257.869957	2.0	trials	nogo_tone	4000.0	80.0	2257.869957	0.1	True	6.0	2258.872235	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2269.049074	2.0	trials	nogo_tone	4000.0	80.0	2269.049074	0.1	True	6.0	2270.051384	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2279.830188	2.0	trials	go_tone	8000.0	80.0	2279.830188	0.1	True	6.0	2280.832548	0.01	False	0.0	0.0	0.0	0.0	True	2281.256188	False	1.0
+2291.349037	2.0	trials	nogo_tone	4000.0	80.0	2291.349037	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2302.300403	2.0	trials	nogo_tone	4000.0	80.0	2302.300403	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2313.230417	2.0	trials	go_tone	8000.0	80.0	2313.230417	0.1	True	6.0	2314.232713	0.01	False	0.0	0.0	0.0	0.0	True	2314.488417	False	1.0
+2324.109315	2.0	trials	go_tone	8000.0	80.0	2324.109315	0.1	True	6.0	2325.111577	0.01	False	0.0	0.0	0.0	0.0	True	2325.405315	False	1.0
+2335.14038	2.0	trials	no_tone					True	6.0	2336.142676	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2345.719045	2.0	trials	no_tone					True	6.0	2346.721405	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2357.163944	2.0	trials	no_tone					True	6.0	2358.166239	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2368.643595	2.0	trials	go_tone	8000.0	80.0	2368.643595	0.1	False				False	0.0	0.0	0.0	0.0	True	2369.581595	True	2.0
+2381.091083	2.0	trials	go_tone	8000.0	80.0	2381.091083	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2392.581117	2.0	trials	nogo_tone	4000.0	80.0	2392.581117	0.1	True	6.0	2393.583445	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2403.183697	2.0	trials	nogo_tone	4000.0	80.0	2403.183697	0.1	True	6.0	2404.186008	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2414.389813	2.0	trials	nogo_tone	4000.0	80.0	2414.389813	0.1	True	6.0	2415.392107	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2427.601421	2.0	trials	go_tone	8000.0	80.0	2427.601421	0.1	True	6.0	2428.603732	0.01	False	0.0	0.0	0.0	0.0	True	2428.780421	False	1.0
+2438.521502	2.0	trials	no_tone					True	6.0	2439.523796	0.01	False	0.0	0.0	0.0	0.0	True	2439.7525020000003	False	5.0
+2449.350149	2.0	trials	nogo_tone	4000.0	80.0	2449.350149	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2460.770151	2.0	trials	go_tone	8000.0	80.0	2460.770151	0.1	True	6.0	2461.772461	0.01	False	0.0	0.0	0.0	0.0	True	2462.019151	False	1.0
+2472.040199	2.0	trials	nogo_tone	4000.0	80.0	2472.040199	0.1	True	6.0	2473.042527	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2482.911914	2.0	trials	nogo_tone	4000.0	80.0	2482.911914	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2493.602129	2.0	trials	go_tone	8000.0	80.0	2493.602129	0.1	True	6.0	2494.604439	0.01	False	0.0	0.0	0.0	0.0	True	2494.7531289999997	False	1.0
+2504.722078	2.0	trials	go_tone	8000.0	80.0	2504.722078	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2515.661992	2.0	trials	no_tone					True	6.0	2516.664319	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2536.092898	2.0	trials	go_tone	8000.0	80.0	2536.092898	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2547.321913	2.0	trials	nogo_tone	4000.0	80.0	2547.321913	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2558.311262	2.0	trials	go_tone	8000.0	80.0	2558.311262	0.1	False				False	0.0	0.0	0.0	0.0	True	2559.4412620000003	False	2.0
+2568.892826	2.0	trials	go_tone	8000.0	80.0	2568.892826	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2580.092692	2.0	trials	go_tone	8000.0	80.0	2580.092692	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2591.502791	2.0	trials	no_tone					True	6.0	2592.505102	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2602.162954	2.0	trials	nogo_tone	4000.0	80.0	2602.162954	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2613.01762	2.0	trials	go_tone	8000.0	80.0	2613.01762	0.1	True	6.0	2614.01993	0.01	False	0.0	0.0	0.0	0.0	True	2614.24062	False	1.0
+2623.843068	2.0	trials	go_tone	8000.0	80.0	2623.843068	0.1	True	6.0	2624.845344	0.01	False	0.0	0.0	0.0	0.0	True	2625.100068	False	1.0
+2635.101683	2.0	trials	no_tone					True	6.0	2636.103978	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2646.31125	2.0	trials	go_tone	8000.0	80.0	2646.31125	0.1	True	6.0	2647.313644	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+2657.233114	2.0	trials	nogo_tone	4000.0	80.0	2657.233114	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2668.461663	2.0	trials	nogo_tone	4000.0	80.0	2668.461663	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2679.973464	2.0	trials	nogo_tone	4000.0	80.0	2679.973464	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2690.833612	2.0	trials	no_tone					True	6.0	2691.83589	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2701.843728	2.0	trials	no_tone					True	6.0	2702.846037	0.01	False	0.0	0.0	0.0	0.0	True	2703.0777279999998	False	5.0
+2713.383794	2.0	trials	nogo_tone	4000.0	80.0	2713.383794	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2724.092442	2.0	trials	no_tone					True	6.0	2725.094837	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2735.104007	2.0	trials	nogo_tone	4000.0	80.0	2735.104007	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2746.352272	2.0	trials	no_tone					True	6.0	2747.354618	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2757.48397	2.0	trials	go_tone	8000.0	80.0	2757.48397	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2768.514287	2.0	trials	go_tone	8000.0	80.0	2768.514287	0.1	True	6.0	2769.516582	0.01	False	0.0	0.0	0.0	0.0	True	2769.733287	False	1.0
+2780.034371	2.0	trials	nogo_tone	4000.0	80.0	2780.034371	0.1	True	6.0	2781.036698	0.01	False	0.0	0.0	0.0	0.0	True	2781.254371	False	3.0
+2790.833135	2.0	trials	nogo_tone	4000.0	80.0	2790.833135	0.1	True	6.0	2791.835446	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2802.214602	2.0	trials	go_tone	8000.0	80.0	2802.214602	0.1	True	6.0	2803.216997	0.01	False	0.0	0.0	0.0	0.0	True	2803.402602	False	1.0
+2813.573386	2.0	trials	nogo_tone	4000.0	80.0	2813.573386	0.1	True	6.0	2814.575697	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2824.977602	2.0	trials	go_tone	8000.0	80.0	2824.977602	0.1	False				False	0.0	0.0	0.0	0.0	True	2826.002602	True	2.0
+2846.245079	2.0	trials	go_tone	8000.0	80.0	2846.245079	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2856.915193	2.0	trials	no_tone					True	6.0	2857.917519	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2867.945208	2.0	trials	nogo_tone	4000.0	80.0	2867.945208	0.1	True	6.0	2868.947518	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2879.303858	2.0	trials	go_tone	8000.0	80.0	2879.303858	0.1	False				False	0.0	0.0	0.0	0.0	True	2880.6008580000002	False	2.0
+2890.533973	2.0	trials	go_tone	8000.0	80.0	2890.533973	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2901.105436	2.0	trials	go_tone	8000.0	80.0	2901.105436	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2912.474186	2.0	trials	nogo_tone	4000.0	80.0	2912.474186	0.1	True	6.0	2913.476582	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2923.985637	2.0	trials	nogo_tone	4000.0	80.0	2923.985637	0.1	True	6.0	2924.987948	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2935.165837	2.0	trials	go_tone	8000.0	80.0	2935.165837	0.1	True	6.0	2936.168181	0.01	False	0.0	0.0	0.0	0.0	True	2936.361837	False	1.0
+2945.7843	2.0	trials	go_tone	8000.0	80.0	2945.7843	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+2956.992717	2.0	trials	nogo_tone	4000.0	80.0	2956.992717	0.1	True	6.0	2957.995027	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+2968.104715	2.0	trials	nogo_tone	4000.0	80.0	2968.104715	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+2979.506331	2.0	trials	no_tone					True	6.0	2980.508626	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+2990.726216	2.0	trials	no_tone					True	6.0	2991.728542	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3001.324744	2.0	trials	go_tone	8000.0	80.0	3001.324744	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3012.596295	2.0	trials	nogo_tone	4000.0	80.0	3012.596295	0.1	True	6.0	3013.598604	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3023.736543	2.0	trials	nogo_tone	4000.0	80.0	3023.736543	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3035.26666	2.0	trials	go_tone	8000.0	80.0	3035.26666	0.1	False				False	0.0	0.0	0.0	0.0	True	3036.3156599999998	True	2.0
+3047.825333	2.0	trials	go_tone	8000.0	80.0	3047.825333	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3058.966498	2.0	trials	nogo_tone	4000.0	80.0	3058.966498	0.1	True	6.0	3059.968808	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3069.985547	2.0	trials	nogo_tone	4000.0	80.0	3069.985547	0.1	True	6.0	3070.987874	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3080.556876	2.0	trials	nogo_tone	4000.0	80.0	3080.556876	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3091.796977	2.0	trials	go_tone	8000.0	80.0	3091.796977	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3103.097225	2.0	trials	go_tone	8000.0	80.0	3103.097225	0.1	True	6.0	3104.099488	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+3113.79579	2.0	trials	go_tone	8000.0	80.0	3113.79579	0.1	True	6.0	3114.798066	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+3125.165406	2.0	trials	go_tone	8000.0	80.0	3125.165406	0.1	True	6.0	3126.167751	0.01	False	0.0	0.0	0.0	0.0	True	3126.4184060000002	False	1.0
+3136.415854	2.0	trials	nogo_tone	4000.0	80.0	3136.415854	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3156.852396	2.0	trials	no_tone					True	6.0	3157.854706	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3167.60761	2.0	trials	go_tone	8000.0	80.0	3167.60761	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3178.617558	2.0	trials	nogo_tone	4000.0	80.0	3178.617558	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3190.067875	2.0	trials	nogo_tone	4000.0	80.0	3190.067875	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3201.28784	2.0	trials	go_tone	8000.0	80.0	3201.28784	0.1	True	6.0	3202.290236	0.01	False	0.0	0.0	0.0	0.0	True	3202.37284	False	1.0
+3212.406589	2.0	trials	go_tone	8000.0	80.0	3212.406589	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3223.787641	2.0	trials	go_tone	8000.0	80.0	3223.787641	0.1	True	6.0	3224.790001	0.01	False	0.0	0.0	0.0	0.0	True	3224.974641	False	1.0
+3235.208207	2.0	trials	go_tone	8000.0	80.0	3235.208207	0.1	True	6.0	3236.210551	0.01	False	0.0	0.0	0.0	0.0	True	3236.3762070000002	False	1.0
+3246.177755	2.0	trials	no_tone					True	6.0	3247.180049	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3256.776368	2.0	trials	no_tone					True	6.0	3257.77873	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3268.018285	2.0	trials	nogo_tone	4000.0	80.0	3268.018285	0.1	True	6.0	3269.020595	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3279.168583	2.0	trials	no_tone					True	6.0	3280.170878	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3289.818797	2.0	trials	nogo_tone	4000.0	80.0	3289.818797	0.1	True	6.0	3290.821157	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3329.970807	2.0	trials	go_tone	8000.0	80.0	3329.970807	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3341.137823	2.0	trials	no_tone					True	6.0	3342.140118	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3351.74917	2.0	trials	go_tone	8000.0	80.0	3351.74917	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3363.047935	2.0	trials	no_tone					True	6.0	3364.050246	0.01	False	0.0	0.0	0.0	0.0	True	3364.397935	False	5.0
+3373.84935	2.0	trials	no_tone					True	6.0	3374.851761	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3384.44938	2.0	trials	nogo_tone	4000.0	80.0	3384.44938	0.1	True	6.0	3385.451674	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3395.618163	2.0	trials	no_tone					True	6.0	3396.620524	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3406.997679	2.0	trials	go_tone	8000.0	80.0	3406.997679	0.1	True	6.0	3408.000039	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+3418.489929	2.0	trials	no_tone					True	6.0	3419.492225	0.01	False	0.0	0.0	0.0	0.0	True	3419.6299289999997	False	5.0
+3429.94978	2.0	trials	nogo_tone	4000.0	80.0	3429.94978	0.1	True	6.0	3430.952141	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3441.49993	2.0	trials	nogo_tone	4000.0	80.0	3441.49993	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3466.994743	2.0	trials	nogo_tone	4000.0	80.0	3466.994743	0.1	True	6.0	3467.997054	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3477.928541	2.0	trials	nogo_tone	4000.0	80.0	3477.928541	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3488.580355	2.0	trials	go_tone	8000.0	80.0	3488.580355	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3499.668821	2.0	trials	go_tone	8000.0	80.0	3499.668821	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3510.790536	2.0	trials	go_tone	8000.0	80.0	3510.790536	0.1	True	6.0	3511.792896	0.01	False	0.0	0.0	0.0	0.0	True	3512.042536	False	1.0
+3521.860535	2.0	trials	no_tone					True	6.0	3522.862811	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3532.580699	2.0	trials	nogo_tone	4000.0	80.0	3532.580699	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3543.189528	2.0	trials	go_tone	8000.0	80.0	3543.189528	0.1	False				False	0.0	0.0	0.0	0.0	True	3544.260528	False	2.0
+3554.459243	2.0	trials	go_tone	8000.0	80.0	3554.459243	0.1	True	6.0	3555.461589	0.01	False	0.0	0.0	0.0	0.0	True	3555.6822429999997	False	1.0
+3565.033691	2.0	trials	go_tone	8000.0	80.0	3565.033691	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	3565.919691	True	1.0
+3577.421195	2.0	trials	go_tone	8000.0	80.0	3577.421195	0.1	True	6.0	3578.42354	0.01	False	0.0	0.0	0.0	0.0	True	3578.899195	False	1.0
+3588.950979	2.0	trials	nogo_tone	4000.0	80.0	3588.950979	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3600.251196	2.0	trials	go_tone	8000.0	80.0	3600.251196	0.1	True	6.0	3601.25354	0.01	False	0.0	0.0	0.0	0.0	True	3601.721196	False	1.0
+3611.161361	2.0	trials	go_tone	8000.0	80.0	3611.161361	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3621.961458	2.0	trials	nogo_tone	4000.0	80.0	3621.961458	0.1	True	6.0	3622.963735	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3633.411574	2.0	trials	nogo_tone	4000.0	80.0	3633.411574	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3644.751526	2.0	trials	nogo_tone	4000.0	80.0	3644.751526	0.1	True	6.0	3645.753836	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3656.082175	2.0	trials	go_tone	8000.0	80.0	3656.082175	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3667.22179	2.0	trials	nogo_tone	4000.0	80.0	3667.22179	0.1	True	6.0	3668.224085	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3678.022504	2.0	trials	go_tone	8000.0	80.0	3678.022504	0.1	True	6.0	3679.024814	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+3689.052054	2.0	trials	nogo_tone	4000.0	80.0	3689.052054	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3699.800568	2.0	trials	go_tone	8000.0	80.0	3699.800568	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3710.860683	2.0	trials	go_tone	8000.0	80.0	3710.860683	0.1	True	6.0	3711.863043	0.01	False	0.0	0.0	0.0	0.0	True	3712.047683	False	1.0
+3722.3625	2.0	trials	go_tone	8000.0	80.0	3722.3625	0.1	True	6.0	3723.364794	0.01	False	0.0	0.0	0.0	0.0	True	3723.8285	False	1.0
+3733.673083	2.0	trials	no_tone					True	6.0	3734.675444	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3744.392512	2.0	trials	no_tone					True	6.0	3745.394808	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3755.870713	2.0	trials	nogo_tone	4000.0	80.0	3755.870713	0.1	True	6.0	3756.873024	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3813.453134	2.0	trials	nogo_tone	4000.0	80.0	3813.453134	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3824.823368	2.0	trials	no_tone					True	6.0	3825.825644	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3836.044984	2.0	trials	nogo_tone	4000.0	80.0	3836.044984	0.1	True	6.0	3837.047344	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3846.773298	2.0	trials	go_tone	8000.0	80.0	3846.773298	0.1	True	6.0	3847.775608	0.01	False	0.0	0.0	0.0	0.0	True	3847.998298	False	1.0
+3858.180297	2.0	trials	nogo_tone	4000.0	80.0	3858.180297	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3868.79356	2.0	trials	nogo_tone	4000.0	80.0	3868.79356	0.1	True	6.0	3869.795871	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3880.183577	2.0	trials	nogo_tone	4000.0	80.0	3880.183577	0.1	True	6.0	3881.185923	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3891.702211	2.0	trials	nogo_tone	4000.0	80.0	3891.702211	0.1	True	6.0	3892.704489	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+3902.443991	2.0	trials	no_tone					True	6.0	3903.446286	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3913.946744	2.0	trials	go_tone	8000.0	80.0	3913.946744	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3925.153942	2.0	trials	nogo_tone	4000.0	80.0	3925.153942	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3936.014056	2.0	trials	go_tone	8000.0	80.0	3936.014056	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3947.004121	2.0	trials	nogo_tone	4000.0	80.0	3947.004121	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+3957.992637	2.0	trials	no_tone					True	6.0	3958.994997	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+3968.973734	2.0	trials	go_tone	8000.0	80.0	3968.973734	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+3980.393251	2.0	trials	go_tone	8000.0	80.0	3980.393251	0.1	True	6.0	3981.395546	0.01	False	0.0	0.0	0.0	0.0	True	3981.465251	False	1.0
+3991.872852	2.0	trials	nogo_tone	4000.0	80.0	3991.872852	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4003.243202	2.0	trials	nogo_tone	4000.0	80.0	4003.243202	0.1	True	6.0	4004.245497	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4014.534668	2.0	trials	nogo_tone	4000.0	80.0	4014.534668	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4025.244582	2.0	trials	go_tone	8000.0	80.0	4025.244582	0.1	True	6.0	4026.246877	0.01	False	0.0	0.0	0.0	0.0	True	4026.662582	False	1.0
+4036.10483	2.0	trials	go_tone	8000.0	80.0	4036.10483	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4047.033344	2.0	trials	go_tone	8000.0	80.0	4047.033344	0.1	True	6.0	4048.035672	0.01	False	0.0	0.0	0.0	0.0	True	4048.251344	False	1.0
+4057.943109	2.0	trials	no_tone					True	6.0	4058.945419	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4068.805074	2.0	trials	go_tone	8000.0	80.0	4068.805074	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4079.703673	2.0	trials	go_tone	8000.0	80.0	4079.703673	0.1	True	6.0	4080.705949	0.01	False	0.0	0.0	0.0	0.0	True	4081.132673	False	1.0
+4090.693687	2.0	trials	nogo_tone	4000.0	80.0	4090.693687	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4112.484332	2.0	trials	go_tone	8000.0	80.0	4112.484332	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4123.064446	2.0	trials	nogo_tone	4000.0	80.0	4123.064446	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4134.234045	2.0	trials	no_tone					True	6.0	4135.236306	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4145.693796	2.0	trials	go_tone	8000.0	80.0	4145.693796	0.1	False				False	0.0	0.0	0.0	0.0	True	4146.557795999999	True	2.0
+4158.065884	2.0	trials	go_tone	8000.0	80.0	4158.065884	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4169.084148	2.0	trials	go_tone	8000.0	80.0	4169.084148	0.1	True	6.0	4170.086493	0.01	False	0.0	0.0	0.0	0.0	True	4170.272148	False	1.0
+4179.874262	2.0	trials	go_tone	8000.0	80.0	4179.874262	0.1	True	6.0	4180.876573	0.01	False	0.0	0.0	0.0	0.0	True	4181.106262	False	1.0
+4191.064962	2.0	trials	nogo_tone	4000.0	80.0	4191.064962	0.1	True	6.0	4192.067223	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4202.496228	2.0	trials	go_tone	8000.0	80.0	4202.496228	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4213.455092	2.0	trials	nogo_tone	4000.0	80.0	4213.455092	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4224.926377	2.0	trials	go_tone	8000.0	80.0	4224.926377	0.1	True	6.0	4225.928755	0.01	False	0.0	0.0	0.0	0.0	True	4226.315377	False	1.0
+4235.756492	2.0	trials	nogo_tone	4000.0	80.0	4235.756492	0.1	True	6.0	4236.758852	0.01	False	0.0	0.0	0.0	0.0	True	4237.028492	False	3.0
+4247.216608	2.0	trials	go_tone	8000.0	80.0	4247.216608	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4258.646494	2.0	trials	nogo_tone	4000.0	80.0	4258.646494	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4269.975459	2.0	trials	nogo_tone	4000.0	80.0	4269.975459	0.1	True	6.0	4270.977769	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4280.807074	2.0	trials	go_tone	8000.0	80.0	4280.807074	0.1	True	6.0	4281.809383	0.01	False	0.0	0.0	0.0	0.0	True	4282.2410740000005	False	1.0
+4292.165572	2.0	trials	no_tone					True	6.0	4293.167918	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4303.207038	2.0	trials	no_tone					True	6.0	4304.209384	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4314.676939	2.0	trials	no_tone					True	6.0	4315.67925	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4325.735687	2.0	trials	no_tone					True	6.0	4326.738065	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4336.487168	2.0	trials	go_tone	8000.0	80.0	4336.487168	0.1	True	6.0	4337.489463	0.01	False	0.0	0.0	0.0	0.0	True	4337.863168	False	1.0
+4350.275478	2.0	trials	no_tone					True	6.0	4351.277824	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4361.82588	2.0	trials	nogo_tone	4000.0	80.0	4361.82588	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4373.238179	2.0	trials	nogo_tone	4000.0	80.0	4373.238179	0.1	True	6.0	4374.240542	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4384.056194	2.0	trials	nogo_tone	4000.0	80.0	4384.056194	0.1	True	6.0	4385.058521	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4395.283209	2.0	trials	nogo_tone	4000.0	80.0	4395.283209	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4406.178123	2.0	trials	nogo_tone	4000.0	80.0	4406.178123	0.1	True	6.0	4407.180419	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4426.621848	2.0	trials	go_tone	8000.0	80.0	4426.621848	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4438.098214	2.0	trials	go_tone	8000.0	80.0	4438.098214	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4449.566416	2.0	trials	nogo_tone	4000.0	80.0	4449.566416	0.1	True	6.0	4450.568777	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4461.058166	2.0	trials	nogo_tone	4000.0	80.0	4461.058166	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4472.128331	2.0	trials	go_tone	8000.0	80.0	4472.128331	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4482.797245	2.0	trials	go_tone	8000.0	80.0	4482.797245	0.1	False				False	0.0	0.0	0.0	0.0	True	4484.058245	False	2.0
+4493.417275	2.0	trials	go_tone	8000.0	80.0	4493.417275	0.1	True	6.0	4494.419569	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+4504.017288	2.0	trials	nogo_tone	4000.0	80.0	4504.017288	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4515.237537	2.0	trials	go_tone	8000.0	80.0	4515.237537	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4526.648838	2.0	trials	no_tone					True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	4525.826838	True	5.0
+4537.329268	2.0	trials	no_tone					True	6.0	4538.331563	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4547.939081	2.0	trials	go_tone	8000.0	80.0	4547.939081	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4559.03803	2.0	trials	nogo_tone	4000.0	80.0	4559.03803	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4569.709345	2.0	trials	go_tone	8000.0	80.0	4569.709345	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4580.626759	2.0	trials	go_tone	8000.0	80.0	4580.626759	0.1	True	6.0	4581.62907	0.01	False	0.0	0.0	0.0	0.0	True	4582.104759	False	1.0
+4592.108025	2.0	trials	nogo_tone	4000.0	80.0	4592.108025	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4603.489124	2.0	trials	go_tone	8000.0	80.0	4603.489124	0.1	True	6.0	4604.491388	0.01	False	0.0	0.0	0.0	0.0	True	4605.012124	False	1.0
+4614.36759	2.0	trials	no_tone					True	6.0	4615.369935	0.01	False	0.0	0.0	0.0	0.0	True	4615.60159	False	5.0
+4625.439106	2.0	trials	nogo_tone	4000.0	80.0	4625.439106	0.1	True	6.0	4626.4414	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4636.21822	2.0	trials	go_tone	8000.0	80.0	4636.21822	0.1	True	6.0	4637.220564	0.01	False	0.0	0.0	0.0	0.0	True	4637.5472199999995	False	1.0
+4647.718405	2.0	trials	no_tone					True	6.0	4648.720681	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4658.505484	2.0	trials	go_tone	8000.0	80.0	4658.505484	0.1	True	6.0	4659.507829	0.01	False	0.0	0.0	0.0	0.0	True	4659.672484000001	False	1.0
+4669.992835	2.0	trials	go_tone	8000.0	80.0	4669.992835	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	4671.039835	True	1.0
+4682.540123	2.0	trials	go_tone	8000.0	80.0	4682.540123	0.1	True	6.0	4683.542468	0.01	False	0.0	0.0	0.0	0.0	True	4683.8601229999995	False	1.0
+4693.428288	2.0	trials	no_tone					True	6.0	4694.430583	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4704.968972	2.0	trials	nogo_tone	4000.0	80.0	4704.968972	0.1	True	6.0	4705.9713	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4716.430588	2.0	trials	nogo_tone	4000.0	80.0	4716.430588	0.1	True	6.0	4717.432884	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4736.85683	2.0	trials	nogo_tone	4000.0	80.0	4736.85683	0.1	True	6.0	4737.859189	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4748.050745	2.0	trials	no_tone					True	6.0	4749.053105	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4758.989594	2.0	trials	no_tone					True	6.0	4759.99187	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4769.571007	2.0	trials	nogo_tone	4000.0	80.0	4769.571007	0.1	True	6.0	4770.573285	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4781.121724	2.0	trials	go_tone	8000.0	80.0	4781.121724	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4792.110188	2.0	trials	nogo_tone	4000.0	80.0	4792.110188	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4803.599773	2.0	trials	nogo_tone	4000.0	80.0	4803.599773	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4814.529854	2.0	trials	nogo_tone	4000.0	80.0	4814.529854	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4825.869404	2.0	trials	no_tone					True	6.0	4826.871714	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+4837.171404	2.0	trials	nogo_tone	4000.0	80.0	4837.171404	0.1	True	6.0	4838.173716	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4848.310019	2.0	trials	go_tone	8000.0	80.0	4848.310019	0.1	False				False	0.0	0.0	0.0	0.0	True	4849.378019	False	2.0
+4859.781621	2.0	trials	nogo_tone	4000.0	80.0	4859.781621	0.1	True	6.0	4860.78393	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4870.980069	2.0	trials	go_tone	8000.0	80.0	4870.980069	0.1	True	6.0	4871.982346	0.01	False	0.0	0.0	0.0	0.0	True	4872.1690690000005	False	1.0
+4882.373736	2.0	trials	go_tone	8000.0	80.0	4882.373736	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4893.14025	2.0	trials	go_tone	8000.0	80.0	4893.14025	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4903.780013	2.0	trials	go_tone	8000.0	80.0	4903.780013	0.1	True	6.0	4904.782324	0.01	False	0.0	0.0	0.0	0.0	True	4904.951013	False	1.0
+4915.262315	2.0	trials	nogo_tone	4000.0	80.0	4915.262315	0.1	True	6.0	4916.264626	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4926.012028	2.0	trials	go_tone	8000.0	80.0	4926.012028	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+4937.180944	2.0	trials	nogo_tone	4000.0	80.0	4937.180944	0.1	True	6.0	4938.183288	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+4948.191408	2.0	trials	nogo_tone	4000.0	80.0	4948.191408	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4959.582543	2.0	trials	nogo_tone	4000.0	80.0	4959.582543	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4970.622608	2.0	trials	nogo_tone	4000.0	80.0	4970.622608	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+4981.892674	2.0	trials	no_tone					True	6.0	4982.894984	0.01	False	0.0	0.0	0.0	0.0	True	4983.318674	False	5.0
+4992.911272	2.0	trials	go_tone	8000.0	80.0	4992.911272	0.1	True	6.0	4993.9136	0.01	False	0.0	0.0	0.0	0.0	True	4994.334272	False	1.0
+5004.071838	2.0	trials	no_tone					True	6.0	5005.074133	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5015.451604	2.0	trials	nogo_tone	4000.0	80.0	5015.451604	0.1	True	6.0	5016.453949	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5026.873389	2.0	trials	go_tone	8000.0	80.0	5026.873389	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5047.321961	2.0	trials	no_tone					True	6.0	5048.324306	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5057.901908	2.0	trials	nogo_tone	4000.0	80.0	5057.901908	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5068.802023	2.0	trials	nogo_tone	4000.0	80.0	5068.802023	0.1	True	6.0	5069.804351	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5079.586387	2.0	trials	go_tone	8000.0	80.0	5079.586387	0.1	True	6.0	5080.588698	0.01	False	0.0	0.0	0.0	0.0	True	5080.954387000001	False	1.0
+5090.693902	2.0	trials	no_tone					True	6.0	5091.696213	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5102.013652	2.0	trials	go_tone	8000.0	80.0	5102.013652	0.1	True	6.0	5103.015929	0.01	False	0.0	0.0	0.0	0.0	True	5103.157652	False	1.0
+5113.332419	2.0	trials	nogo_tone	4000.0	80.0	5113.332419	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5124.84372	2.0	trials	no_tone					True	6.0	5125.84603	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5136.013818	2.0	trials	go_tone	8000.0	80.0	5136.013818	0.1	True	6.0	5137.016145	0.01	False	0.0	0.0	0.0	0.0	True	5137.448818000001	False	1.0
+5146.871983	2.0	trials	go_tone	8000.0	80.0	5146.871983	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5157.501463	2.0	trials	nogo_tone	4000.0	80.0	5157.501463	0.1	True	6.0	5158.503757	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5168.864163	2.0	trials	no_tone					True	6.0	5169.866473	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5179.574111	2.0	trials	go_tone	8000.0	80.0	5179.574111	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5190.612526	2.0	trials	no_tone					True	6.0	5191.614803	0.01	False	0.0	0.0	0.0	0.0	True	5191.834526	False	5.0
+5201.882542	2.0	trials	nogo_tone	4000.0	80.0	5201.882542	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5212.692956	2.0	trials	nogo_tone	4000.0	80.0	5212.692956	0.1	True	6.0	5213.695267	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5258.413523	2.0	trials	no_tone					True	6.0	5259.415785	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5269.123088	2.0	trials	go_tone	8000.0	80.0	5269.123088	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5279.815102	2.0	trials	nogo_tone	4000.0	80.0	5279.815102	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5291.035117	2.0	trials	nogo_tone	4000.0	80.0	5291.035117	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5301.963533	2.0	trials	go_tone	8000.0	80.0	5301.963533	0.1	True	6.0	5302.965892	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+5313.313481	2.0	trials	nogo_tone	4000.0	80.0	5313.313481	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5324.145496	2.0	trials	go_tone	8000.0	80.0	5324.145496	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5335.135611	2.0	trials	go_tone	8000.0	80.0	5335.135611	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5357.454626	2.0	trials	nogo_tone	4000.0	80.0	5357.454626	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5368.26449	2.0	trials	go_tone	8000.0	80.0	5368.26449	0.1	True	6.0	5369.266784	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+5379.424356	2.0	trials	go_tone	8000.0	80.0	5379.424356	0.1	True	6.0	5380.4267	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+5390.425071	2.0	trials	no_tone					True	6.0	5391.427365	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5401.774604	2.0	trials	nogo_tone	4000.0	80.0	5401.774604	0.1	True	6.0		0.01	False	0.0	0.0	0.0	0.0	True	5401.644604	True	3.0
+5413.146121	2.0	trials	nogo_tone	4000.0	80.0	5413.146121	0.1	True	6.0	5414.148417	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5424.165686	2.0	trials	go_tone	8000.0	80.0	5424.165686	0.1	True	6.0	5425.168031	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+5434.976433	2.0	trials	nogo_tone	4000.0	80.0	5434.976433	0.1	True	6.0	5435.978711	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5446.105098	2.0	trials	nogo_tone	4000.0	80.0	5446.105098	0.1	True	6.0	5447.107394	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5456.706514	2.0	trials	nogo_tone	4000.0	80.0	5456.706514	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5467.746662	2.0	trials	no_tone					True	6.0	5468.748938	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5478.636626	2.0	trials	go_tone	8000.0	80.0	5478.636626	0.1	True	6.0	5479.638952	0.01	False	0.0	0.0	0.0	0.0	True	5480.003626000001	False	1.0
+5489.526756	2.0	trials	nogo_tone	4000.0	80.0	5489.526756	0.1	True	6.0	5490.529052	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5500.476821	2.0	trials	go_tone	8000.0	80.0	5500.476821	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5511.904955	2.0	trials	go_tone	8000.0	80.0	5511.904955	0.1	True	6.0	5512.907282	0.01	False	0.0	0.0	0.0	0.0	True	5513.263955	False	1.0
+5522.516834	2.0	trials	no_tone					True	6.0	5523.519096	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5533.3075	2.0	trials	go_tone	8000.0	80.0	5533.3075	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5544.007213	2.0	trials	go_tone	8000.0	80.0	5544.007213	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5554.817378	2.0	trials	no_tone					True	6.0	5555.819688	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5565.515656	2.0	trials	go_tone	8000.0	80.0	5565.515656	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5576.955941	2.0	trials	go_tone	8000.0	80.0	5576.955941	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5588.445958	2.0	trials	go_tone	8000.0	80.0	5588.445958	0.1	True	6.0	5589.448303	0.01	False	0.0	0.0	0.0	0.0	True	5589.664958	False	1.0
+5599.986143	2.0	trials	nogo_tone	4000.0	80.0	5599.986143	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5611.39691	2.0	trials	go_tone	8000.0	80.0	5611.39691	0.1	True	6.0	5612.399254	0.01	False	0.0	0.0	0.0	0.0	True	5612.5669100000005	False	1.0
+5622.206374	2.0	trials	nogo_tone	4000.0	80.0	5622.206374	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5632.786187	2.0	trials	nogo_tone	4000.0	80.0	5632.786187	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5644.076787	2.0	trials	nogo_tone	4000.0	80.0	5644.076787	0.1	True	6.0	5645.079048	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5667.609024	2.0	trials	go_tone	8000.0	80.0	5667.609024	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5678.797089	2.0	trials	nogo_tone	4000.0	80.0	5678.797089	0.1	True	6.0	5679.799451	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5689.707155	2.0	trials	go_tone	8000.0	80.0	5689.707155	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5701.157555	2.0	trials	go_tone	8000.0	80.0	5701.157555	0.1	True	6.0	5702.159899	0.01	False	0.0	0.0	0.0	0.0	True	5702.315555	False	1.0
+5712.578705	2.0	trials	no_tone					True	6.0	5713.581065	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5723.337536	2.0	trials	no_tone					True	6.0	5724.33983	0.01	False	0.0	0.0	0.0	0.0	True	5724.569536	False	5.0
+5734.71862	2.0	trials	nogo_tone	4000.0	80.0	5734.71862	0.1	True	6.0	5735.720896	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5745.937385	2.0	trials	go_tone	8000.0	80.0	5745.937385	0.1	True	6.0	5746.939695	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+5756.659049	2.0	trials	nogo_tone	4000.0	80.0	5756.659049	0.1	True	6.0	5757.66141	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5767.997649	2.0	trials	go_tone	8000.0	80.0	5767.997649	0.1	True	6.0	5768.999976	0.01	False	0.0	0.0	0.0	0.0	True	5769.190649	False	1.0
+5779.547415	2.0	trials	nogo_tone	4000.0	80.0	5779.547415	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5790.568198	2.0	trials	nogo_tone	4000.0	80.0	5790.568198	0.1	True	6.0	5791.570475	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5801.479479	2.0	trials	no_tone					True	6.0	5802.481791	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5812.96798	2.0	trials	nogo_tone	4000.0	80.0	5812.96798	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5823.738527	2.0	trials	no_tone					True	6.0	5824.740804	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5834.402456	2.0	trials	go_tone	8000.0	80.0	5834.402456	0.1	False				False	0.0	0.0	0.0	0.0	True	5835.355456	True	2.0
+5846.858446	2.0	trials	go_tone	8000.0	80.0	5846.858446	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5857.578343	2.0	trials	go_tone	8000.0	80.0	5857.578343	0.1	True	6.0	5858.58062	0.01	False	0.0	0.0	0.0	0.0	True	5858.760343	False	1.0
+5868.258723	2.0	trials	no_tone					True	6.0	5869.261017	0.01	False	0.0	0.0	0.0	0.0	True	5869.478723	False	5.0
+5878.949988	2.0	trials	nogo_tone	4000.0	80.0	5878.949988	0.1	True	6.0	5879.952347	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5889.588351	2.0	trials	nogo_tone	4000.0	80.0	5889.588351	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5900.19013	2.0	trials	nogo_tone	4000.0	80.0	5900.19013	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5910.800226	2.0	trials	go_tone	8000.0	80.0	5910.800226	0.1	True	6.0	5911.802555	0.01	False	0.0	0.0	0.0	0.0	True	5911.952226	False	1.0
+5921.688692	2.0	trials	go_tone	8000.0	80.0	5921.688692	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+5932.328721	2.0	trials	nogo_tone	4000.0	80.0	5932.328721	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+5943.628955	2.0	trials	no_tone					True	6.0	5944.631231	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5954.800671	2.0	trials	nogo_tone	4000.0	80.0	5954.800671	0.1	True	6.0	5955.802982	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+5977.763471	2.0	trials	no_tone					True	6.0	5978.765749	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5988.729337	2.0	trials	no_tone					True	6.0	5989.731647	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+5999.649301	2.0	trials	nogo_tone	4000.0	80.0	5999.649301	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6010.969551	2.0	trials	go_tone	8000.0	80.0	6010.969551	0.1	True	6.0	6011.971878	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+6022.351167	2.0	trials	go_tone	8000.0	80.0	6022.351167	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6033.262082	2.0	trials	nogo_tone	4000.0	80.0	6033.262082	0.1	True	6.0	6034.264477	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6044.589866	2.0	trials	nogo_tone	4000.0	80.0	6044.589866	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6055.819932	2.0	trials	nogo_tone	4000.0	80.0	6055.819932	0.1	True	6.0	6056.822292	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6066.391361	2.0	trials	go_tone	8000.0	80.0	6066.391361	0.1	False				False	0.0	0.0	0.0	0.0	True	6067.460361	False	2.0
+6077.330209	2.0	trials	nogo_tone	4000.0	80.0	6077.330209	0.1	True	6.0	6078.332471	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6088.479975	2.0	trials	nogo_tone	4000.0	80.0	6088.479975	0.1	True	6.0	6089.482319	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6099.180038	2.0	trials	go_tone	8000.0	80.0	6099.180038	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6109.841986	2.0	trials	go_tone	8000.0	80.0	6109.841986	0.1	True	6.0	6110.844364	0.01	False	0.0	0.0	0.0	0.0	False		False	1.0
+6121.060102	2.0	trials	go_tone	8000.0	80.0	6121.060102	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6132.530718	2.0	trials	go_tone	8000.0	80.0	6132.530718	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6143.953653	2.0	trials	no_tone					True	6.0	6144.95598	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6154.771117	2.0	trials	nogo_tone	4000.0	80.0	6154.771117	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6165.330496	2.0	trials	no_tone					True	6.0	6166.332841	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6176.65268	2.0	trials	go_tone	8000.0	80.0	6176.65268	0.1	True	6.0	6177.654956	0.01	False	0.0	0.0	0.0	0.0	True	6177.73868	False	1.0
+6187.51066	2.0	trials	no_tone					True	6.0	6188.513056	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6198.142774	2.0	trials	nogo_tone	4000.0	80.0	6198.142774	0.1	True	6.0	6199.145069	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6208.762687	2.0	trials	nogo_tone	4000.0	80.0	6208.762687	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6219.712937	2.0	trials	go_tone	8000.0	80.0	6219.712937	0.1	True	6.0	6220.715213	0.01	False	0.0	0.0	0.0	0.0	True	6220.895937	False	1.0
+6230.922902	2.0	trials	go_tone	8000.0	80.0	6230.922902	0.1	True	6.0	6231.925179	0.01	False	0.0	0.0	0.0	0.0	True	6232.342902	False	1.0
+6241.959867	2.0	trials	no_tone					True	6.0	6242.962178	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6252.823214	2.0	trials	nogo_tone	4000.0	80.0	6252.823214	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6264.291932	2.0	trials	no_tone					True	6.0	6265.294277	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6287.900669	2.0	trials	go_tone	8000.0	80.0	6287.900669	0.1	True	6.0	6288.902979	0.01	False	0.0	0.0	0.0	0.0	True	6289.240669	False	1.0
+6298.803584	2.0	trials	nogo_tone	4000.0	80.0	6298.803584	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6310.293834	2.0	trials	nogo_tone	4000.0	80.0	6310.293834	0.1	True	6.0	6311.296179	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6321.592084	2.0	trials	go_tone	8000.0	80.0	6321.592084	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6332.392114	2.0	trials	nogo_tone	4000.0	80.0	6332.392114	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6343.793949	2.0	trials	go_tone	8000.0	80.0	6343.793949	0.1	True	6.0	6344.796309	0.01	False	0.0	0.0	0.0	0.0	True	6345.020949	False	1.0
+6354.424078	2.0	trials	go_tone	8000.0	80.0	6354.424078	0.1	True	6.0	6355.426473	0.01	False	0.0	0.0	0.0	0.0	True	6355.608078	False	1.0
+6365.574211	2.0	trials	no_tone					True	6.0	6366.576488	0.01	False	0.0	0.0	0.0	0.0	True	6366.791211	False	5.0
+6377.064028	2.0	trials	go_tone	8000.0	80.0	6377.064028	0.1	True	6.0	6378.066373	0.01	False	0.0	0.0	0.0	0.0	True	6378.2280279999995	False	1.0
+6388.534344	2.0	trials	nogo_tone	4000.0	80.0	6388.534344	0.1	True	6.0	6389.536639	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6399.799778	2.0	trials	go_tone	8000.0	80.0	6399.799778	0.1	False				False	0.0	0.0	0.0	0.0	True	6400.825777999999	True	2.0
+6412.333033	2.0	trials	go_tone	8000.0	80.0	6412.333033	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6423.160531	2.0	trials	go_tone	8000.0	80.0	6423.160531	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6434.323446	2.0	trials	no_tone					True	6.0	6435.325741	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6445.77318	2.0	trials	nogo_tone	4000.0	80.0	6445.77318	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6456.603445	2.0	trials	go_tone	8000.0	80.0	6456.603445	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6467.883261	2.0	trials	go_tone	8000.0	80.0	6467.883261	0.1	False				False	0.0	0.0	0.0	0.0	False		False	2.0
+6478.593475	2.0	trials	nogo_tone	4000.0	80.0	6478.593475	0.1	False				False	0.0	0.0	0.0	0.0	False		False	4.0
+6489.203304	2.0	trials	go_tone	8000.0	80.0	6489.203304	0.1	True	6.0	6490.2056	0.01	False	0.0	0.0	0.0	0.0	True	6490.632304	False	1.0
+6500.485254	2.0	trials	nogo_tone	4000.0	80.0	6500.485254	0.1	True	6.0	6501.487598	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6511.185418	2.0	trials	nogo_tone	4000.0	80.0	6511.185418	0.1	True	6.0	6512.187712	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6522.145482	2.0	trials	go_tone	8000.0	80.0	6522.145482	0.1	True	6.0	6523.147777	0.01	False	0.0	0.0	0.0	0.0	True	6523.572482	False	1.0
+6533.523482	2.0	trials	nogo_tone	4000.0	80.0	6533.523482	0.1	True	6.0	6534.525828	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0
+6544.528647	2.0	trials	no_tone					True	6.0	6545.530992	0.01	False	0.0	0.0	0.0	0.0	False		False	5.0
+6556.065831	2.0	trials	go_tone	8000.0	80.0	6556.065831	0.1	False				False	0.0	0.0	0.0	0.0	True	6557.281831	False	2.0
+6567.315948	2.0	trials	nogo_tone	4000.0	80.0	6567.315948	0.1	True	6.0	6568.318243	0.01	False	0.0	0.0	0.0	0.0	False		False	3.0

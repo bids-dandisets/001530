@@ -1,0 +1,1298 @@
+onset	duration	nwb_table	context	auditory_stim_frequency	auditory_stim_amplitude	auditory_stim_time	auditory_stim_duration	whisker_stim	whisker_stim_amplitude	whisker_stim_time	whisker_stim_duration	opto_stim	opto_stim_frequency	opto_stim_amplitude	opto_stim_start_time	opto_stim_stop_time	opto_window	opto_duration	opto_area	lick_flag	lick_time	early_lick	trial_type
+11.501	2.0	trials	go_tone	8000.0	80.0	11.501	0.1	False				True	100.0	12.0	12.450999999999999	12.801	whisker	350.0	A1	True	14.097	False	2.0
+22.832	2.0	trials	no_tone					True	5.0	23.832	0.01	False					nolight	0.0	nan	False		False	5.0
+33.531	2.0	trials	go_tone	8000.0	80.0	33.531	0.1	True	5.0	34.531	0.01	False					nolight	0.0	nan	True	35.961999999999996	True	1.0
+45.963	2.0	trials	go_tone	8000.0	80.0	45.963	0.1	True	5.0	46.963	0.01	False					nolight	0.0	nan	True	48.726	False	1.0
+56.952	2.0	trials	go_tone	8000.0	80.0	56.952	0.1	False				False					nolight	0.0	nan	True	59.516999999999996	False	2.0
+68.433	2.0	trials	go_tone	8000.0	80.0	68.433	0.1	False				False					nolight	0.0	nan	True	71.555	False	2.0
+79.535	2.0	trials	nogo_tone	4000.0	80.0	79.535	0.1	True	5.0	80.535	0.01	False					nolight	0.0	nan	False		False	3.0
+90.912	2.0	trials	nogo_tone	4000.0	80.0	90.912	0.1	False				False					nolight	0.0	nan	False		False	4.0
+102.263	2.0	trials	go_tone	8000.0	80.0	102.263	0.1	True	5.0	103.263	0.01	True	100.0	12.0	102.21300000000001	102.66300000000001	audio	450.0	A1	True	104.923	False	1.0
+113.007	2.0	trials	go_tone	8000.0	80.0	113.007	0.1	False				False					nolight	0.0	nan	True	116.226	False	2.0
+123.933	2.0	trials	nogo_tone	4000.0	80.0	123.933	0.1	False				False					nolight	0.0	nan	False		False	4.0
+135.415	2.0	trials	nogo_tone	4000.0	80.0	135.415	0.1	True	5.0	136.415	0.01	True	100.0	12.0	135.36499999999998	135.815	audio	450.0	A1	False		False	3.0
+146.793	2.0	trials	go_tone	8000.0	80.0	146.793	0.1	True	5.0	147.793	0.01	False					nolight	0.0	nan	True	149.09300000000002	True	1.0
+159.096	2.0	trials	go_tone	8000.0	80.0	159.096	0.1	True	5.0	160.096	0.01	False					nolight	0.0	nan	True	161.464	True	1.0
+171.465	2.0	trials	go_tone	8000.0	80.0	171.465	0.1	True	5.0	172.465	0.01	False					nolight	0.0	nan	True	174.058	False	1.0
+182.702	2.0	trials	no_tone					True	5.0	183.702	0.01	False					nolight	0.0	nan	False		False	5.0
+193.595	2.0	trials	no_tone					True	5.0	194.595	0.01	False					nolight	0.0	nan	False		False	5.0
+204.586	2.0	trials	go_tone	8000.0	80.0	204.586	0.1	False				False					nolight	0.0	nan	True	207.316	False	2.0
+216.004	2.0	trials	go_tone	8000.0	80.0	216.004	0.1	True	5.0	217.004	0.01	True	100.0	12.0	216.404	216.95399999999998	delay	550.0	A1	True	218.504	True	1.0
+228.505	2.0	trials	go_tone	8000.0	80.0	228.505	0.1	True	5.0	229.505	0.01	True	100.0	12.0	228.905	229.45499999999998	delay	550.0	A1	True	230.72899999999998	True	1.0
+240.736	2.0	trials	go_tone	8000.0	80.0	240.736	0.1	True	5.0	241.736	0.01	True	100.0	12.0	241.136	241.68599999999998	delay	550.0	A1	True	242.559	True	1.0
+252.568	2.0	trials	go_tone	8000.0	80.0	252.568	0.1	True	5.0	253.568	0.01	True	100.0	12.0	252.96800000000002	253.518	delay	550.0	A1	False		False	1.0
+263.867	2.0	trials	no_tone					True	5.0	264.867	0.01	True	100.0	12.0	264.267	264.817	delay	550.0	A1	False		False	5.0
+274.787	2.0	trials	nogo_tone	4000.0	80.0	274.787	0.1	True	5.0	275.787	0.01	False					nolight	0.0	nan	False		False	3.0
+285.526	2.0	trials	nogo_tone	4000.0	80.0	285.526	0.1	True	5.0	286.526	0.01	True	100.0	12.0	286.476	286.826	whisker	350.0	A1	False		False	3.0
+297.056	2.0	trials	nogo_tone	4000.0	80.0	297.056	0.1	False				False					nolight	0.0	nan	False		False	4.0
+308.246	2.0	trials	nogo_tone	4000.0	80.0	308.246	0.1	False				True	100.0	12.0	309.19599999999997	309.546	whisker	350.0	A1	False		False	4.0
+319.108	2.0	trials	go_tone	8000.0	80.0	319.108	0.1	True	5.0	320.108	0.01	False					nolight	0.0	nan	False		False	1.0
+329.976	2.0	trials	nogo_tone	4000.0	80.0	329.976	0.1	True	5.0	330.976	0.01	False					nolight	0.0	nan	False		False	3.0
+341.417	2.0	trials	no_tone					True	5.0	342.417	0.01	False					nolight	0.0	nan	False		False	5.0
+352.769	2.0	trials	no_tone					True	5.0	353.769	0.01	True	100.0	12.0	352.719	353.169	audio	450.0	A1	False		False	5.0
+364.117	2.0	trials	go_tone	8000.0	80.0	364.117	0.1	True	5.0	365.117	0.01	True	100.0	12.0	365.067	365.41700000000003	whisker	350.0	A1	False		False	1.0
+375.369	2.0	trials	nogo_tone	4000.0	80.0	375.369	0.1	False				True	100.0	12.0	375.319	375.769	audio	450.0	A1	False		False	4.0
+386.507	2.0	trials	no_tone					True	5.0	387.507	0.01	False					nolight	0.0	nan	False		False	5.0
+397.888	2.0	trials	go_tone	8000.0	80.0	397.888	0.1	False				False					nolight	0.0	nan	False		False	2.0
+408.789	2.0	trials	nogo_tone	4000.0	80.0	408.789	0.1	True	5.0	409.789	0.01	False					nolight	0.0	nan	False		False	3.0
+419.708	2.0	trials	nogo_tone	4000.0	80.0	419.708	0.1	True	5.0	420.708	0.01	False					nolight	0.0	nan	True	421.87800000000004	True	3.0
+432.219	2.0	trials	nogo_tone	4000.0	80.0	432.219	0.1	True	5.0	433.219	0.01	False					nolight	0.0	nan	True	435.292	False	3.0
+442.908	2.0	trials	no_tone					True	5.0	443.908	0.01	True	100.0	12.0	443.858	444.208	whisker	350.0	A1	True	444.098	True	5.0
+456.299	2.0	trials	no_tone					True	5.0	457.299	0.01	True	100.0	12.0	457.24899999999997	457.599	whisker	350.0	A1	True	459.185	False	5.0
+466.919	2.0	trials	nogo_tone	4000.0	80.0	466.919	0.1	False				False					nolight	0.0	nan	False		False	4.0
+477.669	2.0	trials	nogo_tone	4000.0	80.0	477.669	0.1	False				True	100.0	12.0	478.06899999999996	478.61899999999997	delay	550.0	A1	True	479.599	True	4.0
+489.601	2.0	trials	nogo_tone	4000.0	80.0	489.601	0.1	False				True	100.0	12.0	490.001	490.551	delay	550.0	A1	True	490.227	True	4.0
+500.23	2.0	trials	nogo_tone	4000.0	80.0	500.23	0.1	False				True	100.0	12.0	500.63	501.18	delay	550.0	A1	False		False	4.0
+511.21	2.000000000000057	trials	go_tone	8000.0	80.0	511.21	0.1	False				True	100.0	12.0	511.60999999999996	512.16	delay	550.0	A1	False		False	2.0
+521.96	2.0	trials	go_tone	8000.0	80.0	521.96	0.1	False				False					nolight	0.0	nan	False		False	2.0
+533.15	2.0	trials	nogo_tone	4000.0	80.0	533.15	0.1	False				False					nolight	0.0	nan	True	533.572	True	4.0
+543.58	2.0	trials	nogo_tone	4000.0	80.0	543.58	0.1	False				False					nolight	0.0	nan	False		False	4.0
+554.61	2.0	trials	go_tone	8000.0	80.0	554.61	0.1	True	5.0	555.61	0.01	False					nolight	0.0	nan	True	557.71	False	1.0
+565.68	2.0	trials	nogo_tone	4000.0	80.0	565.68	0.1	True	5.0	566.68	0.01	True	100.0	12.0	566.0799999999999	566.63	delay	550.0	A1	False		False	3.0
+577.011	2.0	trials	nogo_tone	4000.0	80.0	577.011	0.1	False				False					nolight	0.0	nan	False		False	4.0
+588.093	2.0	trials	nogo_tone	4000.0	80.0	588.093	0.1	True	5.0	589.093	0.01	False					nolight	0.0	nan	False		False	3.0
+599.041	2.0	trials	go_tone	8000.0	80.0	599.041	0.1	True	5.0	600.041	0.01	False					nolight	0.0	nan	True	601.8820000000001	False	1.0
+611.902	2.0	trials	go_tone	8000.0	80.0	611.902	0.1	False				True	100.0	12.0	611.8520000000001	612.302	audio	450.0	A1	False		False	2.0
+623.301	2.0	trials	go_tone	8000.0	80.0	623.301	0.1	True	5.0	624.301	0.01	False					nolight	0.0	nan	True	626.187	False	1.0
+634.452	2.0	trials	no_tone					True	5.0	635.452	0.01	False					nolight	0.0	nan	False		False	5.0
+645.282	2.0	trials	go_tone	8000.0	80.0	645.282	0.1	True	5.0	646.282	0.01	False					nolight	0.0	nan	True	648.38	False	1.0
+660.642	2.0	trials	nogo_tone	4000.0	80.0	660.642	0.1	True	5.0	661.642	0.01	False					nolight	0.0	nan	False		False	3.0
+671.473	2.0	trials	go_tone	8000.0	80.0	671.473	0.1	False				False					nolight	0.0	nan	False		False	2.0
+705.827	2.0	trials	no_tone					True	5.0	706.827	0.01	True	100.0	12.0	706.227	706.777	delay	550.0	A1	True	707.704	True	5.0
+717.713	2.0	trials	no_tone					True	5.0	718.713	0.01	True	100.0	12.0	718.1129999999999	718.663	delay	550.0	A1	False		False	5.0
+728.953	2.0	trials	nogo_tone	4000.0	80.0	728.953	0.1	True	5.0	729.953	0.01	False					nolight	0.0	nan	False		False	3.0
+739.663	2.0	trials	nogo_tone	4000.0	80.0	739.663	0.1	True	5.0	740.663	0.01	True	100.0	12.0	740.063	740.613	delay	550.0	A1	False		False	3.0
+782.004	2.0	trials	no_tone					True	5.0	783.004	0.01	False					nolight	0.0	nan	False		False	5.0
+793.214	2.0	trials	nogo_tone	4000.0	80.0	793.214	0.1	False				True	100.0	12.0	793.1640000000001	793.614	audio	450.0	A1	False		False	4.0
+806.425	2.0	trials	go_tone	8000.0	80.0	806.425	0.1	True	5.0	807.425	0.01	False					nolight	0.0	nan	True	809.122	False	1.0
+817.654	2.0	trials	nogo_tone	4000.0	80.0	817.654	0.1	False				True	100.0	12.0	818.054	818.604	delay	550.0	A1	False		False	4.0
+828.464	2.0	trials	go_tone	8000.0	80.0	828.464	0.1	True	5.0	829.464	0.01	False					nolight	0.0	nan	True	830.687	True	1.0
+840.697	2.0	trials	go_tone	8000.0	80.0	840.697	0.1	True	5.0	841.697	0.01	False					nolight	0.0	nan	True	843.166	True	1.0
+853.175	2.0	trials	go_tone	8000.0	80.0	853.175	0.1	True	5.0	854.175	0.01	False					nolight	0.0	nan	True	855.265	True	1.0
+865.266	2.0	trials	go_tone	8000.0	80.0	865.266	0.1	True	5.0	866.266	0.01	False					nolight	0.0	nan	True	867.526	True	1.0
+879.987	2.0	trials	go_tone	8000.0	80.0	879.987	0.1	True	5.0	880.987	0.01	False					nolight	0.0	nan	True	882.651	False	1.0
+891.067	2.0	trials	nogo_tone	4000.0	80.0	891.067	0.1	False				False					nolight	0.0	nan	False		False	4.0
+902.326	2.0	trials	nogo_tone	4000.0	80.0	902.326	0.1	True	5.0	903.326	0.01	True	100.0	12.0	902.2760000000001	902.726	audio	450.0	A1	False		False	3.0
+913.856	2.0	trials	no_tone					True	5.0	914.856	0.01	False					nolight	0.0	nan	False		False	5.0
+925.046	2.0	trials	nogo_tone	4000.0	80.0	925.046	0.1	True	5.0	926.046	0.01	False					nolight	0.0	nan	True	927.72	False	3.0
+935.687	2.0	trials	go_tone	8000.0	80.0	935.687	0.1	True	5.0	936.687	0.01	True	100.0	12.0	936.6370000000001	936.987	whisker	350.0	A1	True	938.066	True	1.0
+948.068	2.0	trials	go_tone	8000.0	80.0	948.068	0.1	True	5.0	949.068	0.01	True	100.0	12.0	949.018	949.3679999999999	whisker	350.0	A1	True	950.336	True	1.0
+960.338	2.0	trials	go_tone	8000.0	80.0	960.338	0.1	True	5.0	961.338	0.01	True	100.0	12.0	961.288	961.6379999999999	whisker	350.0	A1	False		False	1.0
+971.728	2.0	trials	nogo_tone	4000.0	80.0	971.728	0.1	False				False					nolight	0.0	nan	False		False	4.0
+982.888	2.0	trials	go_tone	8000.0	80.0	982.888	0.1	False				False					nolight	0.0	nan	False		False	2.0
+993.918	2.0	trials	nogo_tone	4000.0	80.0	993.918	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1005.248	2.0	trials	nogo_tone	4000.0	80.0	1005.248	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1015.968	2.0	trials	no_tone					True	5.0	1016.968	0.01	False					nolight	0.0	nan	False		False	5.0
+1027.16	2.0	trials	nogo_tone	4000.0	80.0	1027.16	0.1	True	5.0	1028.16	0.01	True	100.0	12.0	1028.1100000000001	1028.46	whisker	350.0	A1	False		False	3.0
+1037.95	2.0	trials	nogo_tone	4000.0	80.0	1037.95	0.1	True	5.0	1038.95	0.01	False					nolight	0.0	nan	False		False	3.0
+1049.418	2.0	trials	go_tone	8000.0	80.0	1049.418	0.1	True	5.0	1050.418	0.01	False					nolight	0.0	nan	True	1052.0559999999998	False	1.0
+1060.919	2.0	trials	go_tone	8000.0	80.0	1060.919	0.1	False				True	100.0	12.0	1061.8690000000001	1062.219	whisker	350.0	A1	False		False	2.0
+1072.229	2.0	trials	no_tone					True	5.0	1073.229	0.01	False					nolight	0.0	nan	False		False	5.0
+1083.487	2.0	trials	go_tone	8000.0	80.0	1083.487	0.1	False				False					nolight	0.0	nan	True	1086.335	False	2.0
+1094.219	2.0	trials	go_tone	8000.0	80.0	1094.219	0.1	False				False					nolight	0.0	nan	True	1096.3690000000001	True	2.0
+1106.371	2.0	trials	go_tone	8000.0	80.0	1106.371	0.1	False				False					nolight	0.0	nan	False		False	2.0
+1117.151	2.0	trials	nogo_tone	4000.0	80.0	1117.151	0.1	True	5.0	1118.151	0.01	False					nolight	0.0	nan	False		False	3.0
+1127.82	2.0	trials	go_tone	8000.0	80.0	1127.82	0.1	False				True	100.0	12.0	1127.77	1128.22	audio	450.0	A1	False		False	2.0
+1138.54	2.0	trials	go_tone	8000.0	80.0	1138.54	0.1	True	5.0	1139.54	0.01	True	100.0	12.0	1138.94	1139.49	delay	550.0	A1	True	1141.215	False	1.0
+1149.67	2.0	trials	go_tone	8000.0	80.0	1149.67	0.1	False				False					nolight	0.0	nan	True	1151.8100000000002	True	2.0
+1161.82	2.0	trials	go_tone	8000.0	80.0	1161.82	0.1	False				False					nolight	0.0	nan	False		False	2.0
+1173.35	2.0	trials	go_tone	8000.0	80.0	1173.35	0.1	True	5.0	1174.35	0.01	False					nolight	0.0	nan	True	1175.1999999999998	True	1.0
+1185.211	2.0	trials	go_tone	8000.0	80.0	1185.211	0.1	True	5.0	1186.211	0.01	False					nolight	0.0	nan	True	1187.752	True	1.0
+1197.753	2.0	trials	go_tone	8000.0	80.0	1197.753	0.1	True	5.0	1198.753	0.01	False					nolight	0.0	nan	True	1200.437	False	1.0
+1208.363	2.0	trials	go_tone	8000.0	80.0	1208.363	0.1	False				False					nolight	0.0	nan	True	1211.558	False	2.0
+1219.483	2.0	trials	no_tone					True	5.0	1220.483	0.01	True	100.0	12.0	1220.433	1220.783	whisker	350.0	A1	False		False	5.0
+1230.171	2.0	trials	nogo_tone	4000.0	80.0	1230.171	0.1	False				True	100.0	12.0	1231.121	1231.471	whisker	350.0	A1	False		False	4.0
+1241.032	2.0	trials	no_tone					True	5.0	1242.032	0.01	False					nolight	0.0	nan	False		False	5.0
+1251.903	2.0	trials	nogo_tone	4000.0	80.0	1251.903	0.1	True	5.0	1252.903	0.01	False					nolight	0.0	nan	True	1254.593	False	3.0
+1262.732	2.0	trials	no_tone					True	5.0	1263.732	0.01	False					nolight	0.0	nan	False		False	5.0
+1273.736	2.0	trials	go_tone	8000.0	80.0	1273.736	0.1	True	5.0	1274.736	0.01	False					nolight	0.0	nan	True	1276.3790000000001	False	1.0
+1284.953	2.0	trials	nogo_tone	4000.0	80.0	1284.953	0.1	False				False					nolight	0.0	nan	True	1285.6779999999999	True	4.0
+1295.684	2.0	trials	nogo_tone	4000.0	80.0	1295.684	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1306.333	2.0	trials	go_tone	8000.0	80.0	1306.333	0.1	True	5.0	1307.333	0.01	True	100.0	12.0	1306.2830000000001	1306.7330000000002	audio	450.0	A1	False		False	1.0
+1317.455	2.0	trials	go_tone	8000.0	80.0	1317.455	0.1	False				True	100.0	12.0	1317.855	1318.405	delay	550.0	A1	False		False	2.0
+1328.645	2.0	trials	nogo_tone	4000.0	80.0	1328.645	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1339.604	2.0	trials	no_tone					True	5.0	1340.604	0.01	True	100.0	12.0	1339.554	1340.0040000000001	audio	450.0	A1	False		False	5.0
+1351.153	2.0	trials	go_tone	8000.0	80.0	1351.153	0.1	False				True	100.0	12.0	1352.103	1352.453	whisker	350.0	A1	True	1353.896	False	2.0
+1362.291	2.0	trials	no_tone					True	5.0	1363.291	0.01	True	100.0	12.0	1362.691	1363.241	delay	550.0	A1	False		False	5.0
+1373.024	2.0	trials	nogo_tone	4000.0	80.0	1373.024	0.1	True	5.0	1374.024	0.01	False					nolight	0.0	nan	False		False	3.0
+1384.154	2.0	trials	go_tone	8000.0	80.0	1384.154	0.1	True	5.0	1385.154	0.01	False					nolight	0.0	nan	True	1386.234	True	1.0
+1396.236	2.0	trials	go_tone	8000.0	80.0	1396.236	0.1	True	5.0	1397.236	0.01	False					nolight	0.0	nan	True	1398.8690000000001	False	1.0
+1406.866	2.0	trials	nogo_tone	4000.0	80.0	1406.866	0.1	True	5.0	1407.866	0.01	True	100.0	12.0	1407.816	1408.166	whisker	350.0	A1	False		False	3.0
+1418.386	2.0	trials	go_tone	8000.0	80.0	1418.386	0.1	True	5.0	1419.386	0.01	False					nolight	0.0	nan	True	1420.835	True	1.0
+1430.845	2.0	trials	go_tone	8000.0	80.0	1430.845	0.1	True	5.0	1431.845	0.01	False					nolight	0.0	nan	True	1431.069	True	1.0
+1441.075	2.0	trials	go_tone	8000.0	80.0	1441.075	0.1	True	5.0	1442.075	0.01	False					nolight	0.0	nan	True	1443.525	True	1.0
+1453.525	2.0	trials	go_tone	8000.0	80.0	1453.525	0.1	True	5.0	1454.525	0.01	False					nolight	0.0	nan	True	1455.779	True	1.0
+1465.786	2.0	trials	go_tone	8000.0	80.0	1465.786	0.1	True	5.0	1466.786	0.01	False					nolight	0.0	nan	True	1468.521	False	1.0
+1477.165	2.0	trials	go_tone	8000.0	80.0	1477.165	0.1	False				False					nolight	0.0	nan	True	1479.666	True	2.0
+1489.676	2.0	trials	go_tone	8000.0	80.0	1489.676	0.1	False				False					nolight	0.0	nan	True	1491.926	True	2.0
+1501.927	2.0	trials	go_tone	8000.0	80.0	1501.927	0.1	False				False					nolight	0.0	nan	True	1504.682	False	2.0
+1513.088	2.0	trials	nogo_tone	4000.0	80.0	1513.088	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1524.108	2.0	trials	nogo_tone	4000.0	80.0	1524.108	0.1	True	5.0	1525.108	0.01	False					nolight	0.0	nan	True	1526.647	True	3.0
+1536.648	2.0	trials	nogo_tone	4000.0	80.0	1536.648	0.1	True	5.0	1537.648	0.01	False					nolight	0.0	nan	False		False	3.0
+1548.03	2.0	trials	go_tone	8000.0	80.0	1548.03	0.1	True	5.0	1549.03	0.01	False					nolight	0.0	nan	True	1550.2069999999999	True	1.0
+1560.208	2.0	trials	go_tone	8000.0	80.0	1560.208	0.1	True	5.0	1561.208	0.01	False					nolight	0.0	nan	True	1562.1480000000001	True	1.0
+1572.149	2.0	trials	go_tone	8000.0	80.0	1572.149	0.1	True	5.0	1573.149	0.01	False					nolight	0.0	nan	True	1574.3729999999998	True	1.0
+1584.377	2.0	trials	go_tone	8000.0	80.0	1584.377	0.1	True	5.0	1585.377	0.01	False					nolight	0.0	nan	True	1586.647	True	1.0
+1596.649	2.0	trials	go_tone	8000.0	80.0	1596.649	0.1	True	5.0	1597.649	0.01	False					nolight	0.0	nan	True	1599.331	False	1.0
+1612.395	2.0	trials	nogo_tone	4000.0	80.0	1612.395	0.1	False				True	100.0	12.0	1612.795	1613.345	delay	550.0	A1	True	1612.718	True	4.0
+1622.718	2.0	trials	nogo_tone	4000.0	80.0	1622.718	0.1	False				True	100.0	12.0	1623.1180000000002	1623.6680000000001	delay	550.0	A1	False		False	4.0
+1633.87	2.0	trials	nogo_tone	4000.0	80.0	1633.87	0.1	True	5.0	1634.87	0.01	False					nolight	0.0	nan	True	1636.559	False	3.0
+1645.299	2.0	trials	nogo_tone	4000.0	80.0	1645.299	0.1	True	5.0	1646.299	0.01	False					nolight	0.0	nan	True	1647.984	False	3.0
+1656.539	2.0	trials	no_tone					True	5.0	1657.539	0.01	False					nolight	0.0	nan	False		False	5.0
+1667.789	2.0	trials	nogo_tone	4000.0	80.0	1667.789	0.1	False				True	100.0	12.0	1668.739	1669.089	whisker	350.0	A1	False		False	4.0
+1679.339	2.0	trials	no_tone					True	5.0	1680.339	0.01	False					nolight	0.0	nan	False		False	5.0
+1689.929	2.0	trials	nogo_tone	4000.0	80.0	1689.929	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1701.372	2.0	trials	go_tone	8000.0	80.0	1701.372	0.1	True	5.0	1702.372	0.01	False					nolight	0.0	nan	True	1703.54	True	1.0
+1713.769	2.0	trials	go_tone	8000.0	80.0	1713.769	0.1	True	5.0	1714.769	0.01	False					nolight	0.0	nan	True	1715.829	True	1.0
+1725.83	2.0	trials	go_tone	8000.0	80.0	1725.83	0.1	True	5.0	1726.83	0.01	False					nolight	0.0	nan	True	1728.253	True	1.0
+1738.273	2.0	trials	go_tone	8000.0	80.0	1738.273	0.1	True	5.0	1739.273	0.01	False					nolight	0.0	nan	True	1740.995	False	1.0
+1749.359	2.0	trials	nogo_tone	4000.0	80.0	1749.359	0.1	False				True	100.0	12.0	1749.309	1749.759	audio	450.0	A1	False		False	4.0
+1760.09	2.0	trials	go_tone	8000.0	80.0	1760.09	0.1	False				False					nolight	0.0	nan	True	1762.32	True	2.0
+1772.321	2.0	trials	go_tone	8000.0	80.0	1772.321	0.1	False				False					nolight	0.0	nan	True	1775.163	False	2.0
+1783.651	2.0	trials	no_tone					True	5.0	1784.651	0.01	False					nolight	0.0	nan	False		False	5.0
+1795.131	2.0	trials	no_tone					True	5.0	1796.131	0.01	True	100.0	12.0	1796.0810000000001	1796.431	whisker	350.0	A1	False		False	5.0
+1806.683	2.0	trials	nogo_tone	4000.0	80.0	1806.683	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1817.921	2.0	trials	nogo_tone	4000.0	80.0	1817.921	0.1	False				False					nolight	0.0	nan	False		False	4.0
+1828.981	2.0	trials	no_tone					True	5.0	1829.981	0.01	False					nolight	0.0	nan	False		False	5.0
+1840.002	2.0	trials	go_tone	8000.0	80.0	1840.002	0.1	False				True	100.0	12.0	1840.402	1840.952	delay	550.0	A1	True	1842.8519999999999	False	2.0
+1851.092	2.0	trials	go_tone	8000.0	80.0	1851.092	0.1	True	5.0	1852.092	0.01	True	100.0	12.0	1851.4920000000002	1852.0420000000001	delay	550.0	A1	True	1853.332	True	1.0
+1888.552	2.0	trials	go_tone	8000.0	80.0	1888.552	0.1	True	5.0	1889.552	0.01	True	100.0	12.0	1888.952	1889.502	delay	550.0	A1	True	1889.168	True	1.0
+1899.174	2.0	trials	go_tone	8000.0	80.0	1899.174	0.1	True	5.0	1900.174	0.01	True	100.0	12.0	1899.574	1900.124	delay	550.0	A1	True	1901.91	False	1.0
+1910.223	2.0	trials	nogo_tone	4000.0	80.0	1910.223	0.1	True	5.0	1911.223	0.01	True	100.0	12.0	1910.623	1911.173	delay	550.0	A1	False		False	3.0
+1921.325	2.0	trials	go_tone	8000.0	80.0	1921.325	0.1	True	5.0	1922.325	0.01	True	100.0	12.0	1921.275	1921.7250000000001	audio	450.0	A1	True	1923.88	False	1.0
+1932.355	2.0	trials	go_tone	8000.0	80.0	1932.355	0.1	False				False					nolight	0.0	nan	True	1934.484	True	2.0
+1944.485	2.0	trials	go_tone	8000.0	80.0	1944.485	0.1	False				False					nolight	0.0	nan	True	1946.673	True	2.0
+1956.676	2.0	trials	go_tone	8000.0	80.0	1956.676	0.1	False				False					nolight	0.0	nan	True	1958.799	True	2.0
+1968.804	2.0	trials	go_tone	8000.0	80.0	1968.804	0.1	False				False					nolight	0.0	nan	True	1968.894	True	2.0
+1978.896	2.0	trials	go_tone	8000.0	80.0	1978.896	0.1	False				False					nolight	0.0	nan	True	1981.875	False	2.0
+1989.535	2.0	trials	go_tone	8000.0	80.0	1989.535	0.1	True	5.0	1990.535	0.01	True	100.0	12.0	1990.4850000000001	1990.835	whisker	350.0	A1	True	1991.885	True	1.0
+2001.885	2.0	trials	go_tone	8000.0	80.0	2001.885	0.1	True	5.0	2002.885	0.01	True	100.0	12.0	2002.835	2003.185	whisker	350.0	A1	True	2004.734	False	1.0
+2013.105	2.0	trials	nogo_tone	4000.0	80.0	2013.105	0.1	True	5.0	2014.105	0.01	False					nolight	0.0	nan	False		False	3.0
+2024.636	2.0	trials	go_tone	8000.0	80.0	2024.636	0.1	False				False					nolight	0.0	nan	True	2027.279	False	2.0
+2035.385	2.0	trials	nogo_tone	4000.0	80.0	2035.385	0.1	True	5.0	2036.385	0.01	True	100.0	12.0	2035.335	2035.785	audio	450.0	A1	False		False	3.0
+2046.498	2.0	trials	nogo_tone	4000.0	80.0	2046.498	0.1	False				False					nolight	0.0	nan	False		False	4.0
+2059.806	2.0	trials	nogo_tone	4000.0	80.0	2059.806	0.1	True	5.0	2060.806	0.01	False					nolight	0.0	nan	False		False	3.0
+2071.266	2.0	trials	go_tone	8000.0	80.0	2071.266	0.1	False				True	100.0	12.0	2071.216	2071.666	audio	450.0	A1	False		False	2.0
+2081.896	2.0	trials	go_tone	8000.0	80.0	2081.896	0.1	False				False					nolight	0.0	nan	True	2083.9230000000002	True	2.0
+2093.926	2.0	trials	go_tone	8000.0	80.0	2093.926	0.1	False				False					nolight	0.0	nan	True	2096.386	True	2.0
+2106.388	2.0	trials	go_tone	8000.0	80.0	2106.388	0.1	False				False					nolight	0.0	nan	True	2108.787	True	2.0
+2118.787	2.0	trials	go_tone	8000.0	80.0	2118.787	0.1	False				False					nolight	0.0	nan	True	2120.9109999999996	True	2.0
+2130.918	2.0	trials	go_tone	8000.0	80.0	2130.918	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2142.177	2.0	trials	no_tone					True	5.0	2143.177	0.01	False					nolight	0.0	nan	False		False	5.0
+2153.439	2.0	trials	go_tone	8000.0	80.0	2153.439	0.1	True	5.0	2154.439	0.01	False					nolight	0.0	nan	True	2155.7169999999996	True	1.0
+2165.719	2.0	trials	go_tone	8000.0	80.0	2165.719	0.1	True	5.0	2166.719	0.01	False					nolight	0.0	nan	True	2168.435	False	1.0
+2177.197	2.0	trials	go_tone	8000.0	80.0	2177.197	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2188.657	2.0	trials	nogo_tone	4000.0	80.0	2188.657	0.1	False				False					nolight	0.0	nan	False		False	4.0
+2199.77	2.0	trials	no_tone					True	5.0	2200.77	0.01	True	100.0	12.0	2199.72	2200.17	audio	450.0	A1	True	2202.494	False	5.0
+2211.098	2.0	trials	no_tone					True	5.0	2212.098	0.01	False					nolight	0.0	nan	False		False	5.0
+2222.508	2.0	trials	go_tone	8000.0	80.0	2222.508	0.1	True	5.0	2223.508	0.01	False					nolight	0.0	nan	True	2225.3599999999997	False	1.0
+2233.278	2.0	trials	go_tone	8000.0	80.0	2233.278	0.1	True	5.0	2234.278	0.01	False					nolight	0.0	nan	True	2235.857	False	1.0
+2244.8	2.0	trials	no_tone					True	5.0	2245.8	0.01	True	100.0	12.0	2245.2000000000003	2245.75	delay	550.0	A1	False		False	5.0
+2255.38	2.0	trials	no_tone					True	5.0	2256.38	0.01	False					nolight	0.0	nan	False		False	5.0
+2266.129	2.0	trials	go_tone	8000.0	80.0	2266.129	0.1	True	5.0	2267.129	0.01	False					nolight	0.0	nan	True	2268.359	True	1.0
+2278.369	2.0	trials	go_tone	8000.0	80.0	2278.369	0.1	True	5.0	2279.369	0.01	False					nolight	0.0	nan	True	2280.491	True	1.0
+2290.501	2.0	trials	go_tone	8000.0	80.0	2290.501	0.1	True	5.0	2291.501	0.01	False					nolight	0.0	nan	True	2292.3900000000003	True	1.0
+2302.389	2.0	trials	go_tone	8000.0	80.0	2302.389	0.1	True	5.0	2303.389	0.01	False					nolight	0.0	nan	True	2305.118	False	1.0
+2313.871	2.0	trials	nogo_tone	4000.0	80.0	2313.871	0.1	False				False					nolight	0.0	nan	False		False	4.0
+2324.911	2.0	trials	go_tone	8000.0	80.0	2324.911	0.1	False				False					nolight	0.0	nan	True	2326.289	True	2.0
+2336.29	2.0	trials	go_tone	8000.0	80.0	2336.29	0.1	False				False					nolight	0.0	nan	True	2338.7599999999998	True	2.0
+2348.774	2.0	trials	go_tone	8000.0	80.0	2348.774	0.1	False				False					nolight	0.0	nan	True	2351.0499999999997	True	2.0
+2361.052	2.0	trials	go_tone	8000.0	80.0	2361.052	0.1	False				False					nolight	0.0	nan	True	2361.391	True	2.0
+2371.401	2.0	trials	go_tone	8000.0	80.0	2371.401	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2382.702	2.0	trials	go_tone	8000.0	80.0	2382.702	0.1	False				True	100.0	12.0	2383.652	2384.0020000000004	whisker	350.0	A1	True	2385.3500000000004	False	2.0
+2394.031	2.0	trials	go_tone	8000.0	80.0	2394.031	0.1	True	5.0	2395.031	0.01	False					nolight	0.0	nan	True	2396.31	True	1.0
+2406.311	2.0	trials	go_tone	8000.0	80.0	2406.311	0.1	True	5.0	2407.311	0.01	False					nolight	0.0	nan	True	2408.491	True	1.0
+2418.492	2.0	trials	go_tone	8000.0	80.0	2418.492	0.1	True	5.0	2419.492	0.01	False					nolight	0.0	nan	True	2421.0220000000004	True	1.0
+2431.032	2.0	trials	go_tone	8000.0	80.0	2431.032	0.1	True	5.0	2432.032	0.01	False					nolight	0.0	nan	True	2433.7540000000004	False	1.0
+2441.872	2.0	trials	go_tone	8000.0	80.0	2441.872	0.1	False				True	100.0	12.0	2441.8219999999997	2442.272	audio	450.0	A1	False		False	2.0
+2453.393	2.0	trials	nogo_tone	4000.0	80.0	2453.393	0.1	True	5.0	2454.393	0.01	False					nolight	0.0	nan	False		False	3.0
+2464.364	2.0	trials	go_tone	8000.0	80.0	2464.364	0.1	True	5.0	2465.364	0.01	False					nolight	0.0	nan	True	2466.593	True	1.0
+2476.595	2.0	trials	go_tone	8000.0	80.0	2476.595	0.1	True	5.0	2477.595	0.01	False					nolight	0.0	nan	True	2479.256	False	1.0
+2487.392	2.0	trials	nogo_tone	4000.0	80.0	2487.392	0.1	True	5.0	2488.392	0.01	False					nolight	0.0	nan	False		False	3.0
+2498.011	2.0	trials	nogo_tone	4000.0	80.0	2498.011	0.1	True	5.0	2499.011	0.01	True	100.0	12.0	2497.961	2498.411	audio	450.0	A1	False		False	3.0
+2509.105	2.0	trials	no_tone					True	5.0	2510.105	0.01	True	100.0	12.0	2509.055	2509.505	audio	450.0	A1	False		False	5.0
+2519.675	2.0	trials	no_tone					True	5.0	2520.675	0.01	False					nolight	0.0	nan	False		False	5.0
+2530.604	2.0	trials	go_tone	8000.0	80.0	2530.604	0.1	False				False					nolight	0.0	nan	True	2533.143	True	2.0
+2543.153	2.0	trials	go_tone	8000.0	80.0	2543.153	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2554.598	2.0	trials	go_tone	8000.0	80.0	2554.598	0.1	False				False					nolight	0.0	nan	True	2557.094	True	2.0
+2567.095	2.0	trials	go_tone	8000.0	80.0	2567.095	0.1	False				False					nolight	0.0	nan	True	2568.7729999999997	True	2.0
+2578.782	2.0	trials	go_tone	8000.0	80.0	2578.782	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2590.084	2.0	trials	no_tone					True	5.0	2591.084	0.01	True	100.0	12.0	2591.0339999999997	2591.384	whisker	350.0	A1	False		False	5.0
+2601.054	2.0	trials	go_tone	8000.0	80.0	2601.054	0.1	True	5.0	2602.054	0.01	True	100.0	12.0	2602.004	2602.3540000000003	whisker	350.0	A1	True	2603.696	False	1.0
+2613.845	2.0	trials	nogo_tone	4000.0	80.0	2613.845	0.1	True	5.0	2614.845	0.01	False					nolight	0.0	nan	False		False	3.0
+2624.846	2.0	trials	go_tone	8000.0	80.0	2624.846	0.1	False				False					nolight	0.0	nan	True	2627.044	True	2.0
+2637.045	2.0	trials	go_tone	8000.0	80.0	2637.045	0.1	False				False					nolight	0.0	nan	True	2639.495	True	2.0
+2649.505	2.0	trials	go_tone	8000.0	80.0	2649.505	0.1	False				False					nolight	0.0	nan	False		False	2.0
+2660.287	2.0	trials	go_tone	8000.0	80.0	2660.287	0.1	True	5.0	2661.287	0.01	True	100.0	12.0	2660.2369999999996	2660.687	audio	450.0	A1	True	2662.716	True	1.0
+2672.726	2.0	trials	go_tone	8000.0	80.0	2672.726	0.1	True	5.0	2673.726	0.01	True	100.0	12.0	2672.676	2673.126	audio	450.0	A1	True	2675.46	False	1.0
+2683.676	2.0	trials	go_tone	8000.0	80.0	2683.676	0.1	True	5.0	2684.676	0.01	False					nolight	0.0	nan	True	2686.6659999999997	False	1.0
+2696.576	2.0	trials	nogo_tone	4000.0	80.0	2696.576	0.1	False				True	100.0	12.0	2697.526	2697.876	whisker	350.0	A1	False		False	4.0
+2708.086	2.0	trials	nogo_tone	4000.0	80.0	2708.086	0.1	True	5.0	2709.086	0.01	False					nolight	0.0	nan	False		False	3.0
+2719.286	2.0	trials	nogo_tone	4000.0	80.0	2719.286	0.1	True	5.0	2720.286	0.01	False					nolight	0.0	nan	False		False	3.0
+2730.419	2.0	trials	no_tone					True	5.0	2731.419	0.01	False					nolight	0.0	nan	False		False	5.0
+2741.559	2.0	trials	go_tone	8000.0	80.0	2741.559	0.1	False				False					nolight	0.0	nan	True	2743.6820000000002	True	2.0
+2753.687	2.0	trials	go_tone	8000.0	80.0	2753.687	0.1	False				False					nolight	0.0	nan	True	2755.857	True	2.0
+2765.979	2.0	trials	go_tone	8000.0	80.0	2765.979	0.1	False				False					nolight	0.0	nan	True	2768.002	True	2.0
+2779.857	2.0	trials	go_tone	8000.0	80.0	2779.857	0.1	False				False					nolight	0.0	nan	True	2782.357	True	2.0
+2794.009	2.0	trials	go_tone	8000.0	80.0	2794.009	0.1	False				False					nolight	0.0	nan	True	2796.188	True	2.0
+2806.198	2.0	trials	go_tone	8000.0	80.0	2806.198	0.1	False				False					nolight	0.0	nan	True	2808.6389999999997	True	2.0
+2818.643	2.0	trials	go_tone	8000.0	80.0	2818.643	0.1	False				False					nolight	0.0	nan	True	2822.035	False	2.0
+2829.67	2.0	trials	no_tone					True	5.0	2830.67	0.01	False					nolight	0.0	nan	False		False	5.0
+2840.349	2.0	trials	nogo_tone	4000.0	80.0	2840.349	0.1	False				False					nolight	0.0	nan	False		False	4.0
+2877.429	2.0	trials	no_tone					True	5.0	2878.429	0.01	False					nolight	0.0	nan	False		False	5.0
+2888.01	2.0	trials	nogo_tone	4000.0	80.0	2888.01	0.1	True	5.0	2889.01	0.01	True	100.0	12.0	2888.96	2889.3100000000004	whisker	350.0	A1	False		False	3.0
+2899.48	2.0	trials	no_tone					True	5.0	2900.48	0.01	False					nolight	0.0	nan	False		False	5.0
+2910.721	2.0	trials	go_tone	8000.0	80.0	2910.721	0.1	False				False					nolight	0.0	nan	True	2912.78	True	2.0
+2922.781	2.0	trials	go_tone	8000.0	80.0	2922.781	0.1	False				False					nolight	0.0	nan	True	2925.975	False	2.0
+2933.852	2.0	trials	nogo_tone	4000.0	80.0	2933.852	0.1	True	5.0	2934.852	0.01	True	100.0	12.0	2934.252	2934.8019999999997	delay	550.0	A1	True	2936.9179999999997	False	3.0
+2944.802	2.0	trials	go_tone	8000.0	80.0	2944.802	0.1	True	5.0	2945.802	0.01	False					nolight	0.0	nan	True	2947.542	False	1.0
+2963.571	2.0	trials	go_tone	8000.0	80.0	2963.571	0.1	True	5.0	2964.571	0.01	True	100.0	12.0	2963.971	2964.5209999999997	delay	550.0	A1	True	2963.96	True	1.0
+2974.621	2.0	trials	go_tone	8000.0	80.0	2974.621	0.1	True	5.0	2975.621	0.01	True	100.0	12.0	2975.021	2975.571	delay	550.0	A1	True	2975.021	True	1.0
+2985.022	2.0	trials	go_tone	8000.0	80.0	2985.022	0.1	True	5.0	2986.022	0.01	True	100.0	12.0	2985.422	2985.9719999999998	delay	550.0	A1	True	2987.71	False	1.0
+2996.513	2.0	trials	nogo_tone	4000.0	80.0	2996.513	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3007.813	2.0	trials	nogo_tone	4000.0	80.0	3007.813	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3018.582	2.0	trials	go_tone	8000.0	80.0	3018.582	0.1	False				True	100.0	12.0	3018.982	3019.5319999999997	delay	550.0	A1	True	3020.612	True	2.0
+3030.619	2.0	trials	go_tone	8000.0	80.0	3030.619	0.1	False				True	100.0	12.0	3031.0190000000002	3031.569	delay	550.0	A1	True	3033.587	False	2.0
+3041.183	2.0	trials	nogo_tone	4000.0	80.0	3041.183	0.1	False				True	100.0	12.0	3041.583	3042.133	delay	550.0	A1	False		False	4.0
+3052.482	2.0	trials	nogo_tone	4000.0	80.0	3052.482	0.1	True	5.0	3053.482	0.01	False					nolight	0.0	nan	False		False	3.0
+3063.602	2.0	trials	nogo_tone	4000.0	80.0	3063.602	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3074.333	2.0	trials	nogo_tone	4000.0	80.0	3074.333	0.1	False				True	100.0	12.0	3074.283	3074.733	audio	450.0	A1	False		False	4.0
+3085.483	2.0	trials	nogo_tone	4000.0	80.0	3085.483	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3096.217	2.0	trials	nogo_tone	4000.0	80.0	3096.217	0.1	True	5.0	3097.217	0.01	False					nolight	0.0	nan	False		False	3.0
+3107.265	2.0	trials	go_tone	8000.0	80.0	3107.265	0.1	True	5.0	3108.265	0.01	False					nolight	0.0	nan	True	3109.423	True	1.0
+3119.425	2.0	trials	go_tone	8000.0	80.0	3119.425	0.1	True	5.0	3120.425	0.01	False					nolight	0.0	nan	True	3122.0840000000003	False	1.0
+3130.874	2.0	trials	no_tone					True	5.0	3131.874	0.01	False					nolight	0.0	nan	True	3131.214	True	5.0
+3141.216	2.0	trials	no_tone					True	5.0	3142.216	0.01	False					nolight	0.0	nan	False		False	5.0
+3151.804	2.0	trials	go_tone	8000.0	80.0	3151.804	0.1	False				False					nolight	0.0	nan	True	3154.264	True	2.0
+3164.27	2.0	trials	go_tone	8000.0	80.0	3164.27	0.1	False				False					nolight	0.0	nan	False		False	2.0
+3175.716	2.0	trials	no_tone					True	5.0	3176.716	0.01	False					nolight	0.0	nan	False		False	5.0
+3186.324	2.0	trials	go_tone	8000.0	80.0	3186.324	0.1	True	5.0	3187.324	0.01	False					nolight	0.0	nan	True	3188.5480000000002	True	1.0
+3198.554	2.0	trials	go_tone	8000.0	80.0	3198.554	0.1	True	5.0	3199.554	0.01	False					nolight	0.0	nan	True	3200.781	True	1.0
+3210.785	2.0	trials	go_tone	8000.0	80.0	3210.785	0.1	True	5.0	3211.785	0.01	False					nolight	0.0	nan	True	3213.4649999999997	False	1.0
+3221.725	2.0	trials	nogo_tone	4000.0	80.0	3221.725	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3232.887	2.0	trials	nogo_tone	4000.0	80.0	3232.887	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3244.285	2.0	trials	no_tone					True	5.0	3245.285	0.01	False					nolight	0.0	nan	False		False	5.0
+3255.846	2.0	trials	go_tone	8000.0	80.0	3255.846	0.1	True	5.0	3256.846	0.01	True	100.0	12.0	3256.246	3256.796	delay	550.0	A1	True	3258.492	False	1.0
+3266.727	2.0	trials	nogo_tone	4000.0	80.0	3266.727	0.1	True	5.0	3267.727	0.01	False					nolight	0.0	nan	False		False	3.0
+3277.366	2.0	trials	go_tone	8000.0	80.0	3277.366	0.1	False				False					nolight	0.0	nan	True	3279.6059999999998	True	2.0
+3289.608	2.0	trials	go_tone	8000.0	80.0	3289.608	0.1	False				False					nolight	0.0	nan	True	3292.3340000000003	False	2.0
+3300.476	2.0	trials	go_tone	8000.0	80.0	3300.476	0.1	False				True	100.0	12.0	3300.426	3300.876	audio	450.0	A1	True	3302.936	True	2.0
+3312.938	2.0	trials	go_tone	8000.0	80.0	3312.938	0.1	False				True	100.0	12.0	3312.888	3313.338	audio	450.0	A1	True	3315.6020000000003	False	2.0
+3323.937	2.0	trials	no_tone					True	5.0	3324.937	0.01	False					nolight	0.0	nan	True	3326.6059999999998	False	5.0
+3335.199	2.0	trials	go_tone	8000.0	80.0	3335.199	0.1	True	5.0	3336.199	0.01	True	100.0	12.0	3336.149	3336.4990000000003	whisker	350.0	A1	True	3337.522	True	1.0
+3347.529	2.0	trials	go_tone	8000.0	80.0	3347.529	0.1	True	5.0	3348.529	0.01	True	100.0	12.0	3348.479	3348.829	whisker	350.0	A1	False		False	1.0
+3358.787	2.0	trials	go_tone	8000.0	80.0	3358.787	0.1	True	5.0	3359.787	0.01	False					nolight	0.0	nan	True	3360.5769999999998	True	1.0
+3370.579	2.0	trials	go_tone	8000.0	80.0	3370.579	0.1	True	5.0	3371.579	0.01	False					nolight	0.0	nan	True	3370.848	True	1.0
+3380.848	2.0	trials	go_tone	8000.0	80.0	3380.848	0.1	True	5.0	3381.848	0.01	False					nolight	0.0	nan	True	3383.624	False	1.0
+3392.288	2.0	trials	nogo_tone	4000.0	80.0	3392.288	0.1	False				True	100.0	12.0	3392.688	3393.238	delay	550.0	A1	False		False	4.0
+3402.859	2.0	trials	no_tone					True	5.0	3403.859	0.01	False					nolight	0.0	nan	False		False	5.0
+3413.739	2.0	trials	no_tone					True	5.0	3414.739	0.01	True	100.0	12.0	3413.689	3414.139	audio	450.0	A1	False		False	5.0
+3425.228	2.0	trials	nogo_tone	4000.0	80.0	3425.228	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3436.349	2.0	trials	go_tone	8000.0	80.0	3436.349	0.1	True	5.0	3437.349	0.01	False					nolight	0.0	nan	True	3439.047	False	1.0
+3447.39	2.0	trials	nogo_tone	4000.0	80.0	3447.39	0.1	False				True	100.0	12.0	3447.3399999999997	3447.79	audio	450.0	A1	False		False	4.0
+3458.859	2.0	trials	nogo_tone	4000.0	80.0	3458.859	0.1	True	5.0	3459.859	0.01	True	100.0	12.0	3459.259	3459.8089999999997	delay	550.0	A1	False		False	3.0
+3469.469	2.0	trials	nogo_tone	4000.0	80.0	3469.469	0.1	False				True	100.0	12.0	3470.419	3470.7690000000002	whisker	350.0	A1	False		False	4.0
+3480.479	2.0	trials	no_tone					True	5.0	3481.479	0.01	False					nolight	0.0	nan	False		False	5.0
+3491.321	2.0	trials	nogo_tone	4000.0	80.0	3491.321	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3502.461	2.0	trials	go_tone	8000.0	80.0	3502.461	0.1	True	5.0	3503.461	0.01	False					nolight	0.0	nan	True	3504.919	True	1.0
+3514.92	2.0	trials	go_tone	8000.0	80.0	3514.92	0.1	True	5.0	3515.92	0.01	False					nolight	0.0	nan	True	3517.043	True	1.0
+3527.052	2.0	trials	go_tone	8000.0	80.0	3527.052	0.1	True	5.0	3528.052	0.01	False					nolight	0.0	nan	True	3529.4300000000003	True	1.0
+3539.432	2.0	trials	go_tone	8000.0	80.0	3539.432	0.1	True	5.0	3540.432	0.01	False					nolight	0.0	nan	True	3541.9199999999996	True	1.0
+3551.921	2.0	trials	go_tone	8000.0	80.0	3551.921	0.1	True	5.0	3552.921	0.01	False					nolight	0.0	nan	True	3554.6479999999997	False	1.0
+3563.216	2.0	trials	nogo_tone	4000.0	80.0	3563.216	0.1	True	5.0	3564.216	0.01	False					nolight	0.0	nan	False		False	3.0
+3574.092	2.0	trials	go_tone	8000.0	80.0	3574.092	0.1	True	5.0	3575.092	0.01	True	100.0	12.0	3574.042	3574.492	audio	450.0	A1	True	3576.811	False	1.0
+3585.131	2.0	trials	go_tone	8000.0	80.0	3585.131	0.1	False				False					nolight	0.0	nan	True	3587.683	False	2.0
+3596.419	2.0	trials	nogo_tone	4000.0	80.0	3596.419	0.1	True	5.0	3597.419	0.01	False					nolight	0.0	nan	False		False	3.0
+3607.161	2.0	trials	nogo_tone	4000.0	80.0	3607.161	0.1	True	5.0	3608.161	0.01	True	100.0	12.0	3608.111	3608.4610000000002	whisker	350.0	A1	False		False	3.0
+3618.582	2.0	trials	nogo_tone	4000.0	80.0	3618.582	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3629.821	2.0	trials	go_tone	8000.0	80.0	3629.821	0.1	False				True	100.0	12.0	3630.221	3630.7709999999997	delay	550.0	A1	True	3632.578	False	2.0
+3641.192	2.0	trials	go_tone	8000.0	80.0	3641.192	0.1	False				False					nolight	0.0	nan	True	3643.532	True	2.0
+3653.542	2.0	trials	go_tone	8000.0	80.0	3653.542	0.1	False				False					nolight	0.0	nan	False		False	2.0
+3664.372	2.0	trials	go_tone	8000.0	80.0	3664.372	0.1	True	5.0	3665.372	0.01	False					nolight	0.0	nan	True	3666.732	True	1.0
+3676.734	2.0	trials	go_tone	8000.0	80.0	3676.734	0.1	True	5.0	3677.734	0.01	False					nolight	0.0	nan	True	3679.4719999999998	False	1.0
+3689.464	2.0	trials	no_tone					True	5.0	3690.464	0.01	True	100.0	12.0	3689.864	3690.4139999999998	delay	550.0	A1	True	3690.287	True	5.0
+3700.293	2.0	trials	no_tone					True	5.0	3701.293	0.01	True	100.0	12.0	3700.693	3701.243	delay	550.0	A1	False		False	5.0
+3711.263	2.0	trials	nogo_tone	4000.0	80.0	3711.263	0.1	True	5.0	3712.263	0.01	True	100.0	12.0	3711.2129999999997	3711.663	audio	450.0	A1	False		False	3.0
+3722.815	2.0	trials	go_tone	8000.0	80.0	3722.815	0.1	False				True	100.0	12.0	3723.765	3724.1150000000002	whisker	350.0	A1	True	3725.561	False	2.0
+3733.843	2.0	trials	nogo_tone	4000.0	80.0	3733.843	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3744.523	2.0	trials	go_tone	8000.0	80.0	3744.523	0.1	False				False					nolight	0.0	nan	True	3747.107	False	2.0
+3755.264	2.0	trials	go_tone	8000.0	80.0	3755.264	0.1	False				False					nolight	0.0	nan	True	3757.853	False	2.0
+3766.124	2.0	trials	nogo_tone	4000.0	80.0	3766.124	0.1	True	5.0	3767.124	0.01	False					nolight	0.0	nan	False		False	3.0
+3777.084	2.0	trials	nogo_tone	4000.0	80.0	3777.084	0.1	True	5.0	3778.084	0.01	False					nolight	0.0	nan	False		False	3.0
+3787.665	2.0	trials	no_tone					True	5.0	3788.665	0.01	True	100.0	12.0	3788.615	3788.965	whisker	350.0	A1	True	3790.962	False	5.0
+3798.525	2.0	trials	no_tone					True	5.0	3799.525	0.01	False					nolight	0.0	nan	False		False	5.0
+3809.916	2.0	trials	no_tone					True	5.0	3810.916	0.01	True	100.0	12.0	3809.866	3810.3160000000003	audio	450.0	A1	True	3812.597	False	5.0
+3820.785	2.0	trials	nogo_tone	4000.0	80.0	3820.785	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3832.197	2.0	trials	nogo_tone	4000.0	80.0	3832.197	0.1	False				True	100.0	12.0	3832.597	3833.147	delay	550.0	A1	False		False	4.0
+3843.187	2.0	trials	go_tone	8000.0	80.0	3843.187	0.1	True	5.0	3844.187	0.01	False					nolight	0.0	nan	True	3845.908	False	1.0
+3853.766	2.0	trials	go_tone	8000.0	80.0	3853.766	0.1	False				False					nolight	0.0	nan	True	3856.29	True	2.0
+3866.296	2.0	trials	go_tone	8000.0	80.0	3866.296	0.1	False				False					nolight	0.0	nan	True	3868.7859999999996	True	2.0
+3878.787	2.0	trials	go_tone	8000.0	80.0	3878.787	0.1	False				False					nolight	0.0	nan	True	3881.7079999999996	False	2.0
+3890.198	2.0	trials	nogo_tone	4000.0	80.0	3890.198	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3901.706	2.0	trials	no_tone					True	5.0	3902.706	0.01	True	100.0	12.0	3902.106	3902.656	delay	550.0	A1	True	3904.402	False	5.0
+3912.808	2.0	trials	no_tone					True	5.0	3913.808	0.01	False					nolight	0.0	nan	False		False	5.0
+3923.967	2.0	trials	go_tone	8000.0	80.0	3923.967	0.1	True	5.0	3924.967	0.01	True	100.0	12.0	3924.367	3924.917	delay	550.0	A1	True	3926.7490000000003	False	1.0
+3935.018	2.0	trials	go_tone	8000.0	80.0	3935.018	0.1	True	5.0	3936.018	0.01	False					nolight	0.0	nan	True	3937.702	False	1.0
+3946.418	2.0	trials	no_tone					True	5.0	3947.418	0.01	False					nolight	0.0	nan	False		False	5.0
+3957.397	2.0	trials	go_tone	8000.0	80.0	3957.397	0.1	False				False					nolight	0.0	nan	True	3959.647	True	2.0
+3969.657	2.0	trials	go_tone	8000.0	80.0	3969.657	0.1	False				False					nolight	0.0	nan	True	3972.28	False	2.0
+3982.089	2.0	trials	nogo_tone	4000.0	80.0	3982.089	0.1	False				False					nolight	0.0	nan	False		False	4.0
+3993.313	2.0	trials	nogo_tone	4000.0	80.0	3993.313	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4004.658	2.0	trials	go_tone	8000.0	80.0	4004.658	0.1	False				True	100.0	12.0	4005.058	4005.6079999999997	delay	550.0	A1	True	4007.355	False	2.0
+4016.058	2.0	trials	nogo_tone	4000.0	80.0	4016.058	0.1	True	5.0	4017.058	0.01	True	100.0	12.0	4017.008	4017.358	whisker	350.0	A1	False		False	3.0
+4026.798	2.0	trials	go_tone	8000.0	80.0	4026.798	0.1	True	5.0	4027.798	0.01	False					nolight	0.0	nan	True	4029.5409999999997	False	1.0
+4038.168	2.0	trials	nogo_tone	4000.0	80.0	4038.168	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4049.189	2.0	trials	nogo_tone	4000.0	80.0	4049.189	0.1	True	5.0	4050.189	0.01	True	100.0	12.0	4049.589	4050.1389999999997	delay	550.0	A1	False		False	3.0
+4060.609	2.0	trials	nogo_tone	4000.0	80.0	4060.609	0.1	True	5.0	4061.609	0.01	False					nolight	0.0	nan	False		False	3.0
+4071.419	2.0	trials	no_tone					True	5.0	4072.419	0.01	False					nolight	0.0	nan	False		False	5.0
+4082.231	2.0	trials	nogo_tone	4000.0	80.0	4082.231	0.1	False				True	100.0	12.0	4083.181	4083.5310000000004	whisker	350.0	A1	False		False	4.0
+4092.95	2.0	trials	go_tone	8000.0	80.0	4092.95	0.1	False				False					nolight	0.0	nan	True	4095.439	True	2.0
+4105.44	2.0	trials	go_tone	8000.0	80.0	4105.44	0.1	False				False					nolight	0.0	nan	True	4107.969999999999	True	2.0
+4117.971	2.0	trials	go_tone	8000.0	80.0	4117.971	0.1	False				False					nolight	0.0	nan	True	4120.633	False	2.0
+4128.69	2.0	trials	nogo_tone	4000.0	80.0	4128.69	0.1	True	5.0	4129.69	0.01	False					nolight	0.0	nan	False		False	3.0
+4139.275	2.0	trials	go_tone	8000.0	80.0	4139.275	0.1	True	5.0	4140.275	0.01	False					nolight	0.0	nan	True	4141.37	True	1.0
+4151.37	2.0	trials	go_tone	8000.0	80.0	4151.37	0.1	True	5.0	4152.37	0.01	False					nolight	0.0	nan	True	4154.07	False	1.0
+4162.161	2.0	trials	nogo_tone	4000.0	80.0	4162.161	0.1	True	5.0	4163.161	0.01	False					nolight	0.0	nan	False		False	3.0
+4173.061	2.0	trials	nogo_tone	4000.0	80.0	4173.061	0.1	True	5.0	4174.061	0.01	False					nolight	0.0	nan	False		False	3.0
+4184.282	2.0	trials	go_tone	8000.0	80.0	4184.282	0.1	True	5.0	4185.282	0.01	True	100.0	12.0	4184.232	4184.682	audio	450.0	A1	True	4186.531	True	1.0
+4196.532	2.0	trials	go_tone	8000.0	80.0	4196.532	0.1	True	5.0	4197.532	0.01	True	100.0	12.0	4196.482	4196.932	audio	450.0	A1	False		False	1.0
+4207.563	2.0	trials	no_tone					True	5.0	4208.563	0.01	False					nolight	0.0	nan	False		False	5.0
+4218.533	2.0	trials	nogo_tone	4000.0	80.0	4218.533	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4230.043	2.0	trials	go_tone	8000.0	80.0	4230.043	0.1	True	5.0	4231.043	0.01	False					nolight	0.0	nan	True	4232.786	False	1.0
+4240.612	2.0	trials	go_tone	8000.0	80.0	4240.612	0.1	False				False					nolight	0.0	nan	True	4243.575	False	2.0
+4251.844	2.0	trials	no_tone					True	5.0	4252.844	0.01	True	100.0	12.0	4252.794	4253.144	whisker	350.0	A1	False		False	5.0
+4262.943	2.0	trials	nogo_tone	4000.0	80.0	4262.943	0.1	False				True	100.0	12.0	4262.893	4263.343	audio	450.0	A1	False		False	4.0
+4273.604	2.0	trials	nogo_tone	4000.0	80.0	4273.604	0.1	True	5.0	4274.604	0.01	False					nolight	0.0	nan	False		False	3.0
+4284.612	2.0	trials	go_tone	8000.0	80.0	4284.612	0.1	False				False					nolight	0.0	nan	True	4287.012	True	2.0
+4297.014	2.0	trials	go_tone	8000.0	80.0	4297.014	0.1	False				False					nolight	0.0	nan	True	4299.303	True	2.0
+4309.304	2.0	trials	go_tone	8000.0	80.0	4309.304	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4320.065	2.0	trials	go_tone	8000.0	80.0	4320.065	0.1	False				True	100.0	12.0	4320.014999999999	4320.464999999999	audio	450.0	A1	True	4322.786999999999	False	2.0
+4330.746	2.0	trials	go_tone	8000.0	80.0	4330.746	0.1	True	5.0	4331.746	0.01	True	100.0	12.0	4331.696	4332.046	whisker	350.0	A1	True	4333.537	False	1.0
+4341.374	2.0	trials	nogo_tone	4000.0	80.0	4341.374	0.1	True	5.0	4342.374	0.01	False					nolight	0.0	nan	False		False	3.0
+4352.887	2.0	trials	nogo_tone	4000.0	80.0	4352.887	0.1	True	5.0	4353.887	0.01	True	100.0	12.0	4352.8369999999995	4353.286999999999	audio	450.0	A1	False		False	3.0
+4363.674	2.0	trials	no_tone					True	5.0	4364.674	0.01	False					nolight	0.0	nan	False		False	5.0
+4375.114	2.0	trials	go_tone	8000.0	80.0	4375.114	0.1	True	5.0	4376.114	0.01	False					nolight	0.0	nan	True	4377.6669999999995	False	1.0
+4385.687	2.0	trials	go_tone	8000.0	80.0	4385.687	0.1	False				True	100.0	12.0	4386.637	4386.987	whisker	350.0	A1	False		False	2.0
+4397.024	2.0	trials	go_tone	8000.0	80.0	4397.024	0.1	False				False					nolight	0.0	nan	True	4399.494000000001	True	2.0
+4409.495	2.0	trials	go_tone	8000.0	80.0	4409.495	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4420.175	2.0	trials	go_tone	8000.0	80.0	4420.175	0.1	False				False					nolight	0.0	nan	True	4423.291	False	2.0
+4430.865	2.0	trials	go_tone	8000.0	80.0	4430.865	0.1	True	5.0	4431.865	0.01	True	100.0	12.0	4430.815	4431.264999999999	audio	450.0	A1	True	4433.589	False	1.0
+4441.737	2.0	trials	nogo_tone	4000.0	80.0	4441.737	0.1	True	5.0	4442.737	0.01	True	100.0	12.0	4441.687	4442.137	audio	450.0	A1	False		False	3.0
+4452.956	2.0	trials	nogo_tone	4000.0	80.0	4452.956	0.1	True	5.0	4453.956	0.01	False					nolight	0.0	nan	False		False	3.0
+4463.897	2.0	trials	go_tone	8000.0	80.0	4463.897	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4474.746	2.0	trials	no_tone					True	5.0	4475.746	0.01	True	100.0	12.0	4475.146	4475.696	delay	550.0	A1	False		False	5.0
+4485.566	2.0	trials	nogo_tone	4000.0	80.0	4485.566	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4496.196	2.0	trials	nogo_tone	4000.0	80.0	4496.196	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4507.536	2.0	trials	go_tone	8000.0	80.0	4507.536	0.1	True	5.0	4508.536	0.01	False					nolight	0.0	nan	True	4510.304	False	1.0
+4518.487	2.0	trials	go_tone	8000.0	80.0	4518.487	0.1	True	5.0	4519.487	0.01	False					nolight	0.0	nan	False		False	1.0
+4529.537	2.0	trials	no_tone					True	5.0	4530.537	0.01	False					nolight	0.0	nan	False		False	5.0
+4540.287	2.0	trials	nogo_tone	4000.0	80.0	4540.287	0.1	False				True	100.0	12.0	4541.237	4541.587	whisker	350.0	A1	False		False	4.0
+4551.109	2.0	trials	go_tone	8000.0	80.0	4551.109	0.1	False				False					nolight	0.0	nan	True	4553.442	True	2.0
+4563.449	2.0	trials	go_tone	8000.0	80.0	4563.449	0.1	False				False					nolight	0.0	nan	True	4566.03	False	2.0
+4574.799	2.0	trials	go_tone	8000.0	80.0	4574.799	0.1	True	5.0	4575.799	0.01	True	100.0	12.0	4575.749	4576.099	whisker	350.0	A1	True	4577.638	False	1.0
+4586.247	2.0	trials	no_tone					True	5.0	4587.247	0.01	True	100.0	12.0	4586.197	4586.647	audio	450.0	A1	False		False	5.0
+4597.662	2.0	trials	nogo_tone	4000.0	80.0	4597.662	0.1	True	5.0	4598.662	0.01	True	100.0	12.0	4598.612	4598.962	whisker	350.0	A1	False		False	3.0
+4608.24	2.0	trials	go_tone	8000.0	80.0	4608.24	0.1	True	5.0	4609.24	0.01	False					nolight	0.0	nan	True	4610.098	True	1.0
+4620.1	2.0	trials	go_tone	8000.0	80.0	4620.1	0.1	True	5.0	4621.1	0.01	False					nolight	0.0	nan	True	4622.229	True	1.0
+4632.239	2.0	trials	go_tone	8000.0	80.0	4632.239	0.1	True	5.0	4633.239	0.01	False					nolight	0.0	nan	True	4634.489	True	1.0
+4644.49	2.0	trials	go_tone	8000.0	80.0	4644.49	0.1	True	5.0	4645.49	0.01	False					nolight	0.0	nan	True	4647.172	False	1.0
+4656.019	2.0	trials	no_tone					True	5.0	4657.019	0.01	False					nolight	0.0	nan	True	4657.569	True	5.0
+4667.579	2.0	trials	no_tone					True	5.0	4668.579	0.01	False					nolight	0.0	nan	False		False	5.0
+4678.619	2.0	trials	nogo_tone	4000.0	80.0	4678.619	0.1	True	5.0	4679.619	0.01	False					nolight	0.0	nan	False		False	3.0
+4689.271	2.0	trials	nogo_tone	4000.0	80.0	4689.271	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4699.88	2.0	trials	go_tone	8000.0	80.0	4699.88	0.1	False				False					nolight	0.0	nan	True	4702.2300000000005	True	2.0
+4712.24	2.0	trials	go_tone	8000.0	80.0	4712.24	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4723.07	2.0	trials	go_tone	8000.0	80.0	4723.07	0.1	True	5.0	4724.07	0.01	False					nolight	0.0	nan	True	4725.768999999999	False	1.0
+4734.07	2.0	trials	go_tone	8000.0	80.0	4734.07	0.1	True	5.0	4735.07	0.01	False					nolight	0.0	nan	True	4736.736	False	1.0
+4745.8	2.0	trials	nogo_tone	4000.0	80.0	4745.8	0.1	True	5.0	4746.8	0.01	False					nolight	0.0	nan	True	4747.7300000000005	True	3.0
+4757.741	2.0	trials	nogo_tone	4000.0	80.0	4757.741	0.1	True	5.0	4758.741	0.01	False					nolight	0.0	nan	False		False	3.0
+4768.832	2.0	trials	go_tone	8000.0	80.0	4768.832	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4779.973	2.0	trials	nogo_tone	4000.0	80.0	4779.973	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4791.163	2.0	trials	nogo_tone	4000.0	80.0	4791.163	0.1	True	5.0	4792.163	0.01	False					nolight	0.0	nan	False		False	3.0
+4802.602	2.0	trials	nogo_tone	4000.0	80.0	4802.602	0.1	True	5.0	4803.602	0.01	False					nolight	0.0	nan	False		False	3.0
+4813.633	2.0	trials	go_tone	8000.0	80.0	4813.633	0.1	False				True	100.0	12.0	4814.032999999999	4814.583	delay	550.0	A1	True	4815.891	True	2.0
+4825.893	2.0	trials	go_tone	8000.0	80.0	4825.893	0.1	False				True	100.0	12.0	4826.293	4826.843	delay	550.0	A1	True	4828.767	False	2.0
+4837.412	2.0	trials	nogo_tone	4000.0	80.0	4837.412	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4848.292	2.0	trials	nogo_tone	4000.0	80.0	4848.292	0.1	False				True	100.0	12.0	4848.692	4849.242	delay	550.0	A1	False		False	4.0
+4859.103	2.0	trials	go_tone	8000.0	80.0	4859.103	0.1	True	5.0	4860.103	0.01	True	100.0	12.0	4859.503	4860.053	delay	550.0	A1	True	4861.785	False	1.0
+4870.342	2.0	trials	no_tone					True	5.0	4871.342	0.01	False					nolight	0.0	nan	False		False	5.0
+4881.243	2.0	trials	no_tone					True	5.0	4882.243	0.01	False					nolight	0.0	nan	False		False	5.0
+4892.193	2.0	trials	go_tone	8000.0	80.0	4892.193	0.1	False				True	100.0	12.0	4892.143	4892.593	audio	450.0	A1	False		False	2.0
+4903.583	2.0	trials	go_tone	8000.0	80.0	4903.583	0.1	False				False					nolight	0.0	nan	False		False	2.0
+4914.653	2.0	trials	nogo_tone	4000.0	80.0	4914.653	0.1	False				True	100.0	12.0	4914.603	4915.053	audio	450.0	A1	False		False	4.0
+4926.035	2.0	trials	go_tone	8000.0	80.0	4926.035	0.1	False				True	100.0	12.0	4926.985	4927.335	whisker	350.0	A1	True	4928.174	True	2.0
+4938.175	2.0	trials	go_tone	8000.0	80.0	4938.175	0.1	False				True	100.0	12.0	4939.125	4939.475	whisker	350.0	A1	False		False	2.0
+4948.796	2.0	trials	no_tone					True	5.0	4949.796	0.01	False					nolight	0.0	nan	False		False	5.0
+4959.764	2.0	trials	go_tone	8000.0	80.0	4959.764	0.1	True	5.0	4960.764	0.01	False					nolight	0.0	nan	True	4962.486	False	1.0
+4970.494	2.0	trials	no_tone					True	5.0	4971.494	0.01	False					nolight	0.0	nan	False		False	5.0
+4981.386	2.0	trials	nogo_tone	4000.0	80.0	4981.386	0.1	False				False					nolight	0.0	nan	False		False	4.0
+4992.805	2.0	trials	nogo_tone	4000.0	80.0	4992.805	0.1	True	5.0	4993.805	0.01	True	100.0	12.0	4993.205	4993.755	delay	550.0	A1	False		False	3.0
+5003.995	2.0	trials	no_tone					True	5.0	5004.995	0.01	True	100.0	12.0	5004.945	5005.295	whisker	350.0	A1	True	5005.375	True	5.0
+5015.375	2.0	trials	no_tone					True	5.0	5016.375	0.01	True	100.0	12.0	5016.325	5016.675	whisker	350.0	A1	False		False	5.0
+5026.527	2.0	trials	nogo_tone	4000.0	80.0	5026.527	0.1	True	5.0	5027.527	0.01	False					nolight	0.0	nan	False		False	3.0
+5037.685	2.0	trials	nogo_tone	4000.0	80.0	5037.685	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5048.525	2.0	trials	no_tone					True	5.0	5049.525	0.01	False					nolight	0.0	nan	False		False	5.0
+5059.476	2.0	trials	go_tone	8000.0	80.0	5059.476	0.1	False				False					nolight	0.0	nan	True	5061.599999999999	True	2.0
+5071.606	2.0	trials	go_tone	8000.0	80.0	5071.606	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5083.104	2.0	trials	go_tone	8000.0	80.0	5083.104	0.1	True	5.0	5084.104	0.01	False					nolight	0.0	nan	True	5085.761	False	1.0
+5094.226	2.0	trials	nogo_tone	4000.0	80.0	5094.226	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5105.436	2.0	trials	no_tone					True	5.0	5106.436	0.01	True	100.0	12.0	5105.835999999999	5106.3859999999995	delay	550.0	A1	False		False	5.0
+5116.297	2.0	trials	go_tone	8000.0	80.0	5116.297	0.1	False				False					nolight	0.0	nan	True	5118.62	True	2.0
+5128.629	2.0	trials	go_tone	8000.0	80.0	5128.629	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5139.489	2.0	trials	nogo_tone	4000.0	80.0	5139.489	0.1	True	5.0	5140.489	0.01	True	100.0	12.0	5140.438999999999	5140.789	whisker	350.0	A1	False		False	3.0
+5150.437	2.0	trials	nogo_tone	4000.0	80.0	5150.437	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5161.421	2.0	trials	nogo_tone	4000.0	80.0	5161.421	0.1	True	5.0	5162.421	0.01	False					nolight	0.0	nan	False		False	3.0
+5172.607	2.0	trials	go_tone	8000.0	80.0	5172.607	0.1	True	5.0	5173.607	0.01	True	100.0	12.0	5173.007	5173.557	delay	550.0	A1	True	5175.306	False	1.0
+5183.238	2.0	trials	go_tone	8000.0	80.0	5183.238	0.1	True	5.0	5184.238	0.01	True	100.0	12.0	5184.188	5184.5380000000005	whisker	350.0	A1	False		False	1.0
+5194.489	2.0	trials	nogo_tone	4000.0	80.0	5194.489	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5205.589	2.0	trials	no_tone					True	5.0	5206.589	0.01	False					nolight	0.0	nan	False		False	5.0
+5216.498	2.0	trials	no_tone					True	5.0	5217.498	0.01	False					nolight	0.0	nan	False		False	5.0
+5227.069	2.0	trials	nogo_tone	4000.0	80.0	5227.069	0.1	True	5.0	5228.069	0.01	True	100.0	12.0	5227.469	5228.019	delay	550.0	A1	False		False	3.0
+5238.34	2.0	trials	go_tone	8000.0	80.0	5238.34	0.1	False				False					nolight	0.0	nan	True	5240.339	True	2.0
+5250.349	2.0	trials	go_tone	8000.0	80.0	5250.349	0.1	False				False					nolight	0.0	nan	True	5252.9400000000005	False	2.0
+5261.381	2.0	trials	go_tone	8000.0	80.0	5261.381	0.1	True	5.0	5262.381	0.01	False					nolight	0.0	nan	True	5263.627	True	1.0
+5273.631	2.0	trials	go_tone	8000.0	80.0	5273.631	0.1	True	5.0	5274.631	0.01	False					nolight	0.0	nan	True	5276.427000000001	False	1.0
+5284.26	2.0	trials	nogo_tone	4000.0	80.0	5284.26	0.1	False				True	100.0	12.0	5284.66	5285.21	delay	550.0	A1	False		False	4.0
+5295.421	2.0	trials	nogo_tone	4000.0	80.0	5295.421	0.1	True	5.0	5296.421	0.01	False					nolight	0.0	nan	False		False	3.0
+5306.431	2.0	trials	no_tone					True	5.0	5307.431	0.01	False					nolight	0.0	nan	False		False	5.0
+5317.762	2.0	trials	no_tone					True	5.0	5318.762	0.01	True	100.0	12.0	5317.7119999999995	5318.161999999999	audio	450.0	A1	False		False	5.0
+5329.2	2.0	trials	nogo_tone	4000.0	80.0	5329.2	0.1	True	5.0	5330.2	0.01	False					nolight	0.0	nan	True	5332.433	False	3.0
+5340.571	2.0	trials	go_tone	8000.0	80.0	5340.571	0.1	True	5.0	5341.571	0.01	False					nolight	0.0	nan	True	5343.1449999999995	False	1.0
+5351.99	2.0	trials	go_tone	8000.0	80.0	5351.99	0.1	False				True	100.0	12.0	5352.94	5353.29	whisker	350.0	A1	False		False	2.0
+5363.522	2.0	trials	nogo_tone	4000.0	80.0	5363.522	0.1	True	5.0	5364.522	0.01	True	100.0	12.0	5363.472	5363.922	audio	450.0	A1	False		False	3.0
+5374.743	2.0	trials	nogo_tone	4000.0	80.0	5374.743	0.1	False				True	100.0	12.0	5375.693	5376.043000000001	whisker	350.0	A1	False		False	4.0
+5385.441	2.0	trials	go_tone	8000.0	80.0	5385.441	0.1	False				True	100.0	12.0	5385.391	5385.840999999999	audio	450.0	A1	False		False	2.0
+5396.373	2.0	trials	nogo_tone	4000.0	80.0	5396.373	0.1	True	5.0	5397.373	0.01	False					nolight	0.0	nan	False		False	3.0
+5407.711	2.0	trials	nogo_tone	4000.0	80.0	5407.711	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5419.142	2.0	trials	go_tone	8000.0	80.0	5419.142	0.1	True	5.0	5420.142	0.01	False					nolight	0.0	nan	True	5421.565	True	1.0
+5431.572	2.0	trials	go_tone	8000.0	80.0	5431.572	0.1	True	5.0	5432.572	0.01	False					nolight	0.0	nan	True	5433.912	True	1.0
+5443.916	2.0	trials	go_tone	8000.0	80.0	5443.916	0.1	True	5.0	5444.916	0.01	False					nolight	0.0	nan	True	5446.6810000000005	False	1.0
+5454.583	2.0	trials	no_tone					True	5.0	5455.583	0.01	False					nolight	0.0	nan	False		False	5.0
+5465.194	2.0	trials	go_tone	8000.0	80.0	5465.194	0.1	True	5.0	5466.194	0.01	False					nolight	0.0	nan	True	5467.363	True	1.0
+5477.364	2.0	trials	go_tone	8000.0	80.0	5477.364	0.1	True	5.0	5478.364	0.01	False					nolight	0.0	nan	True	5480.048	False	1.0
+5488.794	2.0	trials	nogo_tone	4000.0	80.0	5488.794	0.1	False				True	100.0	12.0	5488.744	5489.1939999999995	audio	450.0	A1	False		False	4.0
+5499.923	2.0	trials	no_tone					True	5.0	5500.923	0.01	True	100.0	12.0	5500.873	5501.223	whisker	350.0	A1	False		False	5.0
+5510.943	2.0	trials	go_tone	8000.0	80.0	5510.943	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5521.812	2.0	trials	go_tone	8000.0	80.0	5521.812	0.1	False				False					nolight	0.0	nan	True	5524.468	False	2.0
+5533.363	2.0	trials	go_tone	8000.0	80.0	5533.363	0.1	True	5.0	5534.363	0.01	False					nolight	0.0	nan	True	5536.02	False	1.0
+5544.735	2.0	trials	no_tone					True	5.0	5545.735	0.01	False					nolight	0.0	nan	False		False	5.0
+5555.685	2.0	trials	go_tone	8000.0	80.0	5555.685	0.1	True	5.0	5556.685	0.01	True	100.0	12.0	5555.635	5556.085	audio	450.0	A1	False		False	1.0
+5567.105	2.0	trials	go_tone	8000.0	80.0	5567.105	0.1	False				True	100.0	12.0	5567.504999999999	5568.054999999999	delay	550.0	A1	True	5569.875999999999	False	2.0
+5578.214	2.0	trials	nogo_tone	4000.0	80.0	5578.214	0.1	True	5.0	5579.214	0.01	False					nolight	0.0	nan	False		False	3.0
+5589.575	2.0	trials	go_tone	8000.0	80.0	5589.575	0.1	False				False					nolight	0.0	nan	True	5592.26	False	2.0
+5600.265	2.0	trials	nogo_tone	4000.0	80.0	5600.265	0.1	True	5.0	5601.265	0.01	False					nolight	0.0	nan	False		False	3.0
+5611.047	2.0	trials	nogo_tone	4000.0	80.0	5611.047	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5621.837	2.0	trials	no_tone					True	5.0	5622.837	0.01	True	100.0	12.0	5622.787	5623.137000000001	whisker	350.0	A1	False		False	5.0
+5633.333	2.0	trials	nogo_tone	4000.0	80.0	5633.333	0.1	True	5.0	5634.333	0.01	True	100.0	12.0	5634.282999999999	5634.633	whisker	350.0	A1	False		False	3.0
+5645.887	2.0	trials	go_tone	8000.0	80.0	5645.887	0.1	False				True	100.0	12.0	5645.8369999999995	5646.286999999999	audio	450.0	A1	False		False	2.0
+5657.146	2.0	trials	go_tone	8000.0	80.0	5657.146	0.1	True	5.0	5658.146	0.01	True	100.0	12.0	5657.096	5657.545999999999	audio	450.0	A1	True	5659.866999999999	False	1.0
+5668.076	2.0	trials	nogo_tone	4000.0	80.0	5668.076	0.1	True	5.0	5669.076	0.01	False					nolight	0.0	nan	False		False	3.0
+5679.136	2.0	trials	nogo_tone	4000.0	80.0	5679.136	0.1	False				True	100.0	12.0	5679.536	5680.086	delay	550.0	A1	False		False	4.0
+5690.628	2.0	trials	nogo_tone	4000.0	80.0	5690.628	0.1	True	5.0	5691.628	0.01	False					nolight	0.0	nan	False		False	3.0
+5701.298	2.0	trials	go_tone	8000.0	80.0	5701.298	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5712.396	2.0	trials	no_tone					True	5.0	5713.396	0.01	False					nolight	0.0	nan	True	5715.911	False	5.0
+5723.498	2.0	trials	go_tone	8000.0	80.0	5723.498	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5734.527	2.0	trials	no_tone					True	5.0	5735.527	0.01	True	100.0	12.0	5734.927	5735.477	delay	550.0	A1	False		False	5.0
+5745.747	2.0	trials	go_tone	8000.0	80.0	5745.747	0.1	False				True	100.0	12.0	5746.147	5746.697	delay	550.0	A1	False		False	2.0
+5756.847	2.0	trials	nogo_tone	4000.0	80.0	5756.847	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5768.119	2.0	trials	go_tone	8000.0	80.0	5768.119	0.1	False				False					nolight	0.0	nan	True	5770.998	False	2.0
+5778.918	2.0	trials	go_tone	8000.0	80.0	5778.918	0.1	True	5.0	5779.918	0.01	False					nolight	0.0	nan	True	5781.57	False	1.0
+5789.508	2.0	trials	nogo_tone	4000.0	80.0	5789.508	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5800.968	2.0	trials	nogo_tone	4000.0	80.0	5800.968	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5812.068	2.0	trials	go_tone	8000.0	80.0	5812.068	0.1	False				False					nolight	0.0	nan	False		False	2.0
+5823.489	2.0	trials	go_tone	8000.0	80.0	5823.489	0.1	True	5.0	5824.489	0.01	False					nolight	0.0	nan	True	5825.888	True	1.0
+5835.889	2.0	trials	go_tone	8000.0	80.0	5835.889	0.1	True	5.0	5836.889	0.01	False					nolight	0.0	nan	True	5838.569	False	1.0
+5847.151	2.0	trials	no_tone					True	5.0	5848.151	0.01	False					nolight	0.0	nan	False		False	5.0
+5858.669	2.0	trials	nogo_tone	4000.0	80.0	5858.669	0.1	False				False					nolight	0.0	nan	False		False	4.0
+5869.709	2.0	trials	no_tone					True	5.0	5870.709	0.01	False					nolight	0.0	nan	False		False	5.0
+5881.049	2.0	trials	go_tone	8000.0	80.0	5881.049	0.1	False				True	100.0	12.0	5881.999	5882.349	whisker	350.0	A1	True	5883.805	False	2.0
+5892.589	2.0	trials	nogo_tone	4000.0	80.0	5892.589	0.1	True	5.0	5893.589	0.01	True	100.0	12.0	5892.989	5893.539	delay	550.0	A1	False		False	3.0
+5903.279	2.0	trials	go_tone	8000.0	80.0	5903.279	0.1	True	5.0	5904.279	0.01	False					nolight	0.0	nan	True	5905.620000000001	True	1.0
+5915.622	2.0	trials	go_tone	8000.0	80.0	5915.622	0.1	True	5.0	5916.622	0.01	False					nolight	0.0	nan	True	5918.287	False	1.0
+5927.442	2.0	trials	go_tone	8000.0	80.0	5927.442	0.1	True	5.0	5928.442	0.01	True	100.0	12.0	5928.392	5928.742	whisker	350.0	A1	False		False	1.0
+5938.17	2.0	trials	nogo_tone	4000.0	80.0	5938.17	0.1	False				True	100.0	12.0	5938.12	5938.57	audio	450.0	A1	False		False	4.0
+5949.391	2.0	trials	nogo_tone	4000.0	80.0	5949.391	0.1	False				True	100.0	12.0	5950.340999999999	5950.691	whisker	350.0	A1	False		False	4.0
+5960.761	2.0	trials	go_tone	8000.0	80.0	5960.761	0.1	True	5.0	5961.761	0.01	False					nolight	0.0	nan	True	5963.443	False	1.0
+5971.691	2.0	trials	nogo_tone	4000.0	80.0	5971.691	0.1	True	5.0	5972.691	0.01	False					nolight	0.0	nan	False		False	3.0
+5983.151	2.0	trials	go_tone	8000.0	80.0	5983.151	0.1	False				False					nolight	0.0	nan	True	5985.812	False	2.0
+5994.202	2.0	trials	go_tone	8000.0	80.0	5994.202	0.1	True	5.0	5995.202	0.01	False					nolight	0.0	nan	True	5996.888	False	1.0
+6005.207	2.0	trials	go_tone	8000.0	80.0	6005.207	0.1	True	5.0	6006.207	0.01	False					nolight	0.0	nan	True	6007.827	False	1.0
+6016.192	2.0	trials	no_tone					True	5.0	6017.192	0.01	True	100.0	12.0	6016.142	6016.592	audio	450.0	A1	False		False	5.0
+6027.522	2.0	trials	no_tone					True	5.0	6028.522	0.01	False					nolight	0.0	nan	False		False	5.0
+6038.572	2.0	trials	go_tone	8000.0	80.0	6038.572	0.1	False				False					nolight	0.0	nan	True	6041.062	True	2.0
+6051.063	2.0	trials	go_tone	8000.0	80.0	6051.063	0.1	False				False					nolight	0.0	nan	True	6053.692	False	2.0
+6061.972	2.0	trials	nogo_tone	4000.0	80.0	6061.972	0.1	True	5.0	6062.972	0.01	False					nolight	0.0	nan	False		False	3.0
+6073.204	2.0	trials	no_tone					True	5.0	6074.204	0.01	False					nolight	0.0	nan	False		False	5.0
+6084.183	2.0	trials	no_tone					True	5.0	6085.183	0.01	False					nolight	0.0	nan	False		False	5.0
+6094.773	2.0	trials	nogo_tone	4000.0	80.0	6094.773	0.1	True	5.0	6095.773	0.01	False					nolight	0.0	nan	False		False	3.0
+6105.433	2.0	trials	nogo_tone	4000.0	80.0	6105.433	0.1	True	5.0	6106.433	0.01	True	100.0	12.0	6105.383	6105.833	audio	450.0	A1	False		False	3.0
+6116.084	2.0	trials	nogo_tone	4000.0	80.0	6116.084	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6127.583	2.0	trials	go_tone	8000.0	80.0	6127.583	0.1	True	5.0	6128.583	0.01	True	100.0	12.0	6127.982999999999	6128.532999999999	delay	550.0	A1	True	6129.623	True	1.0
+6139.625	2.0	trials	go_tone	8000.0	80.0	6139.625	0.1	True	5.0	6140.625	0.01	True	100.0	12.0	6140.025	6140.575	delay	550.0	A1	True	6142.297	False	1.0
+6150.205	2.0	trials	nogo_tone	4000.0	80.0	6150.205	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6161.484	2.0	trials	nogo_tone	4000.0	80.0	6161.484	0.1	True	5.0	6162.484	0.01	False					nolight	0.0	nan	False		False	3.0
+6172.345	2.0	trials	go_tone	8000.0	80.0	6172.345	0.1	False				True	100.0	12.0	6173.295	6173.645	whisker	350.0	A1	False		False	2.0
+6183.684	2.0	trials	nogo_tone	4000.0	80.0	6183.684	0.1	True	5.0	6184.684	0.01	False					nolight	0.0	nan	False		False	3.0
+6194.536	2.0	trials	no_tone					True	5.0	6195.536	0.01	True	100.0	12.0	6194.486	6194.936	audio	450.0	A1	False		False	5.0
+6206.036	2.0	trials	go_tone	8000.0	80.0	6206.036	0.1	True	5.0	6207.036	0.01	False					nolight	0.0	nan	True	6208.707	False	1.0
+6217.455	2.0	trials	go_tone	8000.0	80.0	6217.455	0.1	True	5.0	6218.455	0.01	False					nolight	0.0	nan	True	6220.13	False	1.0
+6228.577	2.0	trials	no_tone					True	5.0	6229.577	0.01	False					nolight	0.0	nan	False		False	5.0
+6267.332	2.0	trials	no_tone					True	5.0	6268.332	0.01	False					nolight	0.0	nan	False		False	5.0
+6277.956	2.0	trials	nogo_tone	4000.0	80.0	6277.956	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6289.046	2.0	trials	nogo_tone	4000.0	80.0	6289.046	0.1	True	5.0	6290.046	0.01	False					nolight	0.0	nan	False		False	3.0
+6300.086	2.0	trials	no_tone					True	5.0	6301.086	0.01	False					nolight	0.0	nan	False		False	5.0
+6311.288	2.0	trials	nogo_tone	4000.0	80.0	6311.288	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6322.348	2.0	trials	go_tone	8000.0	80.0	6322.348	0.1	False				False					nolight	0.0	nan	True	6324.984	False	2.0
+6335.957	2.0	trials	go_tone	8000.0	80.0	6335.957	0.1	True	5.0	6336.957	0.01	False					nolight	0.0	nan	True	6338.6720000000005	False	1.0
+6347.009	2.0	trials	no_tone					True	5.0	6348.009	0.01	False					nolight	0.0	nan	False		False	5.0
+6357.589	2.0	trials	nogo_tone	4000.0	80.0	6357.589	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6368.657	2.0	trials	go_tone	8000.0	80.0	6368.657	0.1	False				True	100.0	12.0	6368.607	6369.057	audio	450.0	A1	False		False	2.0
+6379.388	2.0	trials	go_tone	8000.0	80.0	6379.388	0.1	False				False					nolight	0.0	nan	True	6382.122	False	2.0
+6390.308	2.0	trials	go_tone	8000.0	80.0	6390.308	0.1	True	5.0	6391.308	0.01	False					nolight	0.0	nan	True	6392.987	False	1.0
+6401.838	2.0	trials	nogo_tone	4000.0	80.0	6401.838	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6412.458	2.0	trials	go_tone	8000.0	80.0	6412.458	0.1	True	5.0	6413.458	0.01	True	100.0	12.0	6413.407999999999	6413.758	whisker	350.0	A1	False		False	1.0
+6423.26	2.0	trials	nogo_tone	4000.0	80.0	6423.26	0.1	True	5.0	6424.26	0.01	False					nolight	0.0	nan	False		False	3.0
+6434.487	2.0	trials	no_tone					True	5.0	6435.487	0.01	False					nolight	0.0	nan	False		False	5.0
+6445.079	2.0	trials	go_tone	8000.0	80.0	6445.079	0.1	True	5.0	6446.079	0.01	False					nolight	0.0	nan	True	6447.764	False	1.0
+6455.65	2.0	trials	go_tone	8000.0	80.0	6455.65	0.1	True	5.0	6456.65	0.01	True	100.0	12.0	6456.049999999999	6456.599999999999	delay	550.0	A1	True	6458.335999999999	False	1.0
+6466.959	2.0	trials	go_tone	8000.0	80.0	6466.959	0.1	False				True	100.0	12.0	6467.3589999999995	6467.909	delay	550.0	A1	True	6469.807	False	2.0
+6477.751	2.0	trials	nogo_tone	4000.0	80.0	6477.751	0.1	True	5.0	6478.751	0.01	False					nolight	0.0	nan	False		False	3.0
+6488.421	2.0	trials	go_tone	8000.0	80.0	6488.421	0.1	False				False					nolight	0.0	nan	False		False	2.0
+6499.111	2.0	trials	nogo_tone	4000.0	80.0	6499.111	0.1	True	5.0	6500.111	0.01	True	100.0	12.0	6499.061	6499.5109999999995	audio	450.0	A1	False		False	3.0
+6509.791	2.0	trials	no_tone					True	5.0	6510.791	0.01	True	100.0	12.0	6510.191	6510.741	delay	550.0	A1	False		False	5.0
+6520.38	2.0	trials	nogo_tone	4000.0	80.0	6520.38	0.1	False				True	100.0	12.0	6520.33	6520.78	audio	450.0	A1	True	6520.91	True	4.0
+6530.912	2.0	trials	nogo_tone	4000.0	80.0	6530.912	0.1	False				True	100.0	12.0	6530.862	6531.312	audio	450.0	A1	False		False	4.0
+6542.282	2.0	trials	nogo_tone	4000.0	80.0	6542.282	0.1	True	5.0	6543.282	0.01	True	100.0	12.0	6542.682	6543.232	delay	550.0	A1	False		False	3.0
+6553.021	2.0	trials	nogo_tone	4000.0	80.0	6553.021	0.1	True	5.0	6554.021	0.01	True	100.0	12.0	6553.971	6554.321	whisker	350.0	A1	False		False	3.0
+6564.151	2.0	trials	go_tone	8000.0	80.0	6564.151	0.1	False				False					nolight	0.0	nan	False		False	2.0
+6574.741	2.0	trials	go_tone	8000.0	80.0	6574.741	0.1	False				False					nolight	0.0	nan	True	6577.221	True	2.0
+6587.221	2.0	trials	go_tone	8000.0	80.0	6587.221	0.1	False				False					nolight	0.0	nan	False		False	2.0
+6598.763	2.0	trials	no_tone					True	5.0	6599.763	0.01	True	100.0	12.0	6599.713	6600.063	whisker	350.0	A1	False		False	5.0
+6610.312	2.0	trials	nogo_tone	4000.0	80.0	6610.312	0.1	True	5.0	6611.312	0.01	False					nolight	0.0	nan	False		False	3.0
+6621.202	2.0	trials	go_tone	8000.0	80.0	6621.202	0.1	True	5.0	6622.202	0.01	True	100.0	12.0	6621.152	6621.602	audio	450.0	A1	True	6621.291	True	1.0
+6631.299	2.0	trials	go_tone	8000.0	80.0	6631.299	0.1	True	5.0	6632.299	0.01	True	100.0	12.0	6631.249	6631.699	audio	450.0	A1	True	6634.471	False	1.0
+6642.842	2.0	trials	nogo_tone	4000.0	80.0	6642.842	0.1	False				True	100.0	12.0	6643.241999999999	6643.7919999999995	delay	550.0	A1	False		False	4.0
+6653.892	2.0	trials	nogo_tone	4000.0	80.0	6653.892	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6665.352	2.0	trials	no_tone					True	5.0	6666.352	0.01	False					nolight	0.0	nan	False		False	5.0
+6676.325	2.0	trials	go_tone	8000.0	80.0	6676.325	0.1	True	5.0	6677.325	0.01	False					nolight	0.0	nan	False		False	1.0
+6687.793	2.0	trials	go_tone	8000.0	80.0	6687.793	0.1	False				False					nolight	0.0	nan	False		False	2.0
+6699.294	2.0	trials	nogo_tone	4000.0	80.0	6699.294	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6710.344	2.0	trials	nogo_tone	4000.0	80.0	6710.344	0.1	False				True	100.0	12.0	6711.294	6711.644	whisker	350.0	A1	False		False	4.0
+6720.975	2.0	trials	nogo_tone	4000.0	80.0	6720.975	0.1	True	5.0	6721.975	0.01	False					nolight	0.0	nan	False		False	3.0
+6732.534	2.0	trials	nogo_tone	4000.0	80.0	6732.534	0.1	False				True	100.0	12.0	6732.4839999999995	6732.933999999999	audio	450.0	A1	False		False	4.0
+6743.585	2.0	trials	nogo_tone	4000.0	80.0	6743.585	0.1	True	5.0	6744.585	0.01	False					nolight	0.0	nan	False		False	3.0
+6754.724	2.0	trials	no_tone					True	5.0	6755.724	0.01	False					nolight	0.0	nan	False		False	5.0
+6765.364	2.0	trials	go_tone	8000.0	80.0	6765.364	0.1	True	5.0	6766.364	0.01	False					nolight	0.0	nan	True	6768.027999999999	False	1.0
+6776.776	2.0	trials	nogo_tone	4000.0	80.0	6776.776	0.1	True	5.0	6777.776	0.01	False					nolight	0.0	nan	False		False	3.0
+6787.615	2.0	trials	nogo_tone	4000.0	80.0	6787.615	0.1	False				False					nolight	0.0	nan	False		False	4.0
+6798.755	2.0	trials	go_tone	8000.0	80.0	6798.755	0.1	True	5.0	6799.755	0.01	False					nolight	0.0	nan	True	6801.576	False	1.0
+6809.335	2.0	trials	go_tone	8000.0	80.0	6809.335	0.1	False				True	100.0	12.0	6809.735	6810.285	delay	550.0	A1	False		False	2.0
+6820.805	2.0	trials	go_tone	8000.0	80.0	6820.805	0.1	True	5.0	6821.805	0.01	False					nolight	0.0	nan	True	6823.4980000000005	False	1.0
+6831.865	2.0	trials	no_tone					True	5.0	6832.865	0.01	False					nolight	0.0	nan	False		False	5.0
+6843.016	2.0	trials	nogo_tone	4000.0	80.0	6843.016	0.1	True	5.0	6844.016	0.01	True	100.0	12.0	6842.965999999999	6843.415999999999	audio	450.0	A1	False		False	3.0
+6853.987	2.0	trials	go_tone	8000.0	80.0	6853.987	0.1	True	5.0	6854.987	0.01	True	100.0	12.0	6853.937	6854.387	audio	450.0	A1	True	6856.345	True	1.0
+6866.347	2.0	trials	go_tone	8000.0	80.0	6866.347	0.1	True	5.0	6867.347	0.01	True	100.0	12.0	6866.297	6866.746999999999	audio	450.0	A1	False		False	1.0
+6876.986	2.0	trials	go_tone	8000.0	80.0	6876.986	0.1	True	5.0	6877.986	0.01	False					nolight	0.0	nan	True	6879.446	True	1.0
+6889.448	2.0	trials	go_tone	8000.0	80.0	6889.448	0.1	True	5.0	6890.448	0.01	False					nolight	0.0	nan	True	6892.394	False	1.0
+6900.916	2.0	trials	no_tone					True	5.0	6901.916	0.01	True	100.0	12.0	6900.866	6901.316	audio	450.0	A1	False		False	5.0
+6912.367	2.0	trials	nogo_tone	4000.0	80.0	6912.367	0.1	False				True	100.0	12.0	6913.317	6913.667	whisker	350.0	A1	False		False	4.0
+6923.918	2.0	trials	go_tone	8000.0	80.0	6923.918	0.1	True	5.0	6924.918	0.01	False					nolight	0.0	nan	True	6926.641	False	1.0
+6934.908	2.0	trials	nogo_tone	4000.0	80.0	6934.908	0.1	False				True	100.0	12.0	6935.308	6935.858	delay	550.0	A1	False		False	4.0
+6946.008	2.0	trials	no_tone					True	5.0	6947.008	0.01	False					nolight	0.0	nan	False		False	5.0
+6957.529	2.0	trials	go_tone	8000.0	80.0	6957.529	0.1	True	5.0	6958.529	0.01	True	100.0	12.0	6958.479	6958.829000000001	whisker	350.0	A1	True	6960.216	False	1.0
+6968.987	2.0	trials	nogo_tone	4000.0	80.0	6968.987	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7016.55	2.0	trials	nogo_tone	4000.0	80.0	7016.55	0.1	True	5.0	7017.55	0.01	True	100.0	12.0	7017.5	7017.85	whisker	350.0	A1	False		False	3.0
+7027.998	2.0	trials	no_tone					True	5.0	7028.998	0.01	False					nolight	0.0	nan	False		False	5.0
+7039.371	2.0	trials	go_tone	8000.0	80.0	7039.371	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7049.999	2.0	trials	nogo_tone	4000.0	80.0	7049.999	0.1	True	5.0	7050.999	0.01	False					nolight	0.0	nan	False		False	3.0
+7061.541	2.0	trials	nogo_tone	4000.0	80.0	7061.541	0.1	True	5.0	7062.541	0.01	False					nolight	0.0	nan	False		False	3.0
+7072.589	2.0	trials	go_tone	8000.0	80.0	7072.589	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7083.579	2.0	trials	go_tone	8000.0	80.0	7083.579	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7094.511	2.0	trials	nogo_tone	4000.0	80.0	7094.511	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7105.37	2.0	trials	go_tone	8000.0	80.0	7105.37	0.1	True	5.0	7106.37	0.01	False					nolight	0.0	nan	True	7108.119	False	1.0
+7116.72	2.0	trials	no_tone					True	5.0	7117.72	0.01	True	100.0	12.0	7117.67	7118.02	whisker	350.0	A1	False		False	5.0
+7127.5	2.0	trials	nogo_tone	4000.0	80.0	7127.5	0.1	True	5.0	7128.5	0.01	False					nolight	0.0	nan	False		False	3.0
+7138.662	2.0	trials	go_tone	8000.0	80.0	7138.662	0.1	False				True	100.0	12.0	7138.612	7139.062	audio	450.0	A1	False		False	2.0
+7149.851	2.0	trials	no_tone					True	5.0	7150.851	0.01	False					nolight	0.0	nan	False		False	5.0
+7160.541	2.0	trials	go_tone	8000.0	80.0	7160.541	0.1	False				False					nolight	0.0	nan	True	7163.197	False	2.0
+7171.451	2.0	trials	nogo_tone	4000.0	80.0	7171.451	0.1	True	5.0	7172.451	0.01	True	100.0	12.0	7171.851	7172.401	delay	550.0	A1	False		False	3.0
+7182.391	2.0	trials	go_tone	8000.0	80.0	7182.391	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7193.351	2.0	trials	go_tone	8000.0	80.0	7193.351	0.1	True	5.0	7194.351	0.01	True	100.0	12.0	7193.750999999999	7194.3009999999995	delay	550.0	A1	True	7196.022999999999	False	1.0
+7204.461	2.0	trials	go_tone	8000.0	80.0	7204.461	0.1	False				True	100.0	12.0	7205.411	7205.761	whisker	350.0	A1	True	7206.636	True	2.0
+7216.643	2.0	trials	go_tone	8000.0	80.0	7216.643	0.1	False				True	100.0	12.0	7217.593	7217.943	whisker	350.0	A1	False		False	2.0
+7227.562	2.0	trials	go_tone	8000.0	80.0	7227.562	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7238.734	2.0	trials	nogo_tone	4000.0	80.0	7238.734	0.1	True	5.0	7239.734	0.01	False					nolight	0.0	nan	False		False	3.0
+7249.312	2.0	trials	nogo_tone	4000.0	80.0	7249.312	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7260.503	2.0	trials	no_tone					True	5.0	7261.503	0.01	False					nolight	0.0	nan	False		False	5.0
+7271.223	2.0	trials	nogo_tone	4000.0	80.0	7271.223	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7282.473	2.0	trials	nogo_tone	4000.0	80.0	7282.473	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7293.451	2.0	trials	no_tone					True	5.0	7294.451	0.01	True	100.0	12.0	7293.851	7294.401	delay	550.0	A1	False		False	5.0
+7304.335	2.0	trials	nogo_tone	4000.0	80.0	7304.335	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7314.515	2.0	trials	go_tone	8000.0	80.0	7314.515	0.1	False				False					nolight	0.0	nan	True	7316.018	True	2.0
+7326.025	2.0	trials	go_tone	8000.0	80.0	7326.025	0.1	False				False					nolight	0.0	nan	True	7327.945	False	2.0
+7336.776	2.0	trials	go_tone	8000.0	80.0	7336.776	0.1	False				True	100.0	12.0	7337.726	7338.076	whisker	350.0	A1	False		False	2.0
+7347.385	2.0	trials	no_tone					True	5.0	7348.385	0.01	False					nolight	0.0	nan	False		False	5.0
+7358.396	2.0	trials	go_tone	8000.0	80.0	7358.396	0.1	True	5.0	7359.396	0.01	False					nolight	0.0	nan	True	7361.065	False	1.0
+7369.144	2.0	trials	go_tone	8000.0	80.0	7369.144	0.1	True	5.0	7370.144	0.01	False					nolight	0.0	nan	True	7371.774	False	1.0
+7380.024	2.0	trials	nogo_tone	4000.0	80.0	7380.024	0.1	False				True	100.0	12.0	7380.974	7381.3240000000005	whisker	350.0	A1	False		False	4.0
+7391.135	2.0	trials	nogo_tone	4000.0	80.0	7391.135	0.1	False				True	100.0	12.0	7391.085	7391.535	audio	450.0	A1	False		False	4.0
+7402.108	2.0	trials	go_tone	8000.0	80.0	7402.108	0.1	True	5.0	7403.108	0.01	False					nolight	0.0	nan	True	7404.802000000001	False	1.0
+7413.557	2.0	trials	nogo_tone	4000.0	80.0	7413.557	0.1	True	5.0	7414.557	0.01	False					nolight	0.0	nan	False		False	3.0
+7424.587	2.0	trials	go_tone	8000.0	80.0	7424.587	0.1	True	5.0	7425.587	0.01	False					nolight	0.0	nan	False		False	1.0
+7435.925	2.0	trials	go_tone	8000.0	80.0	7435.925	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7446.917	2.0	trials	go_tone	8000.0	80.0	7446.917	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7458.436	2.0	trials	no_tone					True	5.0	7459.436	0.01	False					nolight	0.0	nan	False		False	5.0
+7469.247	2.0	trials	go_tone	8000.0	80.0	7469.247	0.1	True	5.0	7470.247	0.01	True	100.0	12.0	7469.647	7470.197	delay	550.0	A1	True	7471.9400000000005	False	1.0
+7480.736	2.0	trials	nogo_tone	4000.0	80.0	7480.736	0.1	True	5.0	7481.736	0.01	True	100.0	12.0	7480.686	7481.1359999999995	audio	450.0	A1	False		False	3.0
+7491.947	2.0	trials	nogo_tone	4000.0	80.0	7491.947	0.1	True	5.0	7492.947	0.01	True	100.0	12.0	7492.347	7492.897	delay	550.0	A1	False		False	3.0
+7502.878	2.0	trials	no_tone					True	5.0	7503.878	0.01	False					nolight	0.0	nan	False		False	5.0
+7513.898	2.0	trials	nogo_tone	4000.0	80.0	7513.898	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7524.967	2.0	trials	nogo_tone	4000.0	80.0	7524.967	0.1	True	5.0	7525.967	0.01	False					nolight	0.0	nan	False		False	3.0
+7536.077	2.0	trials	go_tone	8000.0	80.0	7536.077	0.1	False				True	100.0	12.0	7536.477	7537.027	delay	550.0	A1	False		False	2.0
+7547.16	2.0	trials	nogo_tone	4000.0	80.0	7547.16	0.1	True	5.0	7548.16	0.01	False					nolight	0.0	nan	True	7549.847	False	3.0
+7558.228	2.0	trials	nogo_tone	4000.0	80.0	7558.228	0.1	True	5.0	7559.228	0.01	False					nolight	0.0	nan	False		False	3.0
+7569.279	2.0	trials	nogo_tone	4000.0	80.0	7569.279	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7580.369	2.0	trials	no_tone					True	5.0	7581.369	0.01	False					nolight	0.0	nan	True	7583.133	False	5.0
+7591.125	2.0	trials	nogo_tone	4000.0	80.0	7591.125	0.1	False				True	100.0	12.0	7591.525	7592.075	delay	550.0	A1	False		False	4.0
+7602.03	2.0	trials	nogo_tone	4000.0	80.0	7602.03	0.1	True	5.0	7603.03	0.01	True	100.0	12.0	7602.98	7603.33	whisker	350.0	A1	False		False	3.0
+7613.048	2.0	trials	no_tone					True	5.0	7614.048	0.01	False					nolight	0.0	nan	False		False	5.0
+7624.12	2.0	trials	no_tone					True	5.0	7625.12	0.01	True	100.0	12.0	7624.07	7624.5199999999995	audio	450.0	A1	False		False	5.0
+7635.469	2.0	trials	nogo_tone	4000.0	80.0	7635.469	0.1	True	5.0	7636.469	0.01	False					nolight	0.0	nan	False		False	3.0
+7646.399	2.0	trials	go_tone	8000.0	80.0	7646.399	0.1	True	5.0	7647.399	0.01	True	100.0	12.0	7647.349	7647.6990000000005	whisker	350.0	A1	True	7649.275000000001	False	1.0
+7657.953	2.0	trials	nogo_tone	4000.0	80.0	7657.953	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7668.821	2.0	trials	nogo_tone	4000.0	80.0	7668.821	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7679.972	2.0	trials	no_tone					True	5.0	7680.972	0.01	True	100.0	12.0	7680.371999999999	7680.922	delay	550.0	A1	False		False	5.0
+7691.291	2.0	trials	go_tone	8000.0	80.0	7691.291	0.1	False				False					nolight	0.0	nan	True	7692.659000000001	True	2.0
+7702.66	2.0	trials	go_tone	8000.0	80.0	7702.66	0.1	False				False					nolight	0.0	nan	True	7705.254	False	2.0
+7713.83	2.0	trials	go_tone	8000.0	80.0	7713.83	0.1	True	5.0	7714.83	0.01	True	100.0	12.0	7713.78	7714.23	audio	450.0	A1	True	7716.525	False	1.0
+7725.17	2.0	trials	no_tone					True	5.0	7726.17	0.01	False					nolight	0.0	nan	False		False	5.0
+7735.992	2.0	trials	go_tone	8000.0	80.0	7735.992	0.1	True	5.0	7736.992	0.01	False					nolight	0.0	nan	True	7738.7080000000005	False	1.0
+7747.001	2.0	trials	nogo_tone	4000.0	80.0	7747.001	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7757.912	2.0	trials	go_tone	8000.0	80.0	7757.912	0.1	False				True	100.0	12.0	7757.862	7758.312	audio	450.0	A1	False		False	2.0
+7768.571	2.0	trials	go_tone	8000.0	80.0	7768.571	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7780.053	2.0	trials	go_tone	8000.0	80.0	7780.053	0.1	True	5.0	7781.053	0.01	False					nolight	0.0	nan	True	7782.724	False	1.0
+7790.981	2.0	trials	nogo_tone	4000.0	80.0	7790.981	0.1	True	5.0	7791.981	0.01	False					nolight	0.0	nan	False		False	3.0
+7802.241	2.0	trials	go_tone	8000.0	80.0	7802.241	0.1	False				False					nolight	0.0	nan	True	7805.005	False	2.0
+7813.481	2.0	trials	no_tone					True	5.0	7814.481	0.01	True	100.0	12.0	7814.431	7814.781	whisker	350.0	A1	False		False	5.0
+7825.013	2.0	trials	go_tone	8000.0	80.0	7825.013	0.1	False				False					nolight	0.0	nan	False		False	2.0
+7836.153	2.0	trials	go_tone	8000.0	80.0	7836.153	0.1	True	5.0	7837.153	0.01	False					nolight	0.0	nan	False		False	1.0
+7846.904	2.0	trials	nogo_tone	4000.0	80.0	7846.904	0.1	False				False					nolight	0.0	nan	False		False	4.0
+7858.132	2.0	trials	nogo_tone	4000.0	80.0	7858.132	0.1	True	5.0	7859.132	0.01	False					nolight	0.0	nan	False		False	3.0
+7869.633	2.0	trials	go_tone	8000.0	80.0	7869.633	0.1	False				True	100.0	12.0	7870.032999999999	7870.583	delay	550.0	A1	False		False	2.0
+7880.713	2.0	trials	no_tone					True	5.0	7881.713	0.01	False					nolight	0.0	nan	False		False	5.0
+7891.303	2.0	trials	go_tone	8000.0	80.0	7891.303	0.1	False				False					nolight	0.0	nan	True	7894.421	False	2.0
+7902.114	2.0	trials	go_tone	8000.0	80.0	7902.114	0.1	True	5.0	7903.114	0.01	False					nolight	0.0	nan	True	7904.773999999999	False	1.0
+7913.255	2.0	trials	nogo_tone	4000.0	80.0	7913.255	0.1	False				True	100.0	12.0	7913.205	7913.655	audio	450.0	A1	False		False	4.0
+7924.295	2.0	trials	no_tone					True	5.0	7925.295	0.01	True	100.0	12.0	7924.245	7924.695	audio	450.0	A1	False		False	5.0
+7934.874	2.0	trials	no_tone					True	5.0	7935.874	0.01	True	100.0	12.0	7935.273999999999	7935.824	delay	550.0	A1	False		False	5.0
+7945.814	2.0	trials	nogo_tone	4000.0	80.0	7945.814	0.1	True	5.0	7946.814	0.01	False					nolight	0.0	nan	False		False	3.0
+7956.554	2.0	trials	go_tone	8000.0	80.0	7956.554	0.1	True	5.0	7957.554	0.01	False					nolight	0.0	nan	True	7959.269	False	1.0
+7968.044	2.0	trials	go_tone	8000.0	80.0	7968.044	0.1	False				True	100.0	12.0	7968.994	7969.344	whisker	350.0	A1	False		False	2.0
+7978.686	2.0	trials	go_tone	8000.0	80.0	7978.686	0.1	True	5.0	7979.686	0.01	False					nolight	0.0	nan	True	7981.362	False	1.0
+7989.648	2.0	trials	nogo_tone	4000.0	80.0	7989.648	0.1	False				True	100.0	12.0	7990.598	7990.948	whisker	350.0	A1	False		False	4.0
+8000.537	2.0	trials	go_tone	8000.0	80.0	8000.537	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8011.38	2.0	trials	nogo_tone	4000.0	80.0	8011.38	0.1	True	5.0	8012.38	0.01	True	100.0	12.0	8012.33	8012.68	whisker	350.0	A1	False		False	3.0
+8022.485	2.0	trials	nogo_tone	4000.0	80.0	8022.485	0.1	False				True	100.0	12.0	8022.884999999999	8023.4349999999995	delay	550.0	A1	False		False	4.0
+8033.807	2.0	trials	nogo_tone	4000.0	80.0	8033.807	0.1	True	5.0	8034.807	0.01	True	100.0	12.0	8033.757	8034.206999999999	audio	450.0	A1	False		False	3.0
+8044.957	2.0	trials	nogo_tone	4000.0	80.0	8044.957	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8055.676	2.0	trials	nogo_tone	4000.0	80.0	8055.676	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8066.756	2.0	trials	no_tone					True	5.0	8067.756	0.01	True	100.0	12.0	8067.706	8068.0560000000005	whisker	350.0	A1	False		False	5.0
+8078.236	2.0	trials	nogo_tone	4000.0	80.0	8078.236	0.1	True	5.0	8079.236	0.01	False					nolight	0.0	nan	False		False	3.0
+8089.487	2.0	trials	nogo_tone	4000.0	80.0	8089.487	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8100.697	2.0	trials	nogo_tone	4000.0	80.0	8100.697	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8111.423	2.0	trials	go_tone	8000.0	80.0	8111.423	0.1	False				False					nolight	0.0	nan	True	8114.0419999999995	False	2.0
+8122.327	2.0	trials	go_tone	8000.0	80.0	8122.327	0.1	True	5.0	8123.327	0.01	True	100.0	12.0	8122.727	8123.277	delay	550.0	A1	True	8125.150000000001	False	1.0
+8133.747	2.0	trials	go_tone	8000.0	80.0	8133.747	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8145.127	2.0	trials	no_tone					True	5.0	8146.127	0.01	False					nolight	0.0	nan	False		False	5.0
+8156.128	2.0	trials	nogo_tone	4000.0	80.0	8156.128	0.1	True	5.0	8157.128	0.01	False					nolight	0.0	nan	False		False	3.0
+8167.201	2.0	trials	go_tone	8000.0	80.0	8167.201	0.1	True	5.0	8168.201	0.01	False					nolight	0.0	nan	True	8169.933	False	1.0
+8177.988	2.0	trials	go_tone	8000.0	80.0	8177.988	0.1	True	5.0	8178.988	0.01	True	100.0	12.0	8177.938	8178.388	audio	450.0	A1	False		False	1.0
+8188.718	2.0	trials	go_tone	8000.0	80.0	8188.718	0.1	False				True	100.0	12.0	8188.668	8189.1179999999995	audio	450.0	A1	False		False	2.0
+8200.128	2.0	trials	no_tone					True	5.0	8201.128	0.01	False					nolight	0.0	nan	False		False	5.0
+8211.268	2.0	trials	go_tone	8000.0	80.0	8211.268	0.1	False				False					nolight	0.0	nan	True	8214.082	False	2.0
+8222.553	2.0	trials	no_tone					True	5.0	8223.553	0.01	False					nolight	0.0	nan	False		False	5.0
+8233.96	2.0	trials	go_tone	8000.0	80.0	8233.96	0.1	True	5.0	8234.96	0.01	True	100.0	12.0	8234.91	8235.259999999998	whisker	350.0	A1	True	8236.855	False	1.0
+8245.24	2.0	trials	no_tone					True	5.0	8246.24	0.01	False					nolight	0.0	nan	False		False	5.0
+8256.157	2.0	trials	nogo_tone	4000.0	80.0	8256.157	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8267.071	2.0	trials	go_tone	8000.0	80.0	8267.071	0.1	True	5.0	8268.071	0.01	False					nolight	0.0	nan	False		False	1.0
+8278.039	2.0	trials	nogo_tone	4000.0	80.0	8278.039	0.1	True	5.0	8279.039	0.01	False					nolight	0.0	nan	False		False	3.0
+8289.57	2.0	trials	nogo_tone	4000.0	80.0	8289.57	0.1	True	5.0	8290.57	0.01	False					nolight	0.0	nan	False		False	3.0
+8300.691	2.0	trials	no_tone					True	5.0	8301.691	0.01	False					nolight	0.0	nan	False		False	5.0
+8312.06	2.0	trials	nogo_tone	4000.0	80.0	8312.06	0.1	True	5.0	8313.06	0.01	True	100.0	12.0	8312.46	8313.01	delay	550.0	A1	False		False	3.0
+8322.78	2.0	trials	nogo_tone	4000.0	80.0	8322.78	0.1	True	5.0	8323.78	0.01	True	100.0	12.0	8323.730000000001	8324.08	whisker	350.0	A1	False		False	3.0
+8334.202	2.0	trials	no_tone					True	5.0	8335.202	0.01	True	100.0	12.0	8334.601999999999	8335.152	delay	550.0	A1	True	8335.151	True	5.0
+8345.15	2.0	trials	no_tone					True	5.0	8346.15	0.01	True	100.0	12.0	8345.55	8346.1	delay	550.0	A1	False		False	5.0
+8356.641	2.0	trials	nogo_tone	4000.0	80.0	8356.641	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8367.923	2.0	trials	nogo_tone	4000.0	80.0	8367.923	0.1	True	5.0	8368.923	0.01	True	100.0	12.0	8367.873000000001	8368.323	audio	450.0	A1	False		False	3.0
+8379.381	2.0	trials	nogo_tone	4000.0	80.0	8379.381	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8390.793	2.0	trials	nogo_tone	4000.0	80.0	8390.793	0.1	False				True	100.0	12.0	8391.193	8391.743	delay	550.0	A1	False		False	4.0
+8401.705	2.0	trials	go_tone	8000.0	80.0	8401.705	0.1	True	5.0	8402.705	0.01	False					nolight	0.0	nan	True	8404.361	False	1.0
+8412.364	2.0	trials	no_tone					True	5.0	8413.364	0.01	True	100.0	12.0	8412.314	8412.764	audio	450.0	A1	False		False	5.0
+8423.644	2.0	trials	go_tone	8000.0	80.0	8423.644	0.1	True	5.0	8424.644	0.01	True	100.0	12.0	8424.594000000001	8424.944	whisker	350.0	A1	True	8426.123	True	1.0
+8436.124	2.0	trials	go_tone	8000.0	80.0	8436.124	0.1	True	5.0	8437.124	0.01	True	100.0	12.0	8437.074	8437.423999999999	whisker	350.0	A1	False		False	1.0
+8447.637	2.0	trials	nogo_tone	4000.0	80.0	8447.637	0.1	True	5.0	8448.637	0.01	True	100.0	12.0	8448.037	8448.587000000001	delay	550.0	A1	False		False	3.0
+8459.032	2.0	trials	go_tone	8000.0	80.0	8459.032	0.1	True	5.0	8460.032	0.01	False					nolight	0.0	nan	True	8461.728	False	1.0
+8469.593	2.0	trials	go_tone	8000.0	80.0	8469.593	0.1	True	5.0	8470.593	0.01	True	100.0	12.0	8469.543000000001	8469.993	audio	450.0	A1	False		False	1.0
+8480.204	2.0	trials	no_tone					True	5.0	8481.204	0.01	True	100.0	12.0	8481.154	8481.503999999999	whisker	350.0	A1	False		False	5.0
+8491.393	2.0	trials	no_tone					True	5.0	8492.393	0.01	False					nolight	0.0	nan	False		False	5.0
+8502.855	2.0	trials	nogo_tone	4000.0	80.0	8502.855	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8514.073	2.0	trials	nogo_tone	4000.0	80.0	8514.073	0.1	False				True	100.0	12.0	8514.023000000001	8514.473	audio	450.0	A1	False		False	4.0
+8524.874	2.0	trials	go_tone	8000.0	80.0	8524.874	0.1	False				True	100.0	12.0	8524.824	8525.274	audio	450.0	A1	False		False	2.0
+8535.515	2.0	trials	go_tone	8000.0	80.0	8535.515	0.1	True	5.0	8536.515	0.01	False					nolight	0.0	nan	False		False	1.0
+8546.575	2.0	trials	no_tone					True	5.0	8547.575	0.01	False					nolight	0.0	nan	True	8549.392	False	5.0
+8557.706	2.0	trials	go_tone	8000.0	80.0	8557.706	0.1	True	5.0	8558.706	0.01	True	100.0	12.0	8558.106	8558.656	delay	550.0	A1	True	8560.383	False	1.0
+8568.955	2.0	trials	go_tone	8000.0	80.0	8568.955	0.1	False				True	100.0	12.0	8569.355	8569.905	delay	550.0	A1	True	8571.725	False	2.0
+8580.481	2.0	trials	nogo_tone	4000.0	80.0	8580.481	0.1	True	5.0	8581.481	0.01	False					nolight	0.0	nan	False		False	3.0
+8591.395	2.0	trials	no_tone					True	5.0	8592.395	0.01	False					nolight	0.0	nan	False		False	5.0
+8602.415	2.0	trials	nogo_tone	4000.0	80.0	8602.415	0.1	True	5.0	8603.415	0.01	False					nolight	0.0	nan	False		False	3.0
+8612.985	2.0	trials	nogo_tone	4000.0	80.0	8612.985	0.1	False				True	100.0	12.0	8613.935000000001	8614.285	whisker	350.0	A1	False		False	4.0
+8623.875	2.0	trials	nogo_tone	4000.0	80.0	8623.875	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8635.105	2.0	trials	no_tone					True	5.0	8636.105	0.01	False					nolight	0.0	nan	False		False	5.0
+8646.627	2.0	trials	go_tone	8000.0	80.0	8646.627	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8657.576	2.0	trials	nogo_tone	4000.0	80.0	8657.576	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8668.796	2.0	trials	go_tone	8000.0	80.0	8668.796	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8679.886	2.0	trials	go_tone	8000.0	80.0	8679.886	0.1	False				True	100.0	12.0	8680.836000000001	8681.186	whisker	350.0	A1	False		False	2.0
+8690.478	2.0	trials	nogo_tone	4000.0	80.0	8690.478	0.1	False				False					nolight	0.0	nan	False		False	4.0
+8728.892	2.0	trials	nogo_tone	4000.0	80.0	8728.892	0.1	True	5.0	8729.892	0.01	False					nolight	0.0	nan	False		False	3.0
+8740.037	2.0	trials	nogo_tone	4000.0	80.0	8740.037	0.1	True	5.0	8741.037	0.01	False					nolight	0.0	nan	False		False	3.0
+8750.848	2.0	trials	go_tone	8000.0	80.0	8750.848	0.1	False				False					nolight	0.0	nan	True	8753.731	False	2.0
+8761.477	2.0	trials	no_tone					True	5.0	8762.477	0.01	False					nolight	0.0	nan	False		False	5.0
+8772.689	2.0	trials	go_tone	8000.0	80.0	8772.689	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8865.791	2.0	trials	go_tone	8000.0	80.0	8865.791	0.1	True	5.0	8866.791	0.01	False					nolight	0.0	nan	False		False	1.0
+8876.771	2.0	trials	nogo_tone	4000.0	80.0	8876.771	0.1	True	5.0	8877.771	0.01	False					nolight	0.0	nan	False		False	3.0
+8887.566	2.0	trials	go_tone	8000.0	80.0	8887.566	0.1	True	5.0	8888.566	0.01	False					nolight	0.0	nan	True	8890.705	False	1.0
+8899.721	2.0	trials	go_tone	8000.0	80.0	8899.721	0.1	False				False					nolight	0.0	nan	False		False	2.0
+8910.871	2.0	trials	go_tone	8000.0	80.0	8910.871	0.1	True	5.0	8911.871	0.01	False					nolight	0.0	nan	True	8913.692	False	1.0
+8922.417	2.0	trials	no_tone					True	5.0	8923.417	0.01	False					nolight	0.0	nan	False		False	5.0
+8933.802	2.0	trials	go_tone	8000.0	80.0	8933.802	0.1	False				False					nolight	0.0	nan	True	8936.891	False	2.0
+8944.911	2.0	trials	nogo_tone	4000.0	80.0	8944.911	0.1	True	5.0	8945.911	0.01	False					nolight	0.0	nan	False		False	3.0
+8956.071	2.0	trials	go_tone	8000.0	80.0	8956.071	0.1	False				True	100.0	12.0	8956.471	8957.021	delay	550.0	A1	False		False	2.0
+8966.822	2.0	trials	go_tone	8000.0	80.0	8966.822	0.1	True	5.0	8967.822	0.01	False					nolight	0.0	nan	True	8969.544	False	1.0
+8978.061	2.0	trials	go_tone	8000.0	80.0	8978.061	0.1	False				False					nolight	0.0	nan	True	8981.34	False	2.0
+8989.573	2.0	trials	go_tone	8000.0	80.0	8989.573	0.1	False				True	100.0	12.0	8989.523000000001	8989.973	audio	450.0	A1	False		False	2.0
+9001.111	2.0	trials	nogo_tone	4000.0	80.0	9001.111	0.1	True	5.0	9002.111	0.01	True	100.0	12.0	9001.511	9002.061000000002	delay	550.0	A1	False		False	3.0
+9011.672	2.0	trials	nogo_tone	4000.0	80.0	9011.672	0.1	True	5.0	9012.672	0.01	False					nolight	0.0	nan	False		False	3.0
+9022.492	2.0	trials	go_tone	8000.0	80.0	9022.492	0.1	False				True	100.0	12.0	9023.442000000001	9023.792	whisker	350.0	A1	True	9023.712	True	2.0
+9033.714	2.0	trials	go_tone	8000.0	80.0	9033.714	0.1	False				True	100.0	12.0	9034.664	9035.014	whisker	350.0	A1	True	9036.464	False	2.0
+9044.982	2.0	trials	no_tone					True	5.0	9045.982	0.01	False					nolight	0.0	nan	False		False	5.0
+9056.033	2.0	trials	nogo_tone	4000.0	80.0	9056.033	0.1	True	5.0	9057.033	0.01	False					nolight	0.0	nan	False		False	3.0
+9067.557	2.0	trials	no_tone					True	5.0	9068.557	0.01	True	100.0	12.0	9067.957	9068.507000000001	delay	550.0	A1	False		False	5.0
+9078.874	2.0	trials	go_tone	8000.0	80.0	9078.874	0.1	True	5.0	9079.874	0.01	False					nolight	0.0	nan	True	9081.594	False	1.0
+9090.005	2.0	trials	go_tone	8000.0	80.0	9090.005	0.1	True	5.0	9091.005	0.01	False					nolight	0.0	nan	True	9092.767	False	1.0
+9100.863	2.0	trials	no_tone					True	5.0	9101.863	0.01	False					nolight	0.0	nan	False		False	5.0
+9111.615	2.0	trials	go_tone	8000.0	80.0	9111.615	0.1	True	5.0	9112.615	0.01	False					nolight	0.0	nan	False		False	1.0
+9122.824	2.0	trials	go_tone	8000.0	80.0	9122.824	0.1	True	5.0	9123.824	0.01	False					nolight	0.0	nan	True	9125.514000000001	False	1.0
+9133.825	2.0	trials	no_tone					True	5.0	9134.825	0.01	False					nolight	0.0	nan	False		False	5.0
+9145.264	2.0	trials	no_tone					True	5.0	9146.264	0.01	True	100.0	12.0	9146.214	9146.563999999998	whisker	350.0	A1	False		False	5.0
+9156.234	2.0	trials	go_tone	8000.0	80.0	9156.234	0.1	True	5.0	9157.234	0.01	True	100.0	12.0	9156.184000000001	9156.634	audio	450.0	A1	False		False	1.0
+9167.274	2.0	trials	no_tone					True	5.0	9168.274	0.01	False					nolight	0.0	nan	False		False	5.0
+9177.964	2.0	trials	nogo_tone	4000.0	80.0	9177.964	0.1	True	5.0	9178.964	0.01	False					nolight	0.0	nan	False		False	3.0
+9188.855	2.0	trials	nogo_tone	4000.0	80.0	9188.855	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9199.545	2.0	trials	nogo_tone	4000.0	80.0	9199.545	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9210.586	2.0	trials	no_tone					True	5.0	9211.586	0.01	False					nolight	0.0	nan	False		False	5.0
+9221.965	2.0	trials	no_tone					True	5.0	9222.965	0.01	False					nolight	0.0	nan	False		False	5.0
+9233.345	2.0	trials	nogo_tone	4000.0	80.0	9233.345	0.1	False				True	100.0	12.0	9233.744999999999	9234.295	delay	550.0	A1	False		False	4.0
+9244.187	2.0	trials	go_tone	8000.0	80.0	9244.187	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9254.986	2.0	trials	nogo_tone	4000.0	80.0	9254.986	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9266.186	2.0	trials	nogo_tone	4000.0	80.0	9266.186	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9276.987	2.0	trials	go_tone	8000.0	80.0	9276.987	0.1	True	5.0	9277.987	0.01	True	100.0	12.0	9277.386999999999	9277.937	delay	550.0	A1	False		False	1.0
+9287.917	2.0	trials	nogo_tone	4000.0	80.0	9287.917	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9299.187	2.0	trials	nogo_tone	4000.0	80.0	9299.187	0.1	True	5.0	9300.187	0.01	True	100.0	12.0	9299.137	9299.587	audio	450.0	A1	False		False	3.0
+9310.294	2.0	trials	no_tone					True	5.0	9311.294	0.01	True	100.0	12.0	9310.244	9310.694	audio	450.0	A1	False		False	5.0
+9321.797	2.0	trials	nogo_tone	4000.0	80.0	9321.797	0.1	False				True	100.0	12.0	9321.747000000001	9322.197	audio	450.0	A1	False		False	4.0
+9332.579	2.0	trials	nogo_tone	4000.0	80.0	9332.579	0.1	True	5.0	9333.579	0.01	False					nolight	0.0	nan	False		False	3.0
+9343.589	2.0	trials	go_tone	8000.0	80.0	9343.589	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9354.337	2.0	trials	go_tone	8000.0	80.0	9354.337	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9365.878	2.0	trials	nogo_tone	4000.0	80.0	9365.878	0.1	False				True	100.0	12.0	9366.828000000001	9367.178	whisker	350.0	A1	False		False	4.0
+9378.559	2.0	trials	go_tone	8000.0	80.0	9378.559	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9389.888	2.0	trials	go_tone	8000.0	80.0	9389.888	0.1	True	5.0	9390.888	0.01	True	100.0	12.0	9390.838000000002	9391.188	whisker	350.0	A1	False		False	1.0
+9401.309	2.0	trials	go_tone	8000.0	80.0	9401.309	0.1	True	5.0	9402.309	0.01	False					nolight	0.0	nan	False		False	1.0
+9412.398	2.0	trials	nogo_tone	4000.0	80.0	9412.398	0.1	True	5.0	9413.398	0.01	True	100.0	12.0	9413.348	9413.697999999999	whisker	350.0	A1	False		False	3.0
+9423.738	2.0	trials	nogo_tone	4000.0	80.0	9423.738	0.1	True	5.0	9424.738	0.01	False					nolight	0.0	nan	False		False	3.0
+9434.578	2.0	trials	nogo_tone	4000.0	80.0	9434.578	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9445.339	2.0	trials	nogo_tone	4000.0	80.0	9445.339	0.1	True	5.0	9446.339	0.01	False					nolight	0.0	nan	False		False	3.0
+9456.619	2.0	trials	go_tone	8000.0	80.0	9456.619	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9467.718	2.0	trials	nogo_tone	4000.0	80.0	9467.718	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9478.409	2.0	trials	nogo_tone	4000.0	80.0	9478.409	0.1	True	5.0	9479.409	0.01	False					nolight	0.0	nan	False		False	3.0
+9489.47	2.0	trials	go_tone	8000.0	80.0	9489.47	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9500.31	2.0	trials	go_tone	8000.0	80.0	9500.31	0.1	True	5.0	9501.31	0.01	True	100.0	12.0	9501.26	9501.609999999999	whisker	350.0	A1	False		False	1.0
+9510.89	2.0	trials	go_tone	8000.0	80.0	9510.89	0.1	True	5.0	9511.89	0.01	True	100.0	12.0	9511.289999999999	9511.84	delay	550.0	A1	False		False	1.0
+9522.431	2.0	trials	nogo_tone	4000.0	80.0	9522.431	0.1	True	5.0	9523.431	0.01	True	100.0	12.0	9522.381000000001	9522.831	audio	450.0	A1	False		False	3.0
+9533.44	2.0	trials	nogo_tone	4000.0	80.0	9533.44	0.1	True	5.0	9534.44	0.01	True	100.0	12.0	9534.390000000001	9534.74	whisker	350.0	A1	False		False	3.0
+9544.531	2.0	trials	nogo_tone	4000.0	80.0	9544.531	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9556.071	2.0	trials	go_tone	8000.0	80.0	9556.071	0.1	True	5.0	9557.071	0.01	True	100.0	12.0	9556.021	9556.471	audio	450.0	A1	False		False	1.0
+9566.938	2.0	trials	go_tone	8000.0	80.0	9566.938	0.1	True	5.0	9567.938	0.01	False					nolight	0.0	nan	False		False	1.0
+9578.382	2.0	trials	nogo_tone	4000.0	80.0	9578.382	0.1	True	5.0	9579.382	0.01	False					nolight	0.0	nan	False		False	3.0
+9589.652	2.0	trials	go_tone	8000.0	80.0	9589.652	0.1	True	5.0	9590.652	0.01	False					nolight	0.0	nan	False		False	1.0
+9600.572	2.0	trials	nogo_tone	4000.0	80.0	9600.572	0.1	True	5.0	9601.572	0.01	False					nolight	0.0	nan	False		False	3.0
+9611.202	2.0	trials	no_tone					True	5.0	9612.202	0.01	True	100.0	12.0	9611.152	9611.601999999999	audio	450.0	A1	False		False	5.0
+9621.892	2.0	trials	go_tone	8000.0	80.0	9621.892	0.1	True	5.0	9622.892	0.01	False					nolight	0.0	nan	False		False	1.0
+9632.712	2.0	trials	no_tone					True	5.0	9633.712	0.01	False					nolight	0.0	nan	False		False	5.0
+9644.026	2.0	trials	nogo_tone	4000.0	80.0	9644.026	0.1	True	5.0	9645.026	0.01	True	100.0	12.0	9644.426	9644.976	delay	550.0	A1	False		False	3.0
+9682.785	2.0	trials	nogo_tone	4000.0	80.0	9682.785	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9693.383	2.0	trials	no_tone					True	5.0	9694.383	0.01	False					nolight	0.0	nan	False		False	5.0
+9704.699	2.0	trials	nogo_tone	4000.0	80.0	9704.699	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9715.654	2.0	trials	go_tone	8000.0	80.0	9715.654	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9726.839	2.0	trials	no_tone					True	5.0	9727.839	0.01	False					nolight	0.0	nan	False		False	5.0
+9737.764	2.0	trials	no_tone					True	5.0	9738.764	0.01	False					nolight	0.0	nan	False		False	5.0
+9748.944	2.0	trials	nogo_tone	4000.0	80.0	9748.944	0.1	True	5.0	9749.944	0.01	False					nolight	0.0	nan	False		False	3.0
+9759.554	2.0	trials	go_tone	8000.0	80.0	9759.554	0.1	False				True	100.0	12.0	9759.504	9759.954	audio	450.0	A1	False		False	2.0
+9770.144	2.0	trials	go_tone	8000.0	80.0	9770.144	0.1	True	5.0	9771.144	0.01	False					nolight	0.0	nan	True	9772.816	False	1.0
+9781.214	2.0	trials	go_tone	8000.0	80.0	9781.214	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9792.416	2.0	trials	nogo_tone	4000.0	80.0	9792.416	0.1	True	5.0	9793.416	0.01	False					nolight	0.0	nan	False		False	3.0
+9803.725	2.0	trials	go_tone	8000.0	80.0	9803.725	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9815.035	2.0	trials	go_tone	8000.0	80.0	9815.035	0.1	False				True	100.0	12.0	9815.435	9815.985	delay	550.0	A1	False		False	2.0
+9826.175	2.0	trials	nogo_tone	4000.0	80.0	9826.175	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9837.005	2.0	trials	nogo_tone	4000.0	80.0	9837.005	0.1	True	5.0	9838.005	0.01	False					nolight	0.0	nan	False		False	3.0
+9848.236	2.0	trials	nogo_tone	4000.0	80.0	9848.236	0.1	False				True	100.0	12.0	9849.186000000002	9849.536	whisker	350.0	A1	False		False	4.0
+9859.437	2.0	trials	go_tone	8000.0	80.0	9859.437	0.1	True	5.0	9860.437	0.01	False					nolight	0.0	nan	True	9862.335	False	1.0
+9870.496	2.0	trials	go_tone	8000.0	80.0	9870.496	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9881.347	2.0	trials	go_tone	8000.0	80.0	9881.347	0.1	False				True	100.0	12.0	9882.297	9882.646999999999	whisker	350.0	A1	False		False	2.0
+9892.608	2.0	trials	no_tone					True	5.0	9893.608	0.01	True	100.0	12.0	9893.558	9893.908	whisker	350.0	A1	False		False	5.0
+9903.937	2.0	trials	no_tone					True	5.0	9904.937	0.01	False					nolight	0.0	nan	False		False	5.0
+9914.748	2.0	trials	nogo_tone	4000.0	80.0	9914.748	0.1	False				False					nolight	0.0	nan	False		False	4.0
+9926.058	2.0	trials	nogo_tone	4000.0	80.0	9926.058	0.1	False				True	100.0	12.0	9926.458	9927.008000000002	delay	550.0	A1	False		False	4.0
+9937.399	2.0	trials	go_tone	8000.0	80.0	9937.399	0.1	False				False					nolight	0.0	nan	False		False	2.0
+9948.347	2.0	trials	no_tone					True	5.0	9949.347	0.01	False					nolight	0.0	nan	False		False	5.0
+9959.348	2.0	trials	no_tone					True	5.0	9960.348	0.01	True	100.0	12.0	9959.748	9960.298	delay	550.0	A1	False		False	5.0
+9969.975	2.0	trials	go_tone	8000.0	80.0	9969.975	0.1	True	5.0	9970.975	0.01	False					nolight	0.0	nan	False		False	1.0
+9980.778	2.0	trials	nogo_tone	4000.0	80.0	9980.778	0.1	False				True	100.0	12.0	9980.728000000001	9981.178	audio	450.0	A1	False		False	4.0
+9991.528	2.0	trials	nogo_tone	4000.0	80.0	9991.528	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10002.138	2.0	trials	go_tone	8000.0	80.0	10002.138	0.1	False				True	100.0	12.0	10003.088000000002	10003.438	whisker	350.0	A1	True	10004.462000000001	True	2.0
+10014.47	2.0	trials	go_tone	8000.0	80.0	10014.47	0.1	False				True	100.0	12.0	10015.42	10015.769999999999	whisker	350.0	A1	False		False	2.0
+10025.808	2.0	trials	no_tone					True	5.0	10026.808	0.01	False					nolight	0.0	nan	False		False	5.0
+10037.309	2.0	trials	nogo_tone	4000.0	80.0	10037.309	0.1	True	5.0	10038.309	0.01	True	100.0	12.0	10037.259	10037.708999999999	audio	450.0	A1	False		False	3.0
+10047.999	2.0	trials	no_tone					True	5.0	10048.999	0.01	False					nolight	0.0	nan	False		False	5.0
+10058.62	2.0	trials	go_tone	8000.0	80.0	10058.62	0.1	False				True	100.0	12.0	10058.570000000002	10059.02	audio	450.0	A1	False		False	2.0
+10069.53	2.0	trials	go_tone	8000.0	80.0	10069.53	0.1	True	5.0	10070.53	0.01	False					nolight	0.0	nan	True	10071.259	True	1.0
+10081.259	2.0	trials	go_tone	8000.0	80.0	10081.259	0.1	True	5.0	10082.259	0.01	False					nolight	0.0	nan	False		False	1.0
+10091.96	2.0	trials	nogo_tone	4000.0	80.0	10091.96	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10102.781	2.0	trials	nogo_tone	4000.0	80.0	10102.781	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10114.24	2.0	trials	no_tone					True	5.0	10115.24	0.01	True	100.0	12.0	10114.19	10114.64	audio	450.0	A1	False		False	5.0
+10124.863	2.0	trials	go_tone	8000.0	80.0	10124.863	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10137.39	2.0	trials	no_tone					True	5.0	10138.39	0.01	False					nolight	0.0	nan	False		False	5.0
+10148.491	2.0	trials	go_tone	8000.0	80.0	10148.491	0.1	True	5.0	10149.491	0.01	True	100.0	12.0	10149.441	10149.791	whisker	350.0	A1	False		False	1.0
+10159.397	2.0	trials	nogo_tone	4000.0	80.0	10159.397	0.1	False				True	100.0	12.0	10159.347000000002	10159.797	audio	450.0	A1	False		False	4.0
+10170.783	2.0	trials	nogo_tone	4000.0	80.0	10170.783	0.1	True	5.0	10171.783	0.01	False					nolight	0.0	nan	False		False	3.0
+10181.733	2.0	trials	no_tone					True	5.0	10182.733	0.01	False					nolight	0.0	nan	False		False	5.0
+10192.671	2.0	trials	no_tone					True	5.0	10193.671	0.01	False					nolight	0.0	nan	False		False	5.0
+10203.823	2.0	trials	go_tone	8000.0	80.0	10203.823	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10214.882	2.0	trials	nogo_tone	4000.0	80.0	10214.882	0.1	False				True	100.0	12.0	10215.282	10215.832	delay	550.0	A1	False		False	4.0
+10225.732	2.0	trials	nogo_tone	4000.0	80.0	10225.732	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10236.892	2.0	trials	no_tone					True	5.0	10237.892	0.01	True	100.0	12.0	10237.292	10237.842	delay	550.0	A1	False		False	5.0
+10247.842	2.0	trials	go_tone	8000.0	80.0	10247.842	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10258.533	2.0	trials	nogo_tone	4000.0	80.0	10258.533	0.1	True	5.0	10259.533	0.01	False					nolight	0.0	nan	False		False	3.0
+10269.924	2.0	trials	go_tone	8000.0	80.0	10269.924	0.1	True	5.0	10270.924	0.01	False					nolight	0.0	nan	True	10272.740000000002	False	1.0
+10280.883	2.0	trials	no_tone					True	5.0	10281.883	0.01	False					nolight	0.0	nan	False		False	5.0
+10292.334	2.0	trials	nogo_tone	4000.0	80.0	10292.334	0.1	False				True	100.0	12.0	10293.284000000001	10293.634	whisker	350.0	A1	False		False	4.0
+10304.365	2.0	trials	go_tone	8000.0	80.0	10304.365	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10344.96	2.0	trials	go_tone	8000.0	80.0	10344.96	0.1	True	5.0	10345.96	0.01	False					nolight	0.0	nan	False		False	1.0
+10356.354	2.0	trials	go_tone	8000.0	80.0	10356.354	0.1	True	5.0	10357.354	0.01	True	100.0	12.0	10356.304	10356.753999999999	audio	450.0	A1	False		False	1.0
+10367.334	2.0	trials	go_tone	8000.0	80.0	10367.334	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10378.773	2.0	trials	nogo_tone	4000.0	80.0	10378.773	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10390.295	2.0	trials	nogo_tone	4000.0	80.0	10390.295	0.1	True	5.0	10391.295	0.01	False					nolight	0.0	nan	True	10391.975	True	3.0
+10401.976	2.0	trials	nogo_tone	4000.0	80.0	10401.976	0.1	True	5.0	10402.976	0.01	False					nolight	0.0	nan	False		False	3.0
+10413.275	2.0	trials	nogo_tone	4000.0	80.0	10413.275	0.1	True	5.0	10414.275	0.01	False					nolight	0.0	nan	False		False	3.0
+10424.247	2.0	trials	go_tone	8000.0	80.0	10424.247	0.1	True	5.0	10425.247	0.01	True	100.0	12.0	10424.646999999999	10425.197	delay	550.0	A1	True	10427.071	False	1.0
+10434.886	2.0	trials	nogo_tone	4000.0	80.0	10434.886	0.1	True	5.0	10435.886	0.01	False					nolight	0.0	nan	False		False	3.0
+10446.296	2.0	trials	nogo_tone	4000.0	80.0	10446.296	0.1	True	5.0	10447.296	0.01	True	100.0	12.0	10446.696	10447.246000000001	delay	550.0	A1	False		False	3.0
+10457.126	2.0	trials	go_tone	8000.0	80.0	10457.126	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10467.997	2.0	trials	nogo_tone	4000.0	80.0	10467.997	0.1	True	5.0	10468.997	0.01	True	100.0	12.0	10468.947	10469.296999999999	whisker	350.0	A1	False		False	3.0
+10478.718	2.0	trials	go_tone	8000.0	80.0	10478.718	0.1	True	5.0	10479.718	0.01	False					nolight	0.0	nan	False		False	1.0
+10489.708	2.0	trials	go_tone	8000.0	80.0	10489.708	0.1	False				True	100.0	12.0	10490.108	10490.658000000001	delay	550.0	A1	False		False	2.0
+10501.208	2.0	trials	nogo_tone	4000.0	80.0	10501.208	0.1	True	5.0	10502.208	0.01	False					nolight	0.0	nan	True	10504.127	False	3.0
+10512.428	2.0	trials	no_tone					True	5.0	10513.428	0.01	True	100.0	12.0	10513.378	10513.728	whisker	350.0	A1	False		False	5.0
+10523.267	2.0	trials	nogo_tone	4000.0	80.0	10523.267	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10534.379	2.0	trials	go_tone	8000.0	80.0	10534.379	0.1	True	5.0	10535.379	0.01	False					nolight	0.0	nan	False		False	1.0
+10545.399	2.0	trials	go_tone	8000.0	80.0	10545.399	0.1	True	5.0	10546.399	0.01	False					nolight	0.0	nan	False		False	1.0
+10557.198	2.0	trials	nogo_tone	4000.0	80.0	10557.198	0.1	True	5.0	10558.198	0.01	False					nolight	0.0	nan	False		False	3.0
+10567.898	2.0	trials	nogo_tone	4000.0	80.0	10567.898	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10578.798	2.0	trials	go_tone	8000.0	80.0	10578.798	0.1	True	5.0	10579.798	0.01	True	100.0	12.0	10579.748000000001	10580.098	whisker	350.0	A1	False		False	1.0
+10589.978	2.0	trials	nogo_tone	4000.0	80.0	10589.978	0.1	False				True	100.0	12.0	10590.377999999999	10590.928	delay	550.0	A1	False		False	4.0
+10600.9	2.0	trials	no_tone					True	5.0	10601.9	0.01	True	100.0	12.0	10601.3	10601.85	delay	550.0	A1	False		False	5.0
+10612.129	2.0	trials	go_tone	8000.0	80.0	10612.129	0.1	True	5.0	10613.129	0.01	False					nolight	0.0	nan	False		False	1.0
+10622.898	2.0	trials	no_tone					True	5.0	10623.898	0.01	False					nolight	0.0	nan	False		False	5.0
+10634.15	2.0	trials	go_tone	8000.0	80.0	10634.15	0.1	True	5.0	10635.15	0.01	True	100.0	12.0	10634.55	10635.1	delay	550.0	A1	False		False	1.0
+10645.149	2.0	trials	nogo_tone	4000.0	80.0	10645.149	0.1	False				True	100.0	12.0	10645.099	10645.548999999999	audio	450.0	A1	False		False	4.0
+10655.821	2.0	trials	no_tone					True	5.0	10656.821	0.01	False					nolight	0.0	nan	False		False	5.0
+10666.592	2.0	trials	go_tone	8000.0	80.0	10666.592	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10677.67	2.0	trials	no_tone					True	5.0	10678.67	0.01	True	100.0	12.0	10677.62	10678.07	audio	450.0	A1	False		False	5.0
+10688.63	2.0	trials	no_tone					True	5.0	10689.63	0.01	False					nolight	0.0	nan	False		False	5.0
+10699.61	2.0	trials	go_tone	8000.0	80.0	10699.61	0.1	True	5.0	10700.61	0.01	True	100.0	12.0	10699.560000000001	10700.01	audio	450.0	A1	False		False	1.0
+10710.78	2.0	trials	nogo_tone	4000.0	80.0	10710.78	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10721.538	2.0	trials	nogo_tone	4000.0	80.0	10721.538	0.1	True	5.0	10722.538	0.01	False					nolight	0.0	nan	False		False	3.0
+10732.901	2.0	trials	nogo_tone	4000.0	80.0	10732.901	0.1	True	5.0	10733.901	0.01	True	100.0	12.0	10733.851	10734.201	whisker	350.0	A1	False		False	3.0
+10743.66	2.0	trials	go_tone	8000.0	80.0	10743.66	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10754.981	2.0	trials	go_tone	8000.0	80.0	10754.981	0.1	True	5.0	10755.981	0.01	False					nolight	0.0	nan	False		False	1.0
+10765.923	2.0	trials	nogo_tone	4000.0	80.0	10765.923	0.1	True	5.0	10766.923	0.01	False					nolight	0.0	nan	False		False	3.0
+10777.483	2.0	trials	go_tone	8000.0	80.0	10777.483	0.1	True	5.0	10778.483	0.01	False					nolight	0.0	nan	True	10780.675	False	1.0
+10789.642	2.0	trials	nogo_tone	4000.0	80.0	10789.642	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10800.65	2.0	trials	go_tone	8000.0	80.0	10800.65	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10811.882	2.0	trials	nogo_tone	4000.0	80.0	10811.882	0.1	True	5.0	10812.882	0.01	False					nolight	0.0	nan	False		False	3.0
+10822.962	2.0	trials	no_tone					True	5.0	10823.962	0.01	False					nolight	0.0	nan	False		False	5.0
+10834.253	2.0	trials	nogo_tone	4000.0	80.0	10834.253	0.1	True	5.0	10835.253	0.01	True	100.0	12.0	10834.203000000001	10834.653	audio	450.0	A1	False		False	3.0
+10845.032	2.0	trials	no_tone					True	5.0	10846.032	0.01	False					nolight	0.0	nan	False		False	5.0
+10855.753	2.0	trials	nogo_tone	4000.0	80.0	10855.753	0.1	True	5.0	10856.753	0.01	False					nolight	0.0	nan	False		False	3.0
+10866.323	2.0	trials	no_tone					True	5.0	10867.323	0.01	False					nolight	0.0	nan	False		False	5.0
+10877.674	2.0	trials	nogo_tone	4000.0	80.0	10877.674	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10888.733	2.0	trials	go_tone	8000.0	80.0	10888.733	0.1	True	5.0	10889.733	0.01	False					nolight	0.0	nan	False		False	1.0
+10900.145	2.0	trials	go_tone	8000.0	80.0	10900.145	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10911.004	2.0	trials	go_tone	8000.0	80.0	10911.004	0.1	True	5.0	10912.004	0.01	False					nolight	0.0	nan	True	10914.262	False	1.0
+10922.314	2.0	trials	go_tone	8000.0	80.0	10922.314	0.1	False				True	100.0	12.0	10922.714	10923.264000000001	delay	550.0	A1	False		False	2.0
+10933.356	2.0	trials	go_tone	8000.0	80.0	10933.356	0.1	False				False					nolight	0.0	nan	False		False	2.0
+10944.184	2.0	trials	nogo_tone	4000.0	80.0	10944.184	0.1	False				False					nolight	0.0	nan	False		False	4.0
+10955.505	2.0	trials	nogo_tone	4000.0	80.0	10955.505	0.1	True	5.0	10956.505	0.01	True	100.0	12.0	10955.904999999999	10956.455	delay	550.0	A1	False		False	3.0
+10966.825	2.0	trials	no_tone					True	5.0	10967.825	0.01	True	100.0	12.0	10967.775000000001	10968.125	whisker	350.0	A1	False		False	5.0
+10978.136	2.0	trials	go_tone	8000.0	80.0	10978.136	0.1	True	5.0	10979.136	0.01	False					nolight	0.0	nan	True	10981.032000000001	False	1.0
+10988.796	2.0	trials	go_tone	8000.0	80.0	10988.796	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11000.035	2.0	trials	go_tone	8000.0	80.0	11000.035	0.1	False				True	100.0	12.0	10999.985	11000.435	audio	450.0	A1	False		False	2.0
+11010.827	2.0	trials	nogo_tone	4000.0	80.0	11010.827	0.1	True	5.0	11011.827	0.01	False					nolight	0.0	nan	False		False	3.0
+11022.135	2.0	trials	go_tone	8000.0	80.0	11022.135	0.1	False				True	100.0	12.0	11023.085000000001	11023.435	whisker	350.0	A1	False		False	2.0
+11032.738	2.0	trials	nogo_tone	4000.0	80.0	11032.738	0.1	False				True	100.0	12.0	11033.688	11034.037999999999	whisker	350.0	A1	True	11034.860999999999	True	4.0
+11044.867	2.0	trials	nogo_tone	4000.0	80.0	11044.867	0.1	False				True	100.0	12.0	11045.817000000001	11046.167	whisker	350.0	A1	False		False	4.0
+11055.997	2.0	trials	nogo_tone	4000.0	80.0	11055.997	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11066.948	2.0	trials	nogo_tone	4000.0	80.0	11066.948	0.1	True	5.0	11067.948	0.01	False					nolight	0.0	nan	False		False	3.0
+11077.821	2.0	trials	go_tone	8000.0	80.0	11077.821	0.1	False				True	100.0	12.0	11078.221	11078.771	delay	550.0	A1	False		False	2.0
+11089.108	2.0	trials	nogo_tone	4000.0	80.0	11089.108	0.1	False				True	100.0	12.0	11089.058	11089.508	audio	450.0	A1	False		False	4.0
+11100.188	2.0	trials	go_tone	8000.0	80.0	11100.188	0.1	True	5.0	11101.188	0.01	False					nolight	0.0	nan	False		False	1.0
+11111.467	2.0	trials	no_tone					True	5.0	11112.467	0.01	False					nolight	0.0	nan	False		False	5.0
+11122.817	2.0	trials	nogo_tone	4000.0	80.0	11122.817	0.1	True	5.0	11123.817	0.01	False					nolight	0.0	nan	False		False	3.0
+11133.99	2.0	trials	go_tone	8000.0	80.0	11133.99	0.1	True	5.0	11134.99	0.01	True	100.0	12.0	11134.94	11135.289999999999	whisker	350.0	A1	False		False	1.0
+11144.847	2.0	trials	no_tone					True	5.0	11145.847	0.01	True	100.0	12.0	11145.247	11145.797	delay	550.0	A1	False		False	5.0
+11155.617	2.0	trials	go_tone	8000.0	80.0	11155.617	0.1	True	5.0	11156.617	0.01	False					nolight	0.0	nan	True	11158.365	False	1.0
+11166.269	2.0	trials	nogo_tone	4000.0	80.0	11166.269	0.1	False				False					nolight	0.0	nan	True	11169.027	False	4.0
+11177.348	2.0	trials	nogo_tone	4000.0	80.0	11177.348	0.1	False				True	100.0	12.0	11178.298	11178.648	whisker	350.0	A1	False		False	4.0
+11188.578	2.0	trials	no_tone					True	5.0	11189.578	0.01	False					nolight	0.0	nan	False		False	5.0
+11199.39	2.0	trials	nogo_tone	4000.0	80.0	11199.39	0.1	True	5.0	11200.39	0.01	False					nolight	0.0	nan	False		False	3.0
+11210.709	2.0	trials	go_tone	8000.0	80.0	11210.709	0.1	True	5.0	11211.709	0.01	True	100.0	12.0	11210.659000000001	11211.109	audio	450.0	A1	False		False	1.0
+11222.07	2.0	trials	go_tone	8000.0	80.0	11222.07	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11232.97	2.0	trials	go_tone	8000.0	80.0	11232.97	0.1	True	5.0	11233.97	0.01	True	100.0	12.0	11233.369999999999	11233.92	delay	550.0	A1	False		False	1.0
+11244.181	2.0	trials	nogo_tone	4000.0	80.0	11244.181	0.1	True	5.0	11245.181	0.01	True	100.0	12.0	11244.131000000001	11244.581	audio	450.0	A1	False		False	3.0
+11255.229	2.0	trials	go_tone	8000.0	80.0	11255.229	0.1	False				True	100.0	12.0	11255.179	11255.628999999999	audio	450.0	A1	False		False	2.0
+11266.599	2.0	trials	no_tone					True	5.0	11267.599	0.01	False					nolight	0.0	nan	False		False	5.0
+11277.442	2.0	trials	no_tone					True	5.0	11278.442	0.01	False					nolight	0.0	nan	False		False	5.0
+11288.87	2.0	trials	go_tone	8000.0	80.0	11288.87	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11300.341	2.0	trials	no_tone					True	5.0	11301.341	0.01	True	100.0	12.0	11301.291000000001	11301.641	whisker	350.0	A1	False		False	5.0
+11311.262	2.0	trials	go_tone	8000.0	80.0	11311.262	0.1	True	5.0	11312.262	0.01	False					nolight	0.0	nan	False		False	1.0
+11321.96	2.0	trials	nogo_tone	4000.0	80.0	11321.96	0.1	True	5.0	11322.96	0.01	True	100.0	12.0	11322.91	11323.259999999998	whisker	350.0	A1	False		False	3.0
+11333.421	2.0	trials	no_tone					True	5.0	11334.421	0.01	False					nolight	0.0	nan	False		False	5.0
+11344.341	2.0	trials	nogo_tone	4000.0	80.0	11344.341	0.1	True	5.0	11345.341	0.01	False					nolight	0.0	nan	False		False	3.0
+11355.262	2.0	trials	no_tone					True	5.0	11356.262	0.01	True	100.0	12.0	11355.212000000001	11355.662	audio	450.0	A1	False		False	5.0
+11366.222	2.0	trials	nogo_tone	4000.0	80.0	11366.222	0.1	True	5.0	11367.222	0.01	False					nolight	0.0	nan	False		False	3.0
+11376.831	2.0	trials	nogo_tone	4000.0	80.0	11376.831	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11387.553	2.0	trials	go_tone	8000.0	80.0	11387.553	0.1	True	5.0	11388.553	0.01	False					nolight	0.0	nan	False		False	1.0
+11398.182	2.0	trials	nogo_tone	4000.0	80.0	11398.182	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11409.582	2.0	trials	nogo_tone	4000.0	80.0	11409.582	0.1	False				True	100.0	12.0	11409.982	11410.532000000001	delay	550.0	A1	False		False	4.0
+11420.794	2.0	trials	go_tone	8000.0	80.0	11420.794	0.1	True	5.0	11421.794	0.01	False					nolight	0.0	nan	False		False	1.0
+11432.144	2.0	trials	nogo_tone	4000.0	80.0	11432.144	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11443.053	2.0	trials	nogo_tone	4000.0	80.0	11443.053	0.1	True	5.0	11444.053	0.01	True	100.0	12.0	11443.453	11444.003	delay	550.0	A1	False		False	3.0
+11454.093	2.0	trials	go_tone	8000.0	80.0	11454.093	0.1	False				True	100.0	12.0	11455.043000000001	11455.393	whisker	350.0	A1	False		False	2.0
+11464.873	2.0	trials	no_tone					True	5.0	11465.873	0.01	False					nolight	0.0	nan	False		False	5.0
+11475.654	2.0	trials	go_tone	8000.0	80.0	11475.654	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11486.323	2.0	trials	go_tone	8000.0	80.0	11486.323	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11497.455	2.0	trials	nogo_tone	4000.0	80.0	11497.455	0.1	False				False					nolight	0.0	nan	True	11497.604	True	4.0
+11507.605	2.0	trials	nogo_tone	4000.0	80.0	11507.605	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11519.115	2.0	trials	go_tone	8000.0	80.0	11519.115	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11530.314	2.0	trials	go_tone	8000.0	80.0	11530.314	0.1	False				False					nolight	0.0	nan	True	11531.784	True	2.0
+11541.784	2.0	trials	go_tone	8000.0	80.0	11541.784	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11552.794	2.0	trials	nogo_tone	4000.0	80.0	11552.794	0.1	True	5.0	11553.794	0.01	False					nolight	0.0	nan	False		False	3.0
+11563.624	2.0	trials	go_tone	8000.0	80.0	11563.624	0.1	True	5.0	11564.624	0.01	False					nolight	0.0	nan	True	11566.44	False	1.0
+11574.385	2.0	trials	nogo_tone	4000.0	80.0	11574.385	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11585.385	2.0	trials	go_tone	8000.0	80.0	11585.385	0.1	True	5.0	11586.385	0.01	False					nolight	0.0	nan	True	11588.131	False	1.0
+11596.595	2.0	trials	nogo_tone	4000.0	80.0	11596.595	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11607.175	2.0	trials	nogo_tone	4000.0	80.0	11607.175	0.1	False				True	100.0	12.0	11607.125	11607.574999999999	audio	450.0	A1	False		False	4.0
+11618.537	2.0	trials	go_tone	8000.0	80.0	11618.537	0.1	True	5.0	11619.537	0.01	False					nolight	0.0	nan	False		False	1.0
+11629.397	2.0	trials	nogo_tone	4000.0	80.0	11629.397	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11640.876	2.0	trials	nogo_tone	4000.0	80.0	11640.876	0.1	False				True	100.0	12.0	11641.276	11641.826000000001	delay	550.0	A1	False		False	4.0
+11651.648	2.0	trials	go_tone	8000.0	80.0	11651.648	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11662.546	2.0	trials	no_tone					True	5.0	11663.546	0.01	True	100.0	12.0	11663.496000000001	11663.846	whisker	350.0	A1	False		False	5.0
+11674.057	2.0	trials	no_tone					True	5.0	11675.057	0.01	False					nolight	0.0	nan	False		False	5.0
+11685.566	2.0	trials	go_tone	8000.0	80.0	11685.566	0.1	True	5.0	11686.566	0.01	True	100.0	12.0	11685.966	11686.516000000001	delay	550.0	A1	False		False	1.0
+11696.226	2.0	trials	nogo_tone	4000.0	80.0	11696.226	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11706.998	2.0	trials	go_tone	8000.0	80.0	11706.998	0.1	False				True	100.0	12.0	11707.948	11708.297999999999	whisker	350.0	A1	False		False	2.0
+11717.842	2.0	trials	nogo_tone	4000.0	80.0	11717.842	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11729.367	2.0	trials	no_tone					True	5.0	11730.367	0.01	True	100.0	12.0	11729.767	11730.317000000001	delay	550.0	A1	False		False	5.0
+11740.639	2.0	trials	nogo_tone	4000.0	80.0	11740.639	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11751.462	2.0	trials	nogo_tone	4000.0	80.0	11751.462	0.1	True	5.0	11752.462	0.01	True	100.0	12.0	11751.862	11752.412	delay	550.0	A1	False		False	3.0
+11762.058	2.0	trials	go_tone	8000.0	80.0	11762.058	0.1	False				True	100.0	12.0	11762.458	11763.008000000002	delay	550.0	A1	False		False	2.0
+11773.268	2.0	trials	no_tone					True	5.0	11774.268	0.01	True	100.0	12.0	11773.218	11773.668	audio	450.0	A1	False		False	5.0
+11784.298	2.0	trials	nogo_tone	4000.0	80.0	11784.298	0.1	True	5.0	11785.298	0.01	False					nolight	0.0	nan	False		False	3.0
+11795.49	2.0	trials	nogo_tone	4000.0	80.0	11795.49	0.1	True	5.0	11796.49	0.01	False					nolight	0.0	nan	False		False	3.0
+11806.32	2.0	trials	nogo_tone	4000.0	80.0	11806.32	0.1	False				False					nolight	0.0	nan	False		False	4.0
+11817.181	2.0	trials	nogo_tone	4000.0	80.0	11817.181	0.1	False				True	100.0	12.0	11818.131000000001	11818.481	whisker	350.0	A1	False		False	4.0
+11828.519	2.0	trials	go_tone	8000.0	80.0	11828.519	0.1	True	5.0	11829.519	0.01	True	100.0	12.0	11828.469000000001	11828.919	audio	450.0	A1	False		False	1.0
+11839.82	2.0	trials	go_tone	8000.0	80.0	11839.82	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11850.769	2.0	trials	go_tone	8000.0	80.0	11850.769	0.1	True	5.0	11851.769	0.01	False					nolight	0.0	nan	False		False	1.0
+11861.459	2.0	trials	no_tone					True	5.0	11862.459	0.01	False					nolight	0.0	nan	False		False	5.0
+11872.079	2.0	trials	go_tone	8000.0	80.0	11872.079	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11883.231	2.0	trials	no_tone					True	5.0	11884.231	0.01	False					nolight	0.0	nan	False		False	5.0
+11893.991	2.0	trials	go_tone	8000.0	80.0	11893.991	0.1	False				False					nolight	0.0	nan	True	11896.574	False	2.0
+11905.39	2.0	trials	go_tone	8000.0	80.0	11905.39	0.1	True	5.0	11906.39	0.01	True	100.0	12.0	11906.34	11906.689999999999	whisker	350.0	A1	False		False	1.0
+11916.072	2.0	trials	nogo_tone	4000.0	80.0	11916.072	0.1	True	5.0	11917.072	0.01	False					nolight	0.0	nan	False		False	3.0
+11927.612	2.0	trials	go_tone	8000.0	80.0	11927.612	0.1	False				False					nolight	0.0	nan	False		False	2.0
+11939.05	2.0	trials	go_tone	8000.0	80.0	11939.05	0.1	True	5.0	11940.05	0.01	False					nolight	0.0	nan	False		False	1.0
+11950.317	2.0	trials	go_tone	8000.0	80.0	11950.317	0.1	True	5.0	11951.317	0.01	False					nolight	0.0	nan	True	11950.939999999999	True	1.0
+11960.943	2.0	trials	go_tone	8000.0	80.0	11960.943	0.1	True	5.0	11961.943	0.01	False					nolight	0.0	nan	False		False	1.0
+11971.853	2.0	trials	nogo_tone	4000.0	80.0	11971.853	0.1	True	5.0	11972.853	0.01	False					nolight	0.0	nan	False		False	3.0
+11983.181	2.0	trials	no_tone					True	5.0	11984.181	0.01	False					nolight	0.0	nan	False		False	5.0
+11994.103	2.0	trials	no_tone					True	5.0	11995.103	0.01	False					nolight	0.0	nan	False		False	5.0
+12005.452	2.0	trials	go_tone	8000.0	80.0	12005.452	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12016.304	2.0	trials	no_tone					True	5.0	12017.304	0.01	False					nolight	0.0	nan	False		False	5.0
+12027.623	2.0	trials	nogo_tone	4000.0	80.0	12027.623	0.1	True	5.0	12028.623	0.01	False					nolight	0.0	nan	False		False	3.0
+12038.712	2.0	trials	go_tone	8000.0	80.0	12038.712	0.1	False				True	100.0	12.0	12038.662	12039.112	audio	450.0	A1	False		False	2.0
+12049.664	2.0	trials	nogo_tone	4000.0	80.0	12049.664	0.1	True	5.0	12050.664	0.01	True	100.0	12.0	12050.614000000001	12050.964	whisker	350.0	A1	False		False	3.0
+12061.043	2.0	trials	nogo_tone	4000.0	80.0	12061.043	0.1	True	5.0	12062.043	0.01	False					nolight	0.0	nan	False		False	3.0
+12072.495	2.0	trials	go_tone	8000.0	80.0	12072.495	0.1	True	5.0	12073.495	0.01	False					nolight	0.0	nan	False		False	1.0
+12083.935	2.0	trials	nogo_tone	4000.0	80.0	12083.935	0.1	True	5.0	12084.935	0.01	True	100.0	12.0	12083.885	12084.335	audio	450.0	A1	False		False	3.0
+12096.515	2.0	trials	no_tone					True	5.0	12097.515	0.01	True	100.0	12.0	12096.914999999999	12097.465	delay	550.0	A1	False		False	5.0
+12107.125	2.0	trials	nogo_tone	4000.0	80.0	12107.125	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12118.053	2.0	trials	nogo_tone	4000.0	80.0	12118.053	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12129.508	2.0	trials	nogo_tone	4000.0	80.0	12129.508	0.1	True	5.0	12130.508	0.01	True	100.0	12.0	12129.908	12130.458	delay	550.0	A1	False		False	3.0
+12140.424	2.0	trials	no_tone					True	5.0	12141.424	0.01	False					nolight	0.0	nan	False		False	5.0
+12151.324	2.0	trials	go_tone	8000.0	80.0	12151.324	0.1	True	5.0	12152.324	0.01	True	100.0	12.0	12152.274000000001	12152.624	whisker	350.0	A1	False		False	1.0
+12162.355	2.0	trials	nogo_tone	4000.0	80.0	12162.355	0.1	False				True	100.0	12.0	12162.305	12162.755	audio	450.0	A1	False		False	4.0
+12173.361	2.0	trials	go_tone	8000.0	80.0	12173.361	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12184.375	2.0	trials	go_tone	8000.0	80.0	12184.375	0.1	True	5.0	12185.375	0.01	True	100.0	12.0	12184.325	12184.775	audio	450.0	A1	False		False	1.0
+12195.922	2.0	trials	nogo_tone	4000.0	80.0	12195.922	0.1	False				True	100.0	12.0	12196.322	12196.872000000001	delay	550.0	A1	False		False	4.0
+12207.335	2.0	trials	go_tone	8000.0	80.0	12207.335	0.1	True	5.0	12208.335	0.01	False					nolight	0.0	nan	True	12207.434	True	1.0
+12217.435	2.0	trials	go_tone	8000.0	80.0	12217.435	0.1	True	5.0	12218.435	0.01	False					nolight	0.0	nan	False		False	1.0
+12228.266	2.0	trials	nogo_tone	4000.0	80.0	12228.266	0.1	True	5.0	12229.266	0.01	False					nolight	0.0	nan	False		False	3.0
+12239.405	2.0	trials	go_tone	8000.0	80.0	12239.405	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12250.167	2.0	trials	go_tone	8000.0	80.0	12250.167	0.1	True	5.0	12251.167	0.01	False					nolight	0.0	nan	False		False	1.0
+12261.117	2.0	trials	go_tone	8000.0	80.0	12261.117	0.1	True	5.0	12262.117	0.01	False					nolight	0.0	nan	False		False	1.0
+12271.761	2.0	trials	go_tone	8000.0	80.0	12271.761	0.1	False				True	100.0	12.0	12272.161	12272.711000000001	delay	550.0	A1	False		False	2.0
+12283.026	2.0	trials	go_tone	8000.0	80.0	12283.026	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12294.207	2.0	trials	no_tone					True	5.0	12295.207	0.01	False					nolight	0.0	nan	False		False	5.0
+12304.837	2.0	trials	no_tone					True	5.0	12305.837	0.01	False					nolight	0.0	nan	False		False	5.0
+12315.607	2.0	trials	go_tone	8000.0	80.0	12315.607	0.1	False				True	100.0	12.0	12315.557	12316.007	audio	450.0	A1	False		False	2.0
+12326.267	2.0	trials	go_tone	8000.0	80.0	12326.267	0.1	True	5.0	12327.267	0.01	False					nolight	0.0	nan	False		False	1.0
+12337.781	2.0	trials	no_tone					True	5.0	12338.781	0.01	True	100.0	12.0	12338.731000000002	12339.081	whisker	350.0	A1	False		False	5.0
+12349.068	2.0	trials	nogo_tone	4000.0	80.0	12349.068	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12359.968	2.0	trials	nogo_tone	4000.0	80.0	12359.968	0.1	True	5.0	12360.968	0.01	False					nolight	0.0	nan	False		False	3.0
+12371.37	2.0	trials	nogo_tone	4000.0	80.0	12371.37	0.1	False				True	100.0	12.0	12372.320000000002	12372.67	whisker	350.0	A1	True	12374.743	False	4.0
+12382.528	2.0	trials	no_tone					True	5.0	12383.528	0.01	False					nolight	0.0	nan	False		False	5.0
+12394.068	2.0	trials	no_tone					True	5.0	12395.068	0.01	True	100.0	12.0	12394.018	12394.467999999999	audio	450.0	A1	False		False	5.0
+12404.72	2.0	trials	go_tone	8000.0	80.0	12404.72	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12415.329	2.0	trials	nogo_tone	4000.0	80.0	12415.329	0.1	True	5.0	12416.329	0.01	False					nolight	0.0	nan	False		False	3.0
+12426.169	2.0	trials	go_tone	8000.0	80.0	12426.169	0.1	False				False					nolight	0.0	nan	True	12429.261	False	2.0
+12437.679	2.0	trials	go_tone	8000.0	80.0	12437.679	0.1	True	5.0	12438.679	0.01	True	100.0	12.0	12438.079	12438.629	delay	550.0	A1	False		False	1.0
+12449.799	2.0	trials	nogo_tone	4000.0	80.0	12449.799	0.1	True	5.0	12450.799	0.01	False					nolight	0.0	nan	False		False	3.0
+12460.859	2.0	trials	nogo_tone	4000.0	80.0	12460.859	0.1	True	5.0	12461.859	0.01	True	100.0	12.0	12461.809000000001	12462.159	whisker	350.0	A1	False		False	3.0
+12471.601	2.0	trials	no_tone					True	5.0	12472.601	0.01	False					nolight	0.0	nan	False		False	5.0
+12482.61	2.0	trials	nogo_tone	4000.0	80.0	12482.61	0.1	True	5.0	12483.61	0.01	False					nolight	0.0	nan	False		False	3.0
+12493.431	2.0	trials	nogo_tone	4000.0	80.0	12493.431	0.1	True	5.0	12494.431	0.01	True	100.0	12.0	12493.381000000001	12493.831	audio	450.0	A1	False		False	3.0
+12504.552	2.0	trials	nogo_tone	4000.0	80.0	12504.552	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12515.721	2.0	trials	nogo_tone	4000.0	80.0	12515.721	0.1	True	5.0	12516.721	0.01	False					nolight	0.0	nan	False		False	3.0
+12526.521	2.0	trials	nogo_tone	4000.0	80.0	12526.521	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12537.09	2.0	trials	go_tone	8000.0	80.0	12537.09	0.1	False				True	100.0	12.0	12538.04	12538.39	whisker	350.0	A1	False		False	2.0
+12548.432	2.0	trials	go_tone	8000.0	80.0	12548.432	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12559.211	2.0	trials	nogo_tone	4000.0	80.0	12559.211	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12569.871	2.0	trials	no_tone					True	5.0	12570.871	0.01	False					nolight	0.0	nan	False		False	5.0
+12580.546	2.0	trials	go_tone	8000.0	80.0	12580.546	0.1	True	5.0	12581.546	0.01	False					nolight	0.0	nan	False		False	1.0
+12591.232	2.0	trials	go_tone	8000.0	80.0	12591.232	0.1	True	5.0	12592.232	0.01	False					nolight	0.0	nan	False		False	1.0
+12602.584	2.0	trials	go_tone	8000.0	80.0	12602.584	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12613.342	2.0	trials	go_tone	8000.0	80.0	12613.342	0.1	True	5.0	12614.342	0.01	True	100.0	12.0	12613.292000000001	12613.742	audio	450.0	A1	False		False	1.0
+12624.724	2.0	trials	nogo_tone	4000.0	80.0	12624.724	0.1	False				True	100.0	12.0	12624.674	12625.124	audio	450.0	A1	False		False	4.0
+12635.394	2.0	trials	no_tone					True	5.0	12636.394	0.01	False					nolight	0.0	nan	False		False	5.0
+12646.004	2.0	trials	nogo_tone	4000.0	80.0	12646.004	0.1	True	5.0	12647.004	0.01	True	100.0	12.0	12645.954000000002	12646.404	audio	450.0	A1	False		False	3.0
+12656.574	2.0	trials	no_tone					True	5.0	12657.574	0.01	False					nolight	0.0	nan	False		False	5.0
+12667.873	2.0	trials	go_tone	8000.0	80.0	12667.873	0.1	False				False					nolight	0.0	nan	True	12670.548999999999	False	2.0
+12678.985	2.0	trials	no_tone					True	5.0	12679.985	0.01	True	100.0	12.0	12679.935000000001	12680.285	whisker	350.0	A1	False		False	5.0
+12689.795	2.0	trials	no_tone					True	5.0	12690.795	0.01	False					nolight	0.0	nan	False		False	5.0
+12700.624	2.0	trials	nogo_tone	4000.0	80.0	12700.624	0.1	True	5.0	12701.624	0.01	True	100.0	12.0	12701.574	12701.923999999999	whisker	350.0	A1	False		False	3.0
+12711.964	2.0	trials	no_tone					True	5.0	12712.964	0.01	False					nolight	0.0	nan	False		False	5.0
+12722.675	2.0	trials	nogo_tone	4000.0	80.0	12722.675	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12733.954	2.0	trials	nogo_tone	4000.0	80.0	12733.954	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12745.224	2.0	trials	nogo_tone	4000.0	80.0	12745.224	0.1	True	5.0	12746.224	0.01	False					nolight	0.0	nan	False		False	3.0
+12756.405	2.0	trials	go_tone	8000.0	80.0	12756.405	0.1	True	5.0	12757.405	0.01	False					nolight	0.0	nan	False		False	1.0
+12767.605	2.0	trials	nogo_tone	4000.0	80.0	12767.605	0.1	True	5.0	12768.605	0.01	False					nolight	0.0	nan	False		False	3.0
+12778.495	2.0	trials	go_tone	8000.0	80.0	12778.495	0.1	False				True	100.0	12.0	12779.445000000002	12779.795	whisker	350.0	A1	False		False	2.0
+12789.795	2.0	trials	go_tone	8000.0	80.0	12789.795	0.1	True	5.0	12790.795	0.01	False					nolight	0.0	nan	False		False	1.0
+12801.615	2.0	trials	nogo_tone	4000.0	80.0	12801.615	0.1	False				True	100.0	12.0	12802.565	12802.914999999999	whisker	350.0	A1	False		False	4.0
+12812.745	2.0	trials	no_tone					True	5.0	12813.745	0.01	True	100.0	12.0	12813.145	12813.695000000002	delay	550.0	A1	False		False	5.0
+12823.623	2.0	trials	go_tone	8000.0	80.0	12823.623	0.1	True	5.0	12824.623	0.01	True	100.0	12.0	12824.023	12824.573	delay	550.0	A1	False		False	1.0
+12834.196	2.0	trials	nogo_tone	4000.0	80.0	12834.196	0.1	True	5.0	12835.196	0.01	True	100.0	12.0	12834.596	12835.146	delay	550.0	A1	False		False	3.0
+12844.986	2.0	trials	nogo_tone	4000.0	80.0	12844.986	0.1	False				False					nolight	0.0	nan	False		False	4.0
+12855.738	2.0	trials	go_tone	8000.0	80.0	12855.738	0.1	True	5.0	12856.738	0.01	True	100.0	12.0	12856.688	12857.037999999999	whisker	350.0	A1	False		False	1.0
+12867.097	2.0	trials	nogo_tone	4000.0	80.0	12867.097	0.1	True	5.0	12868.097	0.01	False					nolight	0.0	nan	False		False	3.0
+12878.616	2.0	trials	go_tone	8000.0	80.0	12878.616	0.1	True	5.0	12879.616	0.01	False					nolight	0.0	nan	True	12881.337	False	1.0
+12889.828	2.0	trials	no_tone					True	5.0	12890.828	0.01	False					nolight	0.0	nan	False		False	5.0
+12901.058	2.0	trials	no_tone					True	5.0	12902.058	0.01	True	100.0	12.0	12901.008000000002	12901.458	audio	450.0	A1	True	12904.318000000001	False	5.0
+12912.138	2.0	trials	go_tone	8000.0	80.0	12912.138	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12923.539	2.0	trials	go_tone	8000.0	80.0	12923.539	0.1	False				True	100.0	12.0	12923.939	12924.489000000001	delay	550.0	A1	False		False	2.0
+12934.157	2.0	trials	nogo_tone	4000.0	80.0	12934.157	0.1	False				True	100.0	12.0	12934.556999999999	12935.107	delay	550.0	A1	False		False	4.0
+12946.568	2.0	trials	go_tone	8000.0	80.0	12946.568	0.1	True	5.0	12947.568	0.01	False					nolight	0.0	nan	False		False	1.0
+12957.459	2.0	trials	go_tone	8000.0	80.0	12957.459	0.1	False				False					nolight	0.0	nan	False		False	2.0
+12968.272	2.0	trials	go_tone	8000.0	80.0	12968.272	0.1	True	5.0	12969.272	0.01	False					nolight	0.0	nan	False		False	1.0
+12979.618	2.0	trials	go_tone	8000.0	80.0	12979.618	0.1	False				True	100.0	12.0	12979.568000000001	12980.018	audio	450.0	A1	False		False	2.0
+12990.516	2.0	trials	nogo_tone	4000.0	80.0	12990.516	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13001.77	2.0	trials	go_tone	8000.0	80.0	13001.77	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13013.14	2.0	trials	go_tone	8000.0	80.0	13013.14	0.1	True	5.0	13014.14	0.01	False					nolight	0.0	nan	False		False	1.0
+13024.091	2.0	trials	nogo_tone	4000.0	80.0	13024.091	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13034.661	2.0	trials	nogo_tone	4000.0	80.0	13034.661	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13045.351	2.0	trials	nogo_tone	4000.0	80.0	13045.351	0.1	True	5.0	13046.351	0.01	False					nolight	0.0	nan	False		False	3.0
+13056.53	2.0	trials	no_tone					True	5.0	13057.53	0.01	False					nolight	0.0	nan	False		False	5.0
+13067.249	2.0	trials	nogo_tone	4000.0	80.0	13067.249	0.1	True	5.0	13068.249	0.01	False					nolight	0.0	nan	False		False	3.0
+13077.981	2.0	trials	nogo_tone	4000.0	80.0	13077.981	0.1	True	5.0	13078.981	0.01	False					nolight	0.0	nan	False		False	3.0
+13089.34	2.0	trials	go_tone	8000.0	80.0	13089.34	0.1	False				False					nolight	0.0	nan	True	13091.89	False	2.0
+13100.622	2.0	trials	go_tone	8000.0	80.0	13100.622	0.1	True	5.0	13101.622	0.01	False					nolight	0.0	nan	False		False	1.0
+13111.47	2.0	trials	go_tone	8000.0	80.0	13111.47	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13122.451	2.0	trials	nogo_tone	4000.0	80.0	13122.451	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13133.28	2.0	trials	go_tone	8000.0	80.0	13133.28	0.1	True	5.0	13134.28	0.01	False					nolight	0.0	nan	True	13136.102	False	1.0
+13144.792	2.0	trials	no_tone					True	5.0	13145.792	0.01	False					nolight	0.0	nan	False		False	5.0
+13156.082	2.0	trials	nogo_tone	4000.0	80.0	13156.082	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13167.321	2.0	trials	nogo_tone	4000.0	80.0	13167.321	0.1	True	5.0	13168.321	0.01	False					nolight	0.0	nan	False		False	3.0
+13178.181	2.0	trials	nogo_tone	4000.0	80.0	13178.181	0.1	False				True	100.0	12.0	13179.131000000001	13179.481	whisker	350.0	A1	False		False	4.0
+13188.862	2.0	trials	no_tone					True	5.0	13189.862	0.01	False					nolight	0.0	nan	False		False	5.0
+13199.813	2.0	trials	nogo_tone	4000.0	80.0	13199.813	0.1	True	5.0	13200.813	0.01	True	100.0	12.0	13200.763	13201.113	whisker	350.0	A1	False		False	3.0
+13211.033	2.0	trials	nogo_tone	4000.0	80.0	13211.033	0.1	True	5.0	13212.033	0.01	False					nolight	0.0	nan	True	13213.974	False	3.0
+13222.514	2.0	trials	nogo_tone	4000.0	80.0	13222.514	0.1	False				True	100.0	12.0	13222.913999999999	13223.464	delay	550.0	A1	False		False	4.0
+13233.263	2.0	trials	nogo_tone	4000.0	80.0	13233.263	0.1	False				True	100.0	12.0	13233.213000000002	13233.663	audio	450.0	A1	False		False	4.0
+13243.972	2.0	trials	go_tone	8000.0	80.0	13243.972	0.1	True	5.0	13244.972	0.01	False					nolight	0.0	nan	True	13246.711	False	1.0
+13254.673	2.0	trials	nogo_tone	4000.0	80.0	13254.673	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13265.773	2.0	trials	go_tone	8000.0	80.0	13265.773	0.1	False				True	100.0	12.0	13266.723	13267.072999999999	whisker	350.0	A1	False		False	2.0
+13276.723	2.0	trials	nogo_tone	4000.0	80.0	13276.723	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13287.413	2.0	trials	go_tone	8000.0	80.0	13287.413	0.1	True	5.0	13288.413	0.01	True	100.0	12.0	13288.363000000001	13288.713	whisker	350.0	A1	True	13290.129	False	1.0
+13298.763	2.0	trials	go_tone	8000.0	80.0	13298.763	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13309.665	2.0	trials	no_tone					True	5.0	13310.665	0.01	True	100.0	12.0	13310.615000000002	13310.965	whisker	350.0	A1	False		False	5.0
+13320.385	2.0	trials	no_tone					True	5.0	13321.385	0.01	False					nolight	0.0	nan	False		False	5.0
+13331.434	2.0	trials	nogo_tone	4000.0	80.0	13331.434	0.1	True	5.0	13332.434	0.01	False					nolight	0.0	nan	False		False	3.0
+13342.394	2.0	trials	nogo_tone	4000.0	80.0	13342.394	0.1	True	5.0	13343.394	0.01	False					nolight	0.0	nan	False		False	3.0
+13353.769	2.0	trials	go_tone	8000.0	80.0	13353.769	0.1	True	5.0	13354.769	0.01	False					nolight	0.0	nan	True	13357.19	False	1.0
+13367.026	2.0	trials	go_tone	8000.0	80.0	13367.026	0.1	True	5.0	13368.026	0.01	False					nolight	0.0	nan	False		False	1.0
+13378.434	2.0	trials	nogo_tone	4000.0	80.0	13378.434	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13389.315	2.0	trials	nogo_tone	4000.0	80.0	13389.315	0.1	True	5.0	13390.315	0.01	True	100.0	12.0	13389.265000000001	13389.715	audio	450.0	A1	False		False	3.0
+13400.605	2.0	trials	go_tone	8000.0	80.0	13400.605	0.1	True	5.0	13401.605	0.01	True	100.0	12.0	13400.555	13401.005	audio	450.0	A1	True	13403.527	False	1.0
+13411.416	2.0	trials	nogo_tone	4000.0	80.0	13411.416	0.1	True	5.0	13412.416	0.01	False					nolight	0.0	nan	False		False	3.0
+13422.355	2.0	trials	no_tone					True	5.0	13423.355	0.01	False					nolight	0.0	nan	False		False	5.0
+13433.302	2.0	trials	nogo_tone	4000.0	80.0	13433.302	0.1	True	5.0	13434.302	0.01	True	100.0	12.0	13433.702	13434.252	delay	550.0	A1	False		False	3.0
+13443.996	2.0	trials	go_tone	8000.0	80.0	13443.996	0.1	False				True	100.0	12.0	13443.946	13444.395999999999	audio	450.0	A1	False		False	2.0
+13454.856	2.0	trials	go_tone	8000.0	80.0	13454.856	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13465.726	2.0	trials	nogo_tone	4000.0	80.0	13465.726	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13476.416	2.0	trials	go_tone	8000.0	80.0	13476.416	0.1	False				True	100.0	12.0	13476.815999999999	13477.366	delay	550.0	A1	False		False	2.0
+13487.678	2.0	trials	go_tone	8000.0	80.0	13487.678	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13498.448	2.0	trials	no_tone					True	5.0	13499.448	0.01	True	100.0	12.0	13498.848	13499.398000000001	delay	550.0	A1	False		False	5.0
+13509.398	2.0	trials	no_tone					True	5.0	13510.398	0.01	False					nolight	0.0	nan	False		False	5.0
+13520.029	2.0	trials	go_tone	8000.0	80.0	13520.029	0.1	True	5.0	13521.029	0.01	True	100.0	12.0	13520.429	13520.979000000001	delay	550.0	A1	False		False	1.0
+13531.029	2.0	trials	no_tone					True	5.0	13532.029	0.01	False					nolight	0.0	nan	False		False	5.0
+13542.169	2.0	trials	go_tone	8000.0	80.0	13542.169	0.1	False				False					nolight	0.0	nan	True	13544.838	False	2.0
+13552.998	2.0	trials	go_tone	8000.0	80.0	13552.998	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13564.348	2.0	trials	nogo_tone	4000.0	80.0	13564.348	0.1	True	5.0	13565.348	0.01	False					nolight	0.0	nan	False		False	3.0
+13575.549	2.0	trials	no_tone					True	5.0	13576.549	0.01	True	100.0	12.0	13575.499000000002	13575.949	audio	450.0	A1	False		False	5.0
+13586.178	2.0	trials	go_tone	8000.0	80.0	13586.178	0.1	True	5.0	13587.178	0.01	False					nolight	0.0	nan	False		False	1.0
+13597.169	2.0	trials	no_tone					True	5.0	13598.169	0.01	True	100.0	12.0	13597.119	13597.569	audio	450.0	A1	False		False	5.0
+13607.93	2.0	trials	nogo_tone	4000.0	80.0	13607.93	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13619.219	2.0	trials	nogo_tone	4000.0	80.0	13619.219	0.1	True	5.0	13620.219	0.01	False					nolight	0.0	nan	False		False	3.0
+13630.107	2.0	trials	go_tone	8000.0	80.0	13630.107	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13641.185	2.0	trials	no_tone					True	5.0	13642.185	0.01	False					nolight	0.0	nan	False		False	5.0
+13652.61	2.0	trials	go_tone	8000.0	80.0	13652.61	0.1	True	5.0	13653.61	0.01	False					nolight	0.0	nan	True	13655.365	False	1.0
+13663.36	2.0	trials	go_tone	8000.0	80.0	13663.36	0.1	True	5.0	13664.36	0.01	False					nolight	0.0	nan	False		False	1.0
+13674.181	2.0	trials	no_tone					True	5.0	13675.181	0.01	False					nolight	0.0	nan	True	13676.060000000001	True	5.0
+13686.07	2.0	trials	no_tone					True	5.0	13687.07	0.01	False					nolight	0.0	nan	False		False	5.0
+13697.44	2.0	trials	go_tone	8000.0	80.0	13697.44	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13708.632	2.0	trials	go_tone	8000.0	80.0	13708.632	0.1	True	5.0	13709.632	0.01	False					nolight	0.0	nan	True	13711.353	False	1.0
+13719.872	2.0	trials	nogo_tone	4000.0	80.0	13719.872	0.1	True	5.0	13720.872	0.01	True	100.0	12.0	13720.822	13721.171999999999	whisker	350.0	A1	False		False	3.0
+13731.272	2.0	trials	go_tone	8000.0	80.0	13731.272	0.1	False				False					nolight	0.0	nan	True	13734.242	False	2.0
+13742.412	2.0	trials	go_tone	8000.0	80.0	13742.412	0.1	True	5.0	13743.412	0.01	False					nolight	0.0	nan	False		False	1.0
+13753.221	2.0	trials	nogo_tone	4000.0	80.0	13753.221	0.1	True	5.0	13754.221	0.01	False					nolight	0.0	nan	False		False	3.0
+13764.421	2.0	trials	no_tone					True	5.0	13765.421	0.01	True	100.0	12.0	13765.371000000001	13765.721	whisker	350.0	A1	True	13765.045	True	5.0
+13775.051	2.0	trials	no_tone					True	5.0	13776.051	0.01	True	100.0	12.0	13776.001	13776.350999999999	whisker	350.0	A1	False		False	5.0
+13785.793	2.0	trials	no_tone					True	5.0	13786.793	0.01	False					nolight	0.0	nan	False		False	5.0
+13797.173	2.0	trials	go_tone	8000.0	80.0	13797.173	0.1	True	5.0	13798.173	0.01	True	100.0	12.0	13798.123000000001	13798.473	whisker	350.0	A1	False		False	1.0
+13808.333	2.0	trials	go_tone	8000.0	80.0	13808.333	0.1	True	5.0	13809.333	0.01	False					nolight	0.0	nan	True	13811.152	False	1.0
+13819.962	2.0	trials	go_tone	8000.0	80.0	13819.962	0.1	False				True	100.0	12.0	13819.912	13820.362	audio	450.0	A1	False		False	2.0
+13830.606	2.0	trials	nogo_tone	4000.0	80.0	13830.606	0.1	False				True	100.0	12.0	13831.556	13831.905999999999	whisker	350.0	A1	False		False	4.0
+13841.754	2.0	trials	nogo_tone	4000.0	80.0	13841.754	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13853.302	2.0	trials	no_tone					True	5.0	13854.302	0.01	False					nolight	0.0	nan	False		False	5.0
+13864.614	2.0	trials	nogo_tone	4000.0	80.0	13864.614	0.1	False				False					nolight	0.0	nan	False		False	4.0
+13875.303	2.0	trials	no_tone					True	5.0	13876.303	0.01	False					nolight	0.0	nan	False		False	5.0
+13887.835	2.0	trials	go_tone	8000.0	80.0	13887.835	0.1	True	5.0	13888.835	0.01	True	100.0	12.0	13887.785	13888.234999999999	audio	450.0	A1	True	13890.520999999999	False	1.0
+13898.474	2.0	trials	nogo_tone	4000.0	80.0	13898.474	0.1	True	5.0	13899.474	0.01	False					nolight	0.0	nan	False		False	3.0
+13909.664	2.0	trials	go_tone	8000.0	80.0	13909.664	0.1	False				False					nolight	0.0	nan	True	13911.988000000001	True	2.0
+13921.994	2.0	trials	go_tone	8000.0	80.0	13921.994	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13933.184	2.0	trials	go_tone	8000.0	80.0	13933.184	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13943.787	2.0	trials	nogo_tone	4000.0	80.0	13943.787	0.1	False				True	100.0	12.0	13943.737000000001	13944.187	audio	450.0	A1	False		False	4.0
+13954.635	2.0	trials	no_tone					True	5.0	13955.635	0.01	False					nolight	0.0	nan	False		False	5.0
+13966.036	2.0	trials	no_tone					True	5.0	13967.036	0.01	True	100.0	12.0	13966.436	13966.986	delay	550.0	A1	False		False	5.0
+13977.445	2.0	trials	go_tone	8000.0	80.0	13977.445	0.1	False				True	100.0	12.0	13977.845	13978.395	delay	550.0	A1	False		False	2.0
+13988.325	2.0	trials	go_tone	8000.0	80.0	13988.325	0.1	False				False					nolight	0.0	nan	False		False	2.0
+13999.165	2.0	trials	go_tone	8000.0	80.0	13999.165	0.1	True	5.0	14000.165	0.01	True	100.0	12.0	13999.565	14000.115000000002	delay	550.0	A1	True	14001.892000000002	False	1.0
+14011.117	2.0	trials	nogo_tone	4000.0	80.0	14011.117	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14021.867	2.0	trials	nogo_tone	4000.0	80.0	14021.867	0.1	True	5.0	14022.867	0.01	True	100.0	12.0	14022.267	14022.817000000001	delay	550.0	A1	False		False	3.0
+14033.376	2.0	trials	nogo_tone	4000.0	80.0	14033.376	0.1	False				True	100.0	12.0	14033.776	14034.326000000001	delay	550.0	A1	False		False	4.0
+14044.427	2.0	trials	nogo_tone	4000.0	80.0	14044.427	0.1	True	5.0	14045.427	0.01	False					nolight	0.0	nan	False		False	3.0
+14055.694	2.0	trials	go_tone	8000.0	80.0	14055.694	0.1	False				True	100.0	12.0	14056.644	14056.993999999999	whisker	350.0	A1	True	14058.442	False	2.0
+14066.987	2.0	trials	nogo_tone	4000.0	80.0	14066.987	0.1	True	5.0	14067.987	0.01	False					nolight	0.0	nan	True	14069.806999999999	False	3.0
+14078.218	2.0	trials	nogo_tone	4000.0	80.0	14078.218	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14089.068	2.0	trials	nogo_tone	4000.0	80.0	14089.068	0.1	True	5.0	14090.068	0.01	True	100.0	12.0	14089.018	14089.467999999999	audio	450.0	A1	True	14091.836	False	3.0
+14099.666	2.0	trials	nogo_tone	4000.0	80.0	14099.666	0.1	True	5.0	14100.666	0.01	False					nolight	0.0	nan	False		False	3.0
+14111.107	2.0	trials	nogo_tone	4000.0	80.0	14111.107	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14122.009	2.0	trials	go_tone	8000.0	80.0	14122.009	0.1	True	5.0	14123.009	0.01	False					nolight	0.0	nan	False		False	1.0
+14132.837	2.0	trials	go_tone	8000.0	80.0	14132.837	0.1	True	5.0	14133.837	0.01	False					nolight	0.0	nan	True	14135.592999999999	False	1.0
+14144.399	2.0	trials	nogo_tone	4000.0	80.0	14144.399	0.1	True	5.0	14145.399	0.01	True	100.0	12.0	14144.798999999999	14145.349	delay	550.0	A1	False		False	3.0
+14155.589	2.0	trials	nogo_tone	4000.0	80.0	14155.589	0.1	True	5.0	14156.589	0.01	True	100.0	12.0	14156.539	14156.889	whisker	350.0	A1	False		False	3.0
+14166.5	2.0	trials	go_tone	8000.0	80.0	14166.5	0.1	False				False					nolight	0.0	nan	True	14169.493	False	2.0
+14177.466	2.0	trials	go_tone	8000.0	80.0	14177.466	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14188.85	2.0	trials	nogo_tone	4000.0	80.0	14188.85	0.1	False				False					nolight	0.0	nan	True	14189.386	True	4.0
+14199.39	2.0	trials	nogo_tone	4000.0	80.0	14199.39	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14210.789	2.0	trials	no_tone					True	5.0	14211.789	0.01	False					nolight	0.0	nan	False		False	5.0
+14221.753	2.0	trials	nogo_tone	4000.0	80.0	14221.753	0.1	True	5.0	14222.753	0.01	False					nolight	0.0	nan	False		False	3.0
+14232.919	2.0	trials	nogo_tone	4000.0	80.0	14232.919	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14244.111	2.0	trials	nogo_tone	4000.0	80.0	14244.111	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14255.459	2.0	trials	nogo_tone	4000.0	80.0	14255.459	0.1	True	5.0	14256.459	0.01	False					nolight	0.0	nan	False		False	3.0
+14267.021	2.0	trials	nogo_tone	4000.0	80.0	14267.021	0.1	True	5.0	14268.021	0.01	False					nolight	0.0	nan	False		False	3.0
+14278.39	2.0	trials	nogo_tone	4000.0	80.0	14278.39	0.1	False				True	100.0	12.0	14279.34	14279.689999999999	whisker	350.0	A1	False		False	4.0
+14289.191	2.0	trials	go_tone	8000.0	80.0	14289.191	0.1	False				True	100.0	12.0	14289.141000000001	14289.591	audio	450.0	A1	True	14291.715	True	2.0
+14301.721	2.0	trials	go_tone	8000.0	80.0	14301.721	0.1	False				True	100.0	12.0	14301.671	14302.121	audio	450.0	A1	False		False	2.0
+14312.702	2.0	trials	no_tone					True	5.0	14313.702	0.01	False					nolight	0.0	nan	False		False	5.0
+14323.682	2.0	trials	no_tone					True	5.0	14324.682	0.01	False					nolight	0.0	nan	False		False	5.0
+14334.322	2.0	trials	nogo_tone	4000.0	80.0	14334.322	0.1	True	5.0	14335.322	0.01	True	100.0	12.0	14334.272	14334.722	audio	450.0	A1	False		False	3.0
+14345.661	2.0	trials	nogo_tone	4000.0	80.0	14345.661	0.1	False				True	100.0	12.0	14346.061	14346.611	delay	550.0	A1	False		False	4.0
+14356.691	2.0	trials	no_tone					True	5.0	14357.691	0.01	False					nolight	0.0	nan	True	14359.266000000001	False	5.0
+14367.943	2.0	trials	no_tone					True	5.0	14368.943	0.01	False					nolight	0.0	nan	False		False	5.0
+14378.903	2.0	trials	nogo_tone	4000.0	80.0	14378.903	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14390.021	2.0	trials	go_tone	8000.0	80.0	14390.021	0.1	True	5.0	14391.021	0.01	False					nolight	0.0	nan	True	14392.77	False	1.0
+14405.683	2.0	trials	go_tone	8000.0	80.0	14405.683	0.1	True	5.0	14406.683	0.01	False					nolight	0.0	nan	True	14406.971000000001	True	1.0
+14416.973	2.0	trials	go_tone	8000.0	80.0	14416.973	0.1	True	5.0	14417.973	0.01	False					nolight	0.0	nan	False		False	1.0
+14428.032	2.0	trials	nogo_tone	4000.0	80.0	14428.032	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14439.592	2.0	trials	go_tone	8000.0	80.0	14439.592	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14450.443	2.0	trials	go_tone	8000.0	80.0	14450.443	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14461.164	2.0	trials	go_tone	8000.0	80.0	14461.164	0.1	True	5.0	14462.164	0.01	False					nolight	0.0	nan	True	14463.824	False	1.0
+14471.983	2.0	trials	no_tone					True	5.0	14472.983	0.01	True	100.0	12.0	14471.933	14472.383	audio	450.0	A1	False		False	5.0
+14482.593	2.0	trials	go_tone	8000.0	80.0	14482.593	0.1	False				True	100.0	12.0	14482.993	14483.543000000001	delay	550.0	A1	False		False	2.0
+14493.365	2.0	trials	nogo_tone	4000.0	80.0	14493.365	0.1	True	5.0	14494.365	0.01	False					nolight	0.0	nan	False		False	3.0
+14504.713	2.0	trials	go_tone	8000.0	80.0	14504.713	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14516.045	2.0	trials	nogo_tone	4000.0	80.0	14516.045	0.1	True	5.0	14517.045	0.01	False					nolight	0.0	nan	False		False	3.0
+14526.811	2.0	trials	go_tone	8000.0	80.0	14526.811	0.1	True	5.0	14527.811	0.01	True	100.0	12.0	14526.761	14527.211	audio	450.0	A1	False		False	1.0
+14538.146	2.0	trials	nogo_tone	4000.0	80.0	14538.146	0.1	True	5.0	14539.146	0.01	False					nolight	0.0	nan	False		False	3.0
+14579.147	2.0	trials	nogo_tone	4000.0	80.0	14579.147	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14590.226	2.0	trials	go_tone	8000.0	80.0	14590.226	0.1	True	5.0	14591.226	0.01	True	100.0	12.0	14591.176000000001	14591.526	whisker	350.0	A1	True	14593.284000000001	False	1.0
+14601.337	2.0	trials	go_tone	8000.0	80.0	14601.337	0.1	True	5.0	14602.337	0.01	False					nolight	0.0	nan	False		False	1.0
+14612.506	2.0	trials	nogo_tone	4000.0	80.0	14612.506	0.1	False				True	100.0	12.0	14612.456	14612.905999999999	audio	450.0	A1	False		False	4.0
+14624.015	2.0	trials	go_tone	8000.0	80.0	14624.015	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14634.736	2.0	trials	go_tone	8000.0	80.0	14634.736	0.1	True	5.0	14635.736	0.01	True	100.0	12.0	14635.136	14635.686000000002	delay	550.0	A1	False		False	1.0
+14645.637	2.0	trials	go_tone	8000.0	80.0	14645.637	0.1	True	5.0	14646.637	0.01	False					nolight	0.0	nan	False		False	1.0
+14657.028	2.0	trials	no_tone					True	5.0	14658.028	0.01	True	100.0	12.0	14657.428	14657.978000000001	delay	550.0	A1	False		False	5.0
+14668.076	2.0	trials	no_tone					True	5.0	14669.076	0.01	True	100.0	12.0	14669.026	14669.375999999998	whisker	350.0	A1	False		False	5.0
+14679.218	2.0	trials	go_tone	8000.0	80.0	14679.218	0.1	False				True	100.0	12.0	14680.168000000001	14680.518	whisker	350.0	A1	False		False	2.0
+14690.678	2.0	trials	no_tone					True	5.0	14691.678	0.01	False					nolight	0.0	nan	False		False	5.0
+14701.698	2.0	trials	go_tone	8000.0	80.0	14701.698	0.1	False				False					nolight	0.0	nan	False		False	2.0
+14713.239	2.0	trials	go_tone	8000.0	80.0	14713.239	0.1	True	5.0	14714.239	0.01	False					nolight	0.0	nan	True	14713.827	True	1.0
+14723.827	2.0	trials	go_tone	8000.0	80.0	14723.827	0.1	True	5.0	14724.827	0.01	False					nolight	0.0	nan	True	14726.107	True	1.0
+14736.109	2.0	trials	go_tone	8000.0	80.0	14736.109	0.1	True	5.0	14737.109	0.01	False					nolight	0.0	nan	False		False	1.0
+14746.939	2.0	trials	nogo_tone	4000.0	80.0	14746.939	0.1	False				False					nolight	0.0	nan	False		False	4.0
+14757.708	2.0	trials	go_tone	8000.0	80.0	14757.708	0.1	True	5.0	14758.708	0.01	True	100.0	12.0	14758.108	14758.658000000001	delay	550.0	A1	False		False	1.0
+14768.568	2.0	trials	go_tone	8000.0	80.0	14768.568	0.1	True	5.0	14769.568	0.01	False					nolight	0.0	nan	False		False	1.0
+14779.61	2.0	trials	nogo_tone	4000.0	80.0	14779.61	0.1	True	5.0	14780.61	0.01	False					nolight	0.0	nan	False		False	3.0
+14790.28	2.0	trials	nogo_tone	4000.0	80.0	14790.28	0.1	False				True	100.0	12.0	14790.68	14791.230000000001	delay	550.0	A1	True	14790.738000000001	True	4.0
+14800.748	2.0	trials	nogo_tone	4000.0	80.0	14800.748	0.1	False				True	100.0	12.0	14801.148	14801.698	delay	550.0	A1	False		False	4.0
+14812.258	2.0	trials	go_tone	8000.0	80.0	14812.258	0.1	False				True	100.0	12.0	14812.658	14813.208	delay	550.0	A1	False		False	2.0
+14823.159	2.0	trials	go_tone	8000.0	80.0	14823.159	0.1	True	5.0	14824.159	0.01	True	100.0	12.0	14824.109	14824.458999999999	whisker	350.0	A1	False		False	1.0
+14834.621	2.0	trials	nogo_tone	4000.0	80.0	14834.621	0.1	False				True	100.0	12.0	14834.571	14835.020999999999	audio	450.0	A1	False		False	4.0
+14846.881	2.0	trials	nogo_tone	4000.0	80.0	14846.881	0.1	True	5.0	14847.881	0.01	True	100.0	12.0	14846.831	14847.280999999999	audio	450.0	A1	False		False	3.0
+14857.449	2.0	trials	no_tone					True	5.0	14858.449	0.01	False					nolight	0.0	nan	False		False	5.0
+14868.51	2.0	trials	go_tone	8000.0	80.0	14868.51	0.1	False				True	100.0	12.0	14869.460000000001	14869.81	whisker	350.0	A1	False		False	2.0
+14879.171	2.0	trials	go_tone	8000.0	80.0	14879.171	0.1	True	5.0	14880.171	0.01	False					nolight	0.0	nan	False		False	1.0
+14889.9	2.0	trials	go_tone	8000.0	80.0	14889.9	0.1	True	5.0	14890.9	0.01	False					nolight	0.0	nan	False		False	1.0
+14900.75	2.0	trials	no_tone					True	5.0	14901.75	0.01	True	100.0	12.0	14901.7	14902.05	whisker	350.0	A1	False		False	5.0
+14911.88	2.0	trials	no_tone					True	5.0	14912.88	0.01	False					nolight	0.0	nan	False		False	5.0
