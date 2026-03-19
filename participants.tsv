@@ -1,22 +1,22 @@
-participant_id	species	sex
-sub-PG019	Mus musculus	F
-sub-PG021	Mus musculus	M, F
-sub-PG027	Mus musculus	M
-sub-PG028	Mus musculus	M
-sub-PG030	Mus musculus	F
-sub-PG032	Mus musculus	F
-sub-PG038	Mus musculus	F
-sub-PG057	Mus musculus	F
-sub-PG059	Mus musculus	M
-sub-PG061	Mus musculus	M, F
-sub-PG062	Mus musculus	F
-sub-PG063	Mus musculus	M
-sub-PG064	Mus musculus	M
-sub-PG067	Mus musculus	M
-sub-PG069	Mus musculus	M
-sub-PG070	Mus musculus	M
-sub-PG076	Mus musculus	M
-sub-PG082	Mus musculus	F
-sub-PG083	Mus musculus	F
-sub-PG084	Mus musculus	F
-sub-PG085	Mus musculus	F
+participant_id	original_participant_id	species	sex
+sub-PG019	sub-PG019	Mus musculus	F
+sub-PG021	sub-PG021	Mus musculus	M, F
+sub-PG027	sub-PG027	Mus musculus	M
+sub-PG028	sub-PG028	Mus musculus	M
+sub-PG030	sub-PG030	Mus musculus	F
+sub-PG032	sub-PG032	Mus musculus	F
+sub-PG038	sub-PG038	Mus musculus	F
+sub-PG057	sub-PG057	Mus musculus	F
+sub-PG059	sub-PG059	Mus musculus	M
+sub-PG061	sub-PG061	Mus musculus	M, F
+sub-PG062	sub-PG062	Mus musculus	F
+sub-PG063	sub-PG063	Mus musculus	M
+sub-PG064	sub-PG064	Mus musculus	M
+sub-PG067	sub-PG067	Mus musculus	M
+sub-PG069	sub-PG069	Mus musculus	M
+sub-PG070	sub-PG070	Mus musculus	M
+sub-PG076	sub-PG076	Mus musculus	M
+sub-PG082	sub-PG082	Mus musculus	F
+sub-PG083	sub-PG083	Mus musculus	F
+sub-PG084	sub-PG084	Mus musculus	F
+sub-PG085	sub-PG085	Mus musculus	F

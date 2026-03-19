@@ -1,4 +1,4 @@
-session_id
-ses-sub+PG083+ses+20221125T180851
-ses-sub+PG083+ses+20221129T153120
-ses-sub+PG083+ses+20221130T230127
+session_id	original_session_id
+ses-sub+PG083+ses+20221125T180851	ses-sub-PG083_ses-20221125T180851
+ses-sub+PG083+ses+20221129T153120	ses-sub-PG083_ses-20221129T153120
+ses-sub+PG083+ses+20221130T230127	ses-sub-PG083_ses-20221130T230127
