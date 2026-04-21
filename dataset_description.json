@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Neuropixel date recorded ...",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "ghaderi, parviz"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
